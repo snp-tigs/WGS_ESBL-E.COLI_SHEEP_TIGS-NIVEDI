@@ -1,5 +1,5 @@
-# WGS_ESBL-E.COLI_SHEEP_TIGS-NIVEDI
-Whole-genome analysis reveals exchange of ESBL-E. coli genomes between migratory sheep and surrounding farm environments
+# Whole-genome analysis reveals exchange of ESBL-E. coli genomes between migratory sheep and surrounding farm environments
+
 
 This repository contains the analytical pipeline and visualization scripts used to investigate the occurrence, genomic characteristics, and antimicrobial resistance (AMR) profiles of ESBL-producing E. coli in migratory sheep and their environments in South Karnataka, India.
 
