@@ -8,20 +8,20 @@ The code supports a cross-sectional OneHealth study (2023–2025) involving WGS 
 Core Analytical Modules
 1. Data Normalization & Quantitation
 
-Normalisation_ARGs_copy_no_per_genome.py: Calculates the abundance of Antimicrobial Resistance Genes (ARGs) by normalizing copy numbers per bacterial genome, allowing for quantitative comparison across diverse sheep and environmental samples.
+Normalisation_ARGs_copy_no_per_genome.py: Calculates the abundance of Antimicrobial Resistance Genes (ARGs) by normalizing copy numbers per bacterial genome
 
-Normalisation_ARGs_Vir_genes_copy_no_per_genome.py: Extends the normalization logic to include Virulence Factors (VFs), facilitating the study of the "pathobiome" and the public health risks associated with stx-carrying isolates.
+Normalisation_ARGs_Vir_genes_copy_no_per_genome.py: Extends the normalization logic to include Virulence Factors (VFs)
 
 2. Diversity & Ecological Analysis
    
-Alpha_diversity_plot.py: Computes and visualizes the within-sample diversity of the resistomes and lineages, helping to compare the microbial complexity between sedentary and migratory livestock environments.
+Alpha_diversity_plot.py: visualizes Alpha diversity of ARGs, Drug classes and Virulence genes
 
 4. Statistical Visualization (Results Reproduction)
 
-Figure 2 and 3.R: R-based scripts for generating core comparative figures, likely focusing on the distribution of ESBL variants (CTX-M, TEM, etc.) and phenotypic resistance patterns across the 60 sampled farms.
+Figure 2 and 3.R: R-based scripts for generating core comparative figures
 
-Figure 4 to 7.R: Advanced visualization scripts for comparative genomics, plasmid replicon distribution, and phylogenetic lineages, highlighting the horizontal gene transfer at the livestock-environment interface.
+Figure 4 to 7.R: R-based scripts for genetation figures from 4 to 7
 
 4. Geospatial Documentation
 
-Sample_sites_map_graphical_abstract.py: A Python workflow (using geopandas and matplotlib) to generate high-resolution maps of the South Karnataka study area. This script produces the spatial context for the 701 samples collected, specifically designed for the paper's graphical abstract.
+Sample_sites_map_graphical_abstract.py: A Python workflow (using geopandas and matplotlib) to generate high-resolution maps (Figure 1) of the South Karnataka study area which includes sampling coordinates in Tumakuru and Chitradurga. 
