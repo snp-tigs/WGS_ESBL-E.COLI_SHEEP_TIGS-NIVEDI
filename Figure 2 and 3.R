@@ -7,7 +7,7 @@ library(readr)
 library(RColorBrewer)
 library(grid)
 
-#laoding data
+#loading data
 df <- read_delim("/mnt/406A19506A1943D6/TIGS_NIVEDI/Main Figures_4_Feb_2026/Figure_2_3/wgs_72_Figure_2_3_Final_10022026.tsv", delim = "\t")
 
 #gene groups
