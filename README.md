@@ -30,5 +30,5 @@ To reproduce the updated figures from `Submission_2`:
 
 | Name | Role | Affiliation | Contact |
 | :--- | :--- | :--- | :--- |
-| **Shivranjani C Moharir** | Senior Scientist | Tata Institute for Genetics and Society (TIGS), Bangalore | 📧 [shivranjani.c@tigs.res.in](mailto:shivranjani.c@tigs.res.in) |
+| **Shivranjani C Moharir, Ph.D.** | Senior Scientist | Tata Institute for Genetics and Society (TIGS), Bangalore | 📧 [shivranjani.c@tigs.res.in](mailto:shivranjani.c@tigs.res.in) |
 | **Manas Madhukar** | Ph.D. Student | Tata Institute for Genetics and Society (TIGS), Bangalore | 📧 [manas.madhukar@tigs.res.in](mailto:manas.madhukar@tigs.res.in) |
