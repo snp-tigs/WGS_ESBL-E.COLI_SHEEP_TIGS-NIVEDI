@@ -1,0 +1,408 @@
+Months,Year,District,Village ID,Sample Type,Sample ID,Gene
+JUNE,2024,Tumkur,PV1,Rectal swab,3,int
+JUNE,2024,Tumkur,PV1,Rectal swab,3,sitA
+JUNE,2024,Tumkur,PV1,Rectal swab,3,sitB
+JUNE,2024,Tumkur,PV1,Rectal swab,3,sitC
+JUNE,2024,Tumkur,PV1,Rectal swab,3,sitD
+JUNE,2024,Tumkur,PV1,Rectal swab,3,iucA
+JUNE,2024,Tumkur,PV1,Rectal swab,3,iucB
+JUNE,2024,Tumkur,PV1,Rectal swab,3,iucC
+JUNE,2024,Tumkur,PV1,Rectal swab,3,iucD
+JUNE,2024,Tumkur,PV1,Rectal swab,3,iutA
+JUNE,2024,Tumkur,PV1,Rectal swab,3,ccdb
+MAY,2024,Tumkur,MD,Rectal swab,7,cfa
+MAY,2024,Tumkur,MD,Rectal swab,7,cba
+MAY,2024,Tumkur,MD,Rectal swab,7,cma
+MAY,2024,Tumkur,MD,Rectal swab,7,hlyD
+MAY,2024,Tumkur,MD,Rectal swab,7,hlyB
+MAY,2024,Tumkur,MD,Rectal swab,7,hlyA
+MAY,2024,Tumkur,MD,Rectal swab,7,hlyC
+MAY,2024,Tumkur,MD,Rectal swab,7,csa
+MAY,2024,Tumkur,MD,Rectal swab,7,cei
+OCTOBER,2024,Tumkur,PV2,Rectal swab,9,mchf
+OCTOBER,2024,Tumkur,PV2,Rectal swab,9,mclc
+OCTOBER,2024,Tumkur,PV2,Rectal swab,9,csa
+OCTOBER,2024,Tumkur,PV2,Rectal swab,9,trat
+OCTOBER,2024,Tumkur,PV2,Rectal swab,9,trat
+OCTOBER,2024,Tumkur,PV2,Rectal swab,9,cba
+OCTOBER,2024,Tumkur,PV2,Rectal swab,9,cma
+OCTOBER,2024,Tumkur,PV2,Rectal swab,9,hlyD
+OCTOBER,2024,Tumkur,PV2,Rectal swab,9,hlyB
+OCTOBER,2024,Tumkur,PV2,Rectal swab,9,hlyA
+OCTOBER,2024,Tumkur,PV2,Rectal swab,9,hlyC
+MAY,2024,Tumkur,NR,Rectal swab,11,int
+JUNE,2024,Tumkur,PV1,Rectal swab,13,csa
+JUNE,2024,Tumkur,PV1,Rectal swab,13,senB
+JUNE,2024,Tumkur,PV1,Rectal swab,13,trat
+JUNE,2024,Tumkur,PV1,Rectal swab,13,cka
+JUNE,2024,Tumkur,PV1,Rectal swab,13,cba
+JUNE,2024,Tumkur,PV1,Rectal swab,13,cma
+JUNE,2024,Tumkur,PV1,Rectal swab,13,hlyD
+JUNE,2024,Tumkur,PV1,Rectal swab,13,hlyB
+JUNE,2024,Tumkur,PV1,Rectal swab,13,hlyA
+JUNE,2024,Tumkur,PV1,Rectal swab,13,hlyC
+JULY,2024,Tumkur,AE,Rectal swab,14,c3610
+JULY,2024,Tumkur,AE,Rectal swab,14,hlyC
+JULY,2024,Tumkur,AE,Rectal swab,14,hlyA
+JULY,2024,Tumkur,AE,Rectal swab,14,hlyB
+JULY,2024,Tumkur,AE,Rectal swab,14,hlyD
+JULY,2024,Tumkur,AE,Rectal swab,14,ccdb
+JULY,2024,Tumkur,AE,Rectal swab,14,trat
+JULY,2024,Tumkur,AE,Rectal swab,14,espP
+JULY,2024,Tumkur,AE,Rectal swab,14,mccb
+MAY,2024,Tumkur,HR,Rectal swab,15,int
+MAY,2024,Tumkur,HR,Rectal swab,15,cma
+MAY,2024,Tumkur,HR,Rectal swab,15,cba
+MAY,2024,Tumkur,HR,Rectal swab,15,csa
+MAY,2024,Tumkur,HR,Rectal swab,15,trat
+MAY,2024,Tumkur,HR,Rectal swab,15,hlyC
+MAY,2024,Tumkur,HR,Rectal swab,15,hlyA
+MAY,2024,Tumkur,HR,Rectal swab,15,hlyB
+MAY,2024,Tumkur,HR,Rectal swab,15,hlyD
+MAY,2024,Tumkur,HR,Rectal swab,15,aatA
+JULY,2023,Chitradurga,BA,Rectal swab,17,int
+JULY,2023,Chitradurga,BA,Rectal swab,17,traJ
+JULY,2023,Chitradurga,BA,Rectal swab,17,trat
+JULY,2023,Chitradurga,BA,Rectal swab,17,afrC
+JULY,2023,Chitradurga,BA,Rectal swab,17,fedB
+JULY,2024,Tumkur,LK,Rectal swab,18,hlyC
+JULY,2024,Tumkur,LK,Rectal swab,18,hlyA
+JULY,2024,Tumkur,LK,Rectal swab,18,hlyB
+JULY,2024,Tumkur,LK,Rectal swab,18,hlyD
+JULY,2024,Tumkur,LK,Rectal swab,18,cma
+JULY,2024,Tumkur,LK,Rectal swab,18,cba
+JULY,2024,Tumkur,LK,Rectal swab,18,csa
+JULY,2024,Tumkur,LK,Rectal swab,18,senB
+JULY,2024,Tumkur,LK,Rectal swab,18,trat
+JULY,2024,Tumkur,LK,Rectal swab,18,cka
+JULY,2024,Tumkur,LK,Rectal swab,20,ccdb
+JULY,2024,Tumkur,LK,Rectal swab,20,trat
+MAY,2024,Tumkur,MD,Rectal swab,21,ccdb
+MAY,2024,Tumkur,MD,Rectal swab,21,int
+JULY,2024,Tumkur,LK,Rectal swab,22,cka
+JULY,2024,Tumkur,LK,Rectal swab,22,cba
+JULY,2024,Tumkur,LK,Rectal swab,22,cma
+JULY,2024,Tumkur,LK,Rectal swab,22,hlyD
+JULY,2024,Tumkur,LK,Rectal swab,22,hlyB
+JULY,2024,Tumkur,LK,Rectal swab,22,hlyA
+JULY,2024,Tumkur,LK,Rectal swab,22,hlyC
+JULY,2024,Tumkur,LK,Rectal swab,22,trat
+JULY,2024,Tumkur,LK,Rectal swab,22,senB
+JULY,2024,Tumkur,LK,Rectal swab,22,csa
+JUNE,2024,Tumkur,PV1,Rectal swab,23,ccdb
+JUNE,2024,Tumkur,PV1,Rectal swab,23,trat
+JUNE,2024,Tumkur,PV1,Rectal swab,23,traJ
+JUNE,2024,Tumkur,PV2,Rectal swab,24,int
+JUNE,2024,Tumkur,PV2,Rectal swab,24,trat
+JUNE,2024,Tumkur,PV2,Rectal swab,24,ccdb
+JUNE,2024,Tumkur,PV2,Rectal swab,24,sitA
+JUNE,2024,Tumkur,PV2,Rectal swab,24,sitB
+JUNE,2024,Tumkur,PV2,Rectal swab,24,sitC
+JUNE,2024,Tumkur,PV2,Rectal swab,24,sitD
+JUNE,2024,Tumkur,PV2,Rectal swab,24,iucA
+JUNE,2024,Tumkur,PV2,Rectal swab,24,iucB
+JUNE,2024,Tumkur,PV2,Rectal swab,24,iucC
+JUNE,2024,Tumkur,PV2,Rectal swab,24,iucD
+JUNE,2024,Tumkur,PV2,Rectal swab,24,iutA
+MAY,2024,Tumkur,MD,Rectal swab,25,trat
+MAY,2024,Tumkur,MD,Rectal swab,25,cka
+MAY,2024,Tumkur,MD,Rectal swab,25,csa
+MAY,2024,Tumkur,MD,Rectal swab,25,senB
+MAY,2024,Tumkur,MD,Rectal swab,25,hlyD
+MAY,2024,Tumkur,MD,Rectal swab,25,hlyB
+MAY,2024,Tumkur,MD,Rectal swab,25,hlyA
+MAY,2024,Tumkur,MD,Rectal swab,25,hlyC
+MAY,2024,Tumkur,MD,Rectal swab,25,cma
+MAY,2024,Tumkur,MD,Rectal swab,25,cba
+MAY,2024,Tumkur,MD,Rectal swab,25,trat
+MAY,2024,Tumkur,MD,Rectal swab,25,traJ
+MAY,2024,Tumkur,MD,Rectal swab,25,cfa
+MAY,2024,Tumkur,MD,Rectal swab,25,ccdb
+MAY,2024,Tumkur,MD,Rectal swab,25,iroN
+MAY,2024,Tumkur,MD,Rectal swab,25,iroE
+MAY,2024,Tumkur,MD,Rectal swab,25,iroD
+MAY,2024,Tumkur,MD,Rectal swab,25,iroC
+MAY,2024,Tumkur,MD,Rectal swab,25,iroB
+JUNE,2024,Tumkur,KLA,Rectal swab,26,csa
+JUNE,2024,Tumkur,KLA,Rectal swab,26,cba
+JUNE,2024,Tumkur,KLA,Rectal swab,26,cma
+JUNE,2024,Tumkur,KLA,Rectal swab,26,hlyD
+JUNE,2024,Tumkur,KLA,Rectal swab,26,hlyB
+JUNE,2024,Tumkur,KLA,Rectal swab,26,hlyA
+JUNE,2024,Tumkur,KLA,Rectal swab,26,hlyC
+JUNE,2024,Tumkur,KLA,Rectal swab,26,cei
+JUNE,2024,Tumkur,PV2,Rectal swab,27,hlyC
+JUNE,2024,Tumkur,PV2,Rectal swab,27,hlyA
+JUNE,2024,Tumkur,PV2,Rectal swab,27,hlyB
+JUNE,2024,Tumkur,PV2,Rectal swab,27,hlyD
+JUNE,2024,Tumkur,PV2,Rectal swab,27,cma
+JUNE,2024,Tumkur,PV2,Rectal swab,27,cba
+JUNE,2024,Tumkur,PV2,Rectal swab,27,csa
+JUNE,2024,Tumkur,PV2,Rectal swab,27,trat
+MAY,2024,Tumkur,MD,Rectal swab,29,iutA
+MAY,2024,Tumkur,MD,Rectal swab,29,iucD
+MAY,2024,Tumkur,MD,Rectal swab,29,iucC
+MAY,2024,Tumkur,MD,Rectal swab,29,iucB
+MAY,2024,Tumkur,MD,Rectal swab,29,iucA
+MAY,2024,Tumkur,MD,Rectal swab,29,sitD
+MAY,2024,Tumkur,MD,Rectal swab,29,sitC
+MAY,2024,Tumkur,MD,Rectal swab,29,sitB
+MAY,2024,Tumkur,MD,Rectal swab,29,sitA
+MAY,2024,Tumkur,MD,Rectal swab,29,ccdb
+JULY,2024,Tumkur,LK,Rectal swab,32,aaiP
+JULY,2024,Tumkur,LK,Rectal swab,32,aaiO
+JULY,2024,Tumkur,LK,Rectal swab,32,aaiL
+JULY,2024,Tumkur,LK,Rectal swab,32,aaiK
+JULY,2024,Tumkur,LK,Rectal swab,32,aaiJ
+JULY,2024,Tumkur,LK,Rectal swab,32,aaiI
+JULY,2024,Tumkur,LK,Rectal swab,32,aaiH
+JULY,2024,Tumkur,LK,Rectal swab,32,vgrG
+JULY,2024,Tumkur,LK,Rectal swab,32,aaiF
+JULY,2024,Tumkur,LK,Rectal swab,32,aaiE
+JULY,2024,Tumkur,LK,Rectal swab,32,aaiD
+JULY,2024,Tumkur,LK,Rectal swab,32,aaiB
+JULY,2024,Tumkur,LK,Rectal swab,32,aaiA
+JULY,2024,Tumkur,LK,Rectal swab,32,hlyD
+JULY,2024,Tumkur,LK,Rectal swab,32,hlyB
+JULY,2024,Tumkur,LK,Rectal swab,32,hlyA
+JULY,2024,Tumkur,LK,Rectal swab,32,hlyC
+JULY,2024,Tumkur,LK,Rectal swab,32,csa
+JULY,2024,Tumkur,LK,Rectal swab,32,cei
+JULY,2024,Tumkur,LK,Rectal swab,32,ccdb
+JULY,2024,Tumkur,LK,Rectal swab,32,cma
+JULY,2024,Tumkur,LK,Rectal swab,32,cba
+JULY,2024,Tumkur,LK,Rectal swab,32,EcSMS35_B0007
+JULY,2024,Tumkur,LK,Rectal swab,32,ccdb
+JULY,2024,Tumkur,LK,Rectal swab,32,senB
+JULY,2024,Tumkur,LK,Rectal swab,32,int
+OCTOBER,2023,Chitradurga,DD,Rectal swab,33,int
+JUNE,2024,Tumkur,PV2,Rectal swab,34,CAA68592
+JUNE,2024,Tumkur,PV2,Rectal swab,34,ccdb
+JUNE,2024,Tumkur,PV1,Rectal swab,35,CAA68592
+JUNE,2024,Tumkur,PV1,Rectal swab,35,astA
+JUNE,2024,Tumkur,PV1,Rectal swab,35,ccdb
+JULY,2024,Tumkur,TL,Rectal swab,36,ccdb
+JULY,2023,Chitradurga,GN,Rectal swab,37,cib
+JULY,2023,Chitradurga,GN,Rectal swab,37,ccdb
+JULY,2023,Chitradurga,GN,Rectal swab,37,cofP
+JULY,2023,Chitradurga,GN,Rectal swab,37,cofJ
+JULY,2023,Chitradurga,GN,Rectal swab,37,cofI
+JULY,2023,Chitradurga,GN,Rectal swab,37,cofH
+JULY,2023,Chitradurga,GN,Rectal swab,37,cofG
+JULY,2023,Chitradurga,GN,Rectal swab,37,cofF
+JULY,2023,Chitradurga,GN,Rectal swab,37,cofE
+JULY,2023,Chitradurga,GN,Rectal swab,37,cofD
+JULY,2023,Chitradurga,GN,Rectal swab,37,cofC
+JULY,2023,Chitradurga,GN,Rectal swab,37,cofB
+JULY,2023,Chitradurga,GN,Rectal swab,37,cofT
+JULY,2023,Chitradurga,GN,Rectal swab,37,cofS
+JULY,2023,Chitradurga,GN,Rectal swab,37,cofR
+JULY,2023,Chitradurga,GN,Rectal swab,37,gafd
+JULY,2023,Chitradurga,GN,Rectal swab,37,f17d-C
+JULY,2023,Chitradurga,GN,Rectal swab,37,f17d-D
+JULY,2023,Chitradurga,GN,Rectal swab,37,f17b-a
+JULY,2023,Chitradurga,GN,Rectal swab,37,traJ
+JULY,2023,Chitradurga,GN,Rectal swab,37,trat
+DECEMBER,2023,Chitradurga,MDP,Rectal swab,40,ccdb
+DECEMBER,2023,Chitradurga,MDP,Rectal swab,40,traJ
+DECEMBER,2023,Chitradurga,MDP,Rectal swab,40,iutA
+DECEMBER,2023,Chitradurga,MDP,Rectal swab,40,iucD
+DECEMBER,2023,Chitradurga,MDP,Rectal swab,40,iucC
+DECEMBER,2023,Chitradurga,MDP,Rectal swab,40,iucB
+DECEMBER,2023,Chitradurga,MDP,Rectal swab,40,iucA
+DECEMBER,2023,Chitradurga,MDP,Rectal swab,40,cma
+MAY,2024,Tumkur,NR,Rectal swab,41,cba
+MAY,2024,Tumkur,NR,Rectal swab,41,cma
+MAY,2024,Tumkur,NR,Rectal swab,41,ccdb
+MAY,2024,Tumkur,NR,Rectal swab,41,senB
+MAY,2024,Tumkur,NR,Rectal swab,41,cei
+MAY,2024,Tumkur,NR,Rectal swab,41,int
+MAY,2024,Tumkur,NR,Rectal swab,41,trat
+MAY,2024,Tumkur,NR,Rectal swab,41,hlyC
+MAY,2024,Tumkur,NR,Rectal swab,41,hlyA
+MAY,2024,Tumkur,NR,Rectal swab,41,hlyB
+MAY,2024,Tumkur,NR,Rectal swab,41,hlyD
+MAY,2024,Tumkur,NR,Rectal swab,41,trat
+JANUARY,2025,Tumkur,SI,Rectal swab,43,ccdb
+JANUARY,2025,Tumkur,SI,Rectal swab,43,ireA
+JANUARY,2025,Tumkur,SI,Rectal swab,43,int
+JANUARY,2025,Tumkur,SI,Rectal swab,43,f17a-a
+JANUARY,2025,Tumkur,SI,Rectal swab,43,f17d-D
+JANUARY,2025,Tumkur,SI,Rectal swab,43,f17d-C
+JANUARY,2025,Tumkur,SI,Rectal swab,43,gafd
+JANUARY,2025,Tumkur,SI,Rectal swab,43,ccdb
+JANUARY,2025,Tumkur,SI,Rectal swab,43,traJ
+JANUARY,2025,Tumkur,SI,Rectal swab,43,trat
+DECEMBER,2023,Chitradurga,MDP,Rectal swab,44,int
+JANUARY,2025,Tumkur,TI,Rectal swab,47,trat
+JANUARY,2025,Tumkur,JN,Rectal swab,50,trat
+JANUARY,2025,Tumkur,JN,Rectal swab,50,traJ
+JANUARY,2025,Tumkur,JN,Rectal swab,50,ccdb
+JANUARY,2025,Tumkur,JN,Rectal swab,50,gafd
+JANUARY,2025,Tumkur,JN,Rectal swab,50,f17d-C
+JANUARY,2025,Tumkur,JN,Rectal swab,50,f17d-D
+JANUARY,2025,Tumkur,JN,Rectal swab,50,f17a-a
+JANUARY,2025,Tumkur,SI,Rectal swab,51,trat
+JANUARY,2025,Tumkur,SI,Rectal swab,51,ccdb
+JANUARY,2025,Tumkur,SI,Rectal swab,51,cba
+JANUARY,2025,Tumkur,SI,Rectal swab,51,cma
+JANUARY,2025,Tumkur,SI,Rectal swab,51,hlyD
+JANUARY,2025,Tumkur,SI,Rectal swab,51,hlyB
+JANUARY,2025,Tumkur,SI,Rectal swab,51,hlyA
+JANUARY,2025,Tumkur,SI,Rectal swab,51,hlyC
+JANUARY,2025,Tumkur,SI,Rectal swab,51,csa
+JANUARY,2025,Tumkur,SI,Rectal swab,51,senB
+MAY,2024,Tumkur,MD,Rectal swab,53,int
+JANUARY,2025,Tumkur,SI,Rectal swab,54,ccdb
+JANUARY,2025,Tumkur,SI,Rectal swab,54,gafd
+JANUARY,2025,Tumkur,SI,Rectal swab,54,f17d-C
+JANUARY,2025,Tumkur,SI,Rectal swab,54,f17d-D
+JANUARY,2025,Tumkur,SI,Rectal swab,54,f17a-a
+JANUARY,2025,Tumkur,SI,Rectal swab,54,mcba
+JANUARY,2025,Tumkur,SI,Rectal swab,54,traJ
+DECEMBER,2023,Chitradurga,ML,Rectal swab,55,int
+DECEMBER,2023,Chitradurga,ML,Rectal swab,55,cib
+JULY,2023,Chitradurga,DD,Rectal swab,57,trat
+MAY,2024,Tumkur,MD,Rectal swab,58,int
+JANUARY,2025,Tumkur,TM,Rectal swab,59,trat
+JANUARY,2025,Tumkur,TM,Rectal swab,59,astA
+JANUARY,2025,Tumkur,TM,Rectal swab,59,trat
+JANUARY,2025,Tumkur,SI,Rectal swab,60,cib
+JANUARY,2025,Tumkur,JN,Rectal swab,63,int
+JULY,2023,Chitradurga,GN,Rectal swab,66,trat
+JULY,2023,Chitradurga,GN,Rectal swab,66,espP
+JULY,2023,Chitradurga,GN,Rectal swab,66,ccdb
+JULY,2023,Chitradurga,GN,Rectal swab,66,clpL
+JULY,2023,Chitradurga,GN,Rectal swab,66,clpH
+JULY,2023,Chitradurga,GN,Rectal swab,66,clpF
+JULY,2023,Chitradurga,GN,Rectal swab,66,faeE
+JULY,2023,Chitradurga,GN,Rectal swab,66,faeD
+JULY,2023,Chitradurga,GN,Rectal swab,66,faeC
+JULY,2023,Chitradurga,GN,Rectal swab,66,cib
+SEPTEMBER,2023,Chitradurga,VN,Rectal swab,69,int
+SEPTEMBER,2023,Chitradurga,VN,Rectal swab,69,cib
+SEPTEMBER,2023,Chitradurga,VN,Rectal swab,69,iroN
+SEPTEMBER,2023,Chitradurga,VN,Rectal swab,69,iroE
+SEPTEMBER,2023,Chitradurga,VN,Rectal swab,69,iroD
+SEPTEMBER,2023,Chitradurga,VN,Rectal swab,69,iroC
+SEPTEMBER,2023,Chitradurga,VN,Rectal swab,69,iroB
+SEPTEMBER,2023,Chitradurga,VN,Rectal swab,69,iss2
+SEPTEMBER,2023,Chitradurga,VN,Rectal swab,69,cvac
+SEPTEMBER,2023,Chitradurga,VN,Rectal swab,69,mchf
+SEPTEMBER,2023,Chitradurga,VN,Rectal swab,69,iutA
+SEPTEMBER,2023,Chitradurga,VN,Rectal swab,69,iucD
+SEPTEMBER,2023,Chitradurga,VN,Rectal swab,69,iucC
+SEPTEMBER,2023,Chitradurga,VN,Rectal swab,69,iucB
+SEPTEMBER,2023,Chitradurga,VN,Rectal swab,69,iucA
+SEPTEMBER,2023,Chitradurga,VN,Rectal swab,69,sitD
+SEPTEMBER,2023,Chitradurga,VN,Rectal swab,69,sitC
+SEPTEMBER,2023,Chitradurga,VN,Rectal swab,69,sitB
+SEPTEMBER,2023,Chitradurga,VN,Rectal swab,69,sitA
+SEPTEMBER,2023,Chitradurga,VN,Rectal swab,69,trat
+SEPTEMBER,2023,Chitradurga,VN,Rectal swab,69,csa
+SEPTEMBER,2023,Chitradurga,VN,Rectal swab,69,ccdb
+DECEMBER,2023,Chitradurga,MDP,Rectal swab,70,int
+DECEMBER,2023,Chitradurga,ML,Rectal swab,72,senB
+DECEMBER,2023,Chitradurga,ML,Rectal swab,72,iutA
+DECEMBER,2023,Chitradurga,ML,Rectal swab,72,iucD
+DECEMBER,2023,Chitradurga,ML,Rectal swab,72,iucC
+DECEMBER,2023,Chitradurga,ML,Rectal swab,72,iucB
+DECEMBER,2023,Chitradurga,ML,Rectal swab,72,iucA
+DECEMBER,2023,Chitradurga,ML,Rectal swab,72,sitD
+DECEMBER,2023,Chitradurga,ML,Rectal swab,72,sitC
+DECEMBER,2023,Chitradurga,ML,Rectal swab,72,sitB
+DECEMBER,2023,Chitradurga,ML,Rectal swab,72,sitA
+DECEMBER,2023,Chitradurga,ML,Rectal swab,72,trat
+DECEMBER,2023,Chitradurga,ML,Rectal swab,72,mcba
+DECEMBER,2023,Chitradurga,ML,Rectal swab,72,ccdb
+JUNE,2024,Tumkur,LK,Soil,5,traJ
+JUNE,2024,Tumkur,LK,Soil,5,trat
+JUNE,2024,Tumkur,LK,Soil,5,ccdb
+JULY,2024,Tumkur,LK,Soil,8,hlyD
+JULY,2024,Tumkur,LK,Soil,8,hlyB
+JULY,2024,Tumkur,LK,Soil,8,hlyA
+JULY,2024,Tumkur,LK,Soil,8,hlyC
+JULY,2024,Tumkur,LK,Soil,8,senB
+JULY,2024,Tumkur,LK,Soil,8,csa
+JULY,2024,Tumkur,LK,Soil,8,cma
+JULY,2024,Tumkur,LK,Soil,8,cba
+JULY,2024,Tumkur,LK,Soil,8,trat
+JUNE,2024,Tumkur,LK,Soil,12,traJ
+JUNE,2024,Tumkur,LK,Soil,12,trat
+JUNE,2024,Tumkur,LK,Soil,12,ccdb
+JULY,2024,Tumkur,LK,Soil,38,ccdb
+JULY,2024,Tumkur,LK,Soil,38,faeC
+JULY,2024,Tumkur,LK,Soil,38,faeD
+JULY,2024,Tumkur,LK,Soil,38,faeE
+JULY,2024,Tumkur,LK,Soil,38,clpF
+JULY,2024,Tumkur,LK,Soil,38,clpH
+JULY,2024,Tumkur,LK,Soil,38,clpL
+JANUARY,2025,Tumkur,SI,Soil,42,trat
+JANUARY,2025,Tumkur,SI,Soil,42,ccdb
+JANUARY,2025,Tumkur,SI,Soil,42,cofP
+JANUARY,2025,Tumkur,SI,Soil,42,cofJ
+JANUARY,2025,Tumkur,SI,Soil,42,cofI
+JANUARY,2025,Tumkur,SI,Soil,42,cofH
+JANUARY,2025,Tumkur,SI,Soil,42,cofG
+JANUARY,2025,Tumkur,SI,Soil,42,cofF
+JANUARY,2025,Tumkur,SI,Soil,42,cofE
+JANUARY,2025,Tumkur,SI,Soil,42,cofD
+JANUARY,2025,Tumkur,SI,Soil,42,cofC
+JANUARY,2025,Tumkur,SI,Soil,42,cofB
+JANUARY,2025,Tumkur,SI,Soil,42,cofT
+JANUARY,2025,Tumkur,SI,Soil,42,cofS
+JANUARY,2025,Tumkur,SI,Soil,42,cofR
+JULY,2023,Chitradurga,SN,Soil,48,ibeC
+JULY,2023,Chitradurga,SN,Soil,48,katp
+JULY,2023,Chitradurga,SN,Soil,48,epeA
+JULY,2023,Chitradurga,SN,Soil,48,hlyD
+JULY,2023,Chitradurga,SN,Soil,48,hlyB
+JULY,2023,Chitradurga,SN,Soil,48,hlyA
+JULY,2023,Chitradurga,SN,Soil,48,hlyC
+JULY,2023,Chitradurga,SN,Soil,48,trat
+JULY,2024,Tumkur,KL,Soil,52,paa
+JULY,2024,Tumkur,KL,Soil,52,fedB
+JULY,2024,Tumkur,KL,Soil,52,ibeC
+JULY,2024,Tumkur,KL,Soil,52,ccdb
+JULY,2024,Tumkur,KL,Soil,52,int
+JULY,2024,Tumkur,KL,Soil,52,traJ
+JULY,2024,Tumkur,KL,Soil,52,iroE
+JULY,2024,Tumkur,LK,Soil,61,aaiP
+JULY,2024,Tumkur,LK,Soil,61,aaiO
+JULY,2024,Tumkur,LK,Soil,61,aaiL
+JULY,2024,Tumkur,LK,Soil,61,aaiK
+JULY,2024,Tumkur,LK,Soil,61,aaiJ
+JULY,2024,Tumkur,LK,Soil,61,aaiI
+JULY,2024,Tumkur,LK,Soil,61,aaiH
+JULY,2024,Tumkur,LK,Soil,61,vgrG
+JULY,2024,Tumkur,LK,Soil,61,aaiF
+JULY,2024,Tumkur,LK,Soil,61,aaiE
+JULY,2024,Tumkur,LK,Soil,61,aaiD
+JULY,2024,Tumkur,LK,Soil,61,aaiB
+JULY,2024,Tumkur,LK,Soil,61,aaiA
+JULY,2024,Tumkur,LK,Soil,61,ce1a
+JULY,2024,Tumkur,LK,Soil,61,traJ
+JULY,2024,Tumkur,LK,Soil,61,katp
+JULY,2024,Tumkur,LK,Soil,61,pixD
+JULY,2024,Tumkur,LK,Soil,61,sfpC
+JULY,2024,Tumkur,LK,Soil,61,sfpH
+JULY,2024,Tumkur,LK,Soil,61,trat
+JULY,2024,Tumkur,LK,Soil,61,mcba
+JANUARY,2025,Tumkur,HS,Soil,62,ccdb
+JANUARY,2025,Tumkur,HS,Soil,62,traJ
+JANUARY,2025,Tumkur,HS,Soil,62,trat
+JANUARY,2025,Tumkur,HS,Soil,62,f17a-a
+JANUARY,2025,Tumkur,HS,Soil,62,f17d-D
+JANUARY,2025,Tumkur,HS,Soil,62,f17d-C
+JANUARY,2025,Tumkur,HS,Soil,62,gafd
+JULY,2023,Chitradurga,SN,Soil,71,mcba
+JULY,2023,Chitradurga,SN,Soil,71,cba
+JULY,2023,Chitradurga,SN,Soil,71,cma
+JULY,2023,Chitradurga,SN,Soil,71,trat
+JULY,2023,Chitradurga,SN,Soil,71,katp
+JULY,2023,Chitradurga,SN,Soil,71,cib
+JULY,2023,Chitradurga,SN,Soil,71,cka
+JULY,2023,Chitradurga,DD,Feed,1,ccdb
+MAY,2024,Tumkur,MD,Feed,64,traJ
+MAY,2024,Tumkur,MD,Feed,64,trat
+MAY,2024,Tumkur,MD,Feed,64,ccdb

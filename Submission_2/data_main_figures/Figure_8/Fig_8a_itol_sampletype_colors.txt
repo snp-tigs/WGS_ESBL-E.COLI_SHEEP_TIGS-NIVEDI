@@ -1,0 +1,80 @@
+DATASET_COLORSTRIP
+SEPARATOR COMMA
+DATASET_LABEL,Sample Type
+COLOR,#000000
+STRIP_WIDTH,25
+MARGIN,5
+SHOW_INTERNAL,0
+DATA
+1,#adfda2,Feed
+2,#beb15b,Soil
+3,#5c3863,Rectal swab
+4,#beb15b,Soil
+5,#beb15b,Soil
+6,#5c3863,Rectal swab
+7,#5c3863,Rectal swab
+8,#beb15b,Soil
+9,#5c3863,Rectal swab
+10,#5c3863,Rectal swab
+11,#5c3863,Rectal swab
+12,#beb15b,Soil
+13,#5c3863,Rectal swab
+14,#5c3863,Rectal swab
+15,#5c3863,Rectal swab
+16,#5c3863,Rectal swab
+17,#5c3863,Rectal swab
+18,#5c3863,Rectal swab
+19,#4d8eff,Water
+20,#5c3863,Rectal swab
+21,#5c3863,Rectal swab
+22,#5c3863,Rectal swab
+23,#5c3863,Rectal swab
+24,#5c3863,Rectal swab
+25,#5c3863,Rectal swab
+26,#5c3863,Rectal swab
+27,#5c3863,Rectal swab
+28,#5c3863,Rectal swab
+29,#5c3863,Rectal swab
+30,#5c3863,Rectal swab
+31,#5c3863,Rectal swab
+32,#5c3863,Rectal swab
+33,#5c3863,Rectal swab
+34,#5c3863,Rectal swab
+35,#5c3863,Rectal swab
+36,#5c3863,Rectal swab
+37,#5c3863,Rectal swab
+38,#beb15b,Soil
+39,#5c3863,Rectal swab
+40,#5c3863,Rectal swab
+41,#5c3863,Rectal swab
+42,#beb15b,Soil
+43,#5c3863,Rectal swab
+44,#5c3863,Rectal swab
+45,#beb15b,Soil
+46,#5c3863,Rectal swab
+47,#5c3863,Rectal swab
+48,#beb15b,Soil
+49,#5c3863,Rectal swab
+50,#5c3863,Rectal swab
+51,#5c3863,Rectal swab
+52,#beb15b,Soil
+53,#5c3863,Rectal swab
+54,#5c3863,Rectal swab
+55,#5c3863,Rectal swab
+56,#beb15b,Soil
+57,#5c3863,Rectal swab
+58,#5c3863,Rectal swab
+59,#5c3863,Rectal swab
+60,#5c3863,Rectal swab
+61,#beb15b,Soil
+62,#beb15b,Soil
+63,#5c3863,Rectal swab
+64,#adfda2,Feed
+65,#beb15b,Soil
+66,#5c3863,Rectal swab
+67,#5c3863,Rectal swab
+68,#5c3863,Rectal swab
+69,#5c3863,Rectal swab
+70,#5c3863,Rectal swab
+71,#beb15b,Soil
+72,#5c3863,Rectal swab

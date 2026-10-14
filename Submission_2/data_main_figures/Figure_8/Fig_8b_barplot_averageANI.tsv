@@ -1,0 +1,73 @@
+Query_NewID	Query_District	Query_Village	Query_SampleType	Average_ANI	Total_Comparisons
+1	Chitradurga	DD	Feed	89.14	68
+2	Chitradurga	GN	Soil	96.11	71
+3	Tumkur	PV1	Rectal swab	88.53	67
+4	Chitradurga	BA	Soil	95.50	71
+5	Tumkur	LK	Soil	88.67	71
+6	Tumkur	TL	Rectal swab	82.30	66
+7	Tumkur	MD	Rectal swab	95.99	71
+8	Tumkur	LK	Soil	95.68	71
+9	Tumkur	PV2	Rectal swab	95.97	71
+10	Tumkur	LK	Rectal swab	83.47	67
+11	Tumkur	NR	Rectal swab	95.57	71
+12	Tumkur	LK	Soil	96.03	71
+13	Tumkur	PV1	Rectal swab	89.95	64
+14	Tumkur	AE	Rectal swab	94.23	72
+15	Tumkur	HR	Rectal swab	94.69	71
+16	Tumkur	PV1	Rectal swab	95.13	72
+17	Chitradurga	BA	Rectal swab	95.53	71
+18	Tumkur	LK	Rectal swab	96.29	71
+19	Tumkur	DN	Water	84.28	68
+20	Tumkur	LK	Rectal swab	91.31	72
+21	Tumkur	MD	Rectal swab	96.14	71
+22	Tumkur	LK	Rectal swab	96.12	71
+23	Tumkur	PV1	Rectal swab	95.80	71
+24	Tumkur	PV2	Rectal swab	96.01	70
+25	Tumkur	MD	Rectal swab	96.16	71
+26	Tumkur	KLA	Rectal swab	96.04	71
+27	Tumkur	PV2	Rectal swab	95.87	71
+28	Chitradurga	BG	Rectal swab	96.06	71
+29	Tumkur	MD	Rectal swab	96.06	71
+30	Tumkur	DDM	Rectal swab	97.19	8
+31	Tumkur	PV1	Rectal swab	96.07	71
+32	Tumkur	LK	Rectal swab	94.25	71
+33	Chitradurga	DD	Rectal swab	96.07	71
+34	Tumkur	PV2	Rectal swab	95.35	72
+35	Tumkur	PV1	Rectal swab	95.05	71
+36	Tumkur	TL	Rectal swab	83.51	71
+37	Chitradurga	GN	Rectal swab	96.04	71
+38	Tumkur	LK	Soil	95.80	70
+39	Chitradurga	MDP	Rectal swab	96.01	71
+40	Chitradurga	MDP	Rectal swab	87.82	68
+41	Tumkur	NR	Rectal swab	95.67	71
+42	Tumkur	SI	Soil	95.96	71
+43	Tumkur	SI	Rectal swab	95.93	71
+44	Chitradurga	MDP	Rectal swab	96.26	72
+45	Tumkur	TI	Soil	96.16	71
+46	Tumkur	TM	Rectal swab	96.16	71
+47	Tumkur	TI	Rectal swab	95.94	71
+48	Chitradurga	SN	Soil	95.92	71
+49	Tumkur	NR	Rectal swab	91.27	67
+50	Tumkur	JN	Rectal swab	96.00	71
+51	Tumkur	SI	Rectal swab	96.02	71
+52	Tumkur	KL	Soil	83.79	71
+53	Tumkur	MD	Rectal swab	96.08	71
+54	Tumkur	SI	Rectal swab	96.01	71
+55	Chitradurga	ML	Rectal swab	94.39	71
+56	Tumkur	SI	Soil	95.77	70
+57	Chitradurga	DD	Rectal swab	95.23	71
+58	Tumkur	MD	Rectal swab	96.09	71
+59	Tumkur	TM	Rectal swab	95.87	71
+60	Tumkur	SI	Rectal swab	96.06	71
+61	Tumkur	LK	Soil	83.34	71
+62	Tumkur	HS	Soil	96.04	71
+63	Tumkur	JN	Rectal swab	96.07	71
+64	Tumkur	MD	Feed	95.50	71
+65	Tumkur	LK	Soil	95.87	72
+66	Chitradurga	GN	Rectal swab	96.04	71
+67	Chitradurga	SN	Rectal swab	95.91	71
+68	Chitradurga	DD	Rectal swab	95.25	71
+69	Chitradurga	VN	Rectal swab	95.80	71
+70	Chitradurga	MDP	Rectal swab	96.05	71
+71	Chitradurga	SN	Soil	96.11	71
+72	Chitradurga	ML	Rectal swab	96.26	71

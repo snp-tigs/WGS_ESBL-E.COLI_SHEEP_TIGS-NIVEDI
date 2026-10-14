@@ -1,0 +1,3224 @@
+Year,Months,District,New Village ID,Sample Type,Sample ID,Gene
+2024,JUNE,Tumkur,PV1,Rectal swab,3,mdtN
+2024,JUNE,Tumkur,PV1,Rectal swab,3,Escherichia_coli_acrA
+2024,JUNE,Tumkur,PV1,Rectal swab,3,mdtN
+2024,JUNE,Tumkur,PV1,Rectal swab,3,evgA
+2024,JUNE,Tumkur,PV1,Rectal swab,3,Escherichia_coli_emrE
+2024,JUNE,Tumkur,PV1,Rectal swab,3,ugd
+2024,JUNE,Tumkur,PV1,Rectal swab,3,tet(B)
+2024,JUNE,Tumkur,PV1,Rectal swab,3,marA
+2024,JUNE,Tumkur,PV1,Rectal swab,3,ugd
+2024,JUNE,Tumkur,PV1,Rectal swab,3,mdtG
+2024,JUNE,Tumkur,PV1,Rectal swab,3,emrR
+2024,JUNE,Tumkur,PV1,Rectal swab,3,emrA
+2024,JUNE,Tumkur,PV1,Rectal swab,3,emrB
+2024,JUNE,Tumkur,PV1,Rectal swab,3,mdtE
+2024,JUNE,Tumkur,PV1,Rectal swab,3,H-NS
+2024,JUNE,Tumkur,PV1,Rectal swab,3,msbA
+2024,JUNE,Tumkur,PV1,Rectal swab,3,OmpA
+2024,JUNE,Tumkur,PV1,Rectal swab,3,gadX
+2024,JUNE,Tumkur,PV1,Rectal swab,3,leuO
+2024,JUNE,Tumkur,PV1,Rectal swab,3,evgS
+2024,JUNE,Tumkur,PV1,Rectal swab,3,eptA
+2024,JUNE,Tumkur,PV1,Rectal swab,3,mdtM
+2024,JUNE,Tumkur,PV1,Rectal swab,3,gadW
+2024,JULY,Tumkur,TL,Rectal swab,6,oqxA
+2024,JULY,Tumkur,TL,Rectal swab,6,emrB
+2024,JULY,Tumkur,TL,Rectal swab,6,marA
+2024,JULY,Tumkur,TL,Rectal swab,6,msbA
+2024,JULY,Tumkur,TL,Rectal swab,6,Enterobacter_cloacae_acrA
+2024,JULY,Tumkur,TL,Rectal swab,6,H-NS
+2024,JULY,Tumkur,TL,Rectal swab,6,ramA
+2024,JULY,Tumkur,TL,Rectal swab,6,acrD
+2024,JULY,Tumkur,TL,Rectal swab,6,mdtA
+2024,JULY,Tumkur,TL,Rectal swab,6,marA
+2024,JULY,Tumkur,TL,Rectal swab,6,Klebsiella_pneumoniae_KpnG
+2024,JULY,Tumkur,TL,Rectal swab,6,acrB
+2024,JULY,Tumkur,TL,Rectal swab,6,oqxB
+2024,JULY,Tumkur,TL,Rectal swab,6,ramA
+2024,JULY,Tumkur,TL,Rectal swab,6,emrR
+2024,JULY,Tumkur,TL,Rectal swab,6,bacA
+2024,JULY,Tumkur,TL,Rectal swab,6,emrR
+2024,JULY,Tumkur,TL,Rectal swab,6,Klebsiella_pneumoniae_KpnG
+2024,JULY,Tumkur,TL,Rectal swab,6,emrB
+2024,JULY,Tumkur,TL,Rectal swab,6,msbA
+2024,JULY,Tumkur,TL,Rectal swab,6,ACT-151
+2024,JULY,Tumkur,TL,Rectal swab,6,Klebsiella_pneumoniae_KpnF
+2024,JULY,Tumkur,TL,Rectal swab,6,H-NS
+2024,JULY,Tumkur,TL,Rectal swab,6,ACT-50
+2024,JULY,Tumkur,TL,Rectal swab,6,cpxA
+2024,JULY,Tumkur,TL,Rectal swab,6,oqxA
+2024,JULY,Tumkur,TL,Rectal swab,6,oqxB
+2024,JULY,Tumkur,TL,Rectal swab,6,H-NS
+2024,JULY,Tumkur,TL,Rectal swab,6,marA
+2024,JULY,Tumkur,TL,Rectal swab,6,FosA2
+2024,JULY,Tumkur,TL,Rectal swab,6,bacA
+2024,JULY,Tumkur,TL,Rectal swab,6,Klebsiella_pneumoniae_KpnE
+2024,JULY,Tumkur,TL,Rectal swab,6,Klebsiella_pneumoniae_KpnF
+2024,JULY,Tumkur,TL,Rectal swab,6,fosA5
+2024,JULY,Tumkur,TL,Rectal swab,6,msbA
+2024,JULY,Tumkur,TL,Rectal swab,6,LptD
+2024,JULY,Tumkur,TL,Rectal swab,6,TolC
+2024,JULY,Tumkur,TL,Rectal swab,6,cpxA
+2024,JULY,Tumkur,TL,Rectal swab,6,marA
+2024,JULY,Tumkur,TL,Rectal swab,6,OmpA
+2024,JULY,Tumkur,TL,Rectal swab,6,oqxA
+2024,JULY,Tumkur,TL,Rectal swab,6,oqxB
+2024,JULY,Tumkur,TL,Rectal swab,6,Klebsiella_pneumoniae_OmpK37
+2024,JULY,Tumkur,TL,Rectal swab,6,Klebsiella_pneumoniae_KpnH
+2024,JULY,Tumkur,TL,Rectal swab,6,Klebsiella_pneumoniae_KpnG
+2024,JULY,Tumkur,TL,Rectal swab,6,emrR
+2024,JULY,Tumkur,TL,Rectal swab,6,mdtC
+2024,JULY,Tumkur,TL,Rectal swab,6,mdtB
+2024,JULY,Tumkur,TL,Rectal swab,6,eptB
+2024,JULY,Tumkur,TL,Rectal swab,6,CRP
+2024,JULY,Tumkur,TL,Rectal swab,6,bacA
+2024,JULY,Tumkur,TL,Rectal swab,6,ArnT
+2024,JULY,Tumkur,TL,Rectal swab,6,acrD
+2024,JULY,Tumkur,TL,Rectal swab,6,CRP
+2024,JULY,Tumkur,TL,Rectal swab,6,msbA
+2024,JULY,Tumkur,TL,Rectal swab,6,H-NS
+2024,JULY,Tumkur,TL,Rectal swab,6,cpxA
+2024,JULY,Tumkur,TL,Rectal swab,6,Enterobacter_cloacae_acrA
+2024,JULY,Tumkur,TL,Rectal swab,6,acrB
+2024,JULY,Tumkur,TL,Rectal swab,6,acrD
+2024,JULY,Tumkur,TL,Rectal swab,6,emrR
+2024,JULY,Tumkur,TL,Rectal swab,6,Klebsiella_pneumoniae_KpnG
+2024,JULY,Tumkur,TL,Rectal swab,6,emrB
+2024,JULY,Tumkur,TL,Rectal swab,6,mdtC
+2024,JULY,Tumkur,TL,Rectal swab,6,mdtB
+2024,JULY,Tumkur,TL,Rectal swab,6,bacA
+2024,JULY,Tumkur,TL,Rectal swab,6,ramA
+2024,JULY,Tumkur,TL,Rectal swab,6,CMH-16
+2024,JULY,Tumkur,TL,Rectal swab,6,oqxA
+2024,JULY,Tumkur,TL,Rectal swab,6,oqxB
+2024,JULY,Tumkur,TL,Rectal swab,6,MdtQ
+2024,JULY,Tumkur,TL,Rectal swab,6,ramA
+2024,JULY,Tumkur,TL,Rectal swab,6,TolC
+2024,JULY,Tumkur,TL,Rectal swab,6,FosA2
+2024,JULY,Tumkur,TL,Rectal swab,6,Klebsiella_pneumoniae_acrA
+2024,JULY,Tumkur,TL,Rectal swab,6,acrB
+2024,MAY,Tumkur,MD,Rectal swab,7,Escherichia_coli_emrE
+2024,MAY,Tumkur,MD,Rectal swab,7,Escherichia_coli_emrE
+2024,MAY,Tumkur,MD,Rectal swab,7,leuO
+2024,MAY,Tumkur,MD,Rectal swab,7,mdtE
+2024,MAY,Tumkur,MD,Rectal swab,7,mdtF
+2024,MAY,Tumkur,MD,Rectal swab,7,gadW
+2024,MAY,Tumkur,MD,Rectal swab,7,gadX
+2024,MAY,Tumkur,MD,Rectal swab,7,msbA
+2024,MAY,Tumkur,MD,Rectal swab,7,OmpA
+2024,MAY,Tumkur,MD,Rectal swab,7,emrB
+2024,MAY,Tumkur,MD,Rectal swab,7,emrA
+2024,MAY,Tumkur,MD,Rectal swab,7,emrR
+2024,MAY,Tumkur,MD,Rectal swab,7,marA
+2024,MAY,Tumkur,MD,Rectal swab,7,cpxA
+2024,MAY,Tumkur,MD,Rectal swab,7,EC-18
+2024,MAY,Tumkur,MD,Rectal swab,7,H-NS
+2024,MAY,Tumkur,MD,Rectal swab,7,Escherichia_coli_mdfA
+2024,MAY,Tumkur,MD,Rectal swab,7,mdtM
+2024,MAY,Tumkur,MD,Rectal swab,7,kdpE
+2024,MAY,Tumkur,MD,Rectal swab,7,AcrF
+2024,MAY,Tumkur,MD,Rectal swab,7,AcrE
+2024,MAY,Tumkur,MD,Rectal swab,7,AcrS
+2024,MAY,Tumkur,MD,Rectal swab,7,ugd
+2024,MAY,Tumkur,MD,Rectal swab,7,mdtA
+2024,MAY,Tumkur,MD,Rectal swab,7,mdtB
+2024,MAY,Tumkur,MD,Rectal swab,7,mdtC
+2024,MAY,Tumkur,MD,Rectal swab,7,PmrF
+2024,MAY,Tumkur,MD,Rectal swab,7,YojI
+2024,MAY,Tumkur,MD,Rectal swab,7,Escherichia_coli_acrA
+2024,MAY,Tumkur,MD,Rectal swab,7,acrB
+2024,MAY,Tumkur,MD,Rectal swab,7,eptA
+2024,MAY,Tumkur,MD,Rectal swab,7,mdtN
+2024,MAY,Tumkur,MD,Rectal swab,7,mdtO
+2024,MAY,Tumkur,MD,Rectal swab,7,mdtP
+2024,MAY,Tumkur,MD,Rectal swab,7,CRP
+2024,MAY,Tumkur,MD,Rectal swab,7,bacA
+2024,MAY,Tumkur,MD,Rectal swab,7,TolC
+2024,MAY,Tumkur,MD,Rectal swab,7,mdtH
+2024,MAY,Tumkur,MD,Rectal swab,7,mdtG
+2024,MAY,Tumkur,MD,Rectal swab,7,acrD
+2024,MAY,Tumkur,MD,Rectal swab,7,evgS
+2024,MAY,Tumkur,MD,Rectal swab,7,evgA
+2024,MAY,Tumkur,MD,Rectal swab,7,emrK
+2024,MAY,Tumkur,MD,Rectal swab,7,emrY
+2024,OCTOBER,Tumkur,PV2,Rectal swab,9,H-NS
+2024,OCTOBER,Tumkur,PV2,Rectal swab,9,ugd
+2024,OCTOBER,Tumkur,PV2,Rectal swab,9,kdpE
+2024,OCTOBER,Tumkur,PV2,Rectal swab,9,cpxA
+2024,OCTOBER,Tumkur,PV2,Rectal swab,9,mdtA
+2024,OCTOBER,Tumkur,PV2,Rectal swab,9,mdtB
+2024,OCTOBER,Tumkur,PV2,Rectal swab,9,mdtC
+2024,OCTOBER,Tumkur,PV2,Rectal swab,9,YojI
+2024,OCTOBER,Tumkur,PV2,Rectal swab,9,PmrF
+2024,OCTOBER,Tumkur,PV2,Rectal swab,9,emrY
+2024,OCTOBER,Tumkur,PV2,Rectal swab,9,emrK
+2024,OCTOBER,Tumkur,PV2,Rectal swab,9,evgA
+2024,OCTOBER,Tumkur,PV2,Rectal swab,9,evgS
+2024,OCTOBER,Tumkur,PV2,Rectal swab,9,EC-18
+2024,OCTOBER,Tumkur,PV2,Rectal swab,9,CRP
+2024,OCTOBER,Tumkur,PV2,Rectal swab,9,mdtE
+2024,OCTOBER,Tumkur,PV2,Rectal swab,9,mdtF
+2024,OCTOBER,Tumkur,PV2,Rectal swab,9,gadW
+2024,OCTOBER,Tumkur,PV2,Rectal swab,9,gadX
+2024,OCTOBER,Tumkur,PV2,Rectal swab,9,mdtG
+2024,OCTOBER,Tumkur,PV2,Rectal swab,9,mdtH
+2024,OCTOBER,Tumkur,PV2,Rectal swab,9,AcrS
+2024,OCTOBER,Tumkur,PV2,Rectal swab,9,AcrE
+2024,OCTOBER,Tumkur,PV2,Rectal swab,9,AcrF
+2024,OCTOBER,Tumkur,PV2,Rectal swab,9,marA
+2024,OCTOBER,Tumkur,PV2,Rectal swab,9,OmpA
+2024,OCTOBER,Tumkur,PV2,Rectal swab,9,msbA
+2024,OCTOBER,Tumkur,PV2,Rectal swab,9,Escherichia_coli_mdfA
+2024,OCTOBER,Tumkur,PV2,Rectal swab,9,mdtM
+2024,OCTOBER,Tumkur,PV2,Rectal swab,9,Escherichia_coli_emrE
+2024,OCTOBER,Tumkur,PV2,Rectal swab,9,acrD
+2024,OCTOBER,Tumkur,PV2,Rectal swab,9,TolC
+2024,OCTOBER,Tumkur,PV2,Rectal swab,9,bacA
+2024,OCTOBER,Tumkur,PV2,Rectal swab,9,Escherichia_coli_acrA
+2024,OCTOBER,Tumkur,PV2,Rectal swab,9,acrB
+2024,OCTOBER,Tumkur,PV2,Rectal swab,9,emrB
+2024,OCTOBER,Tumkur,PV2,Rectal swab,9,emrA
+2024,OCTOBER,Tumkur,PV2,Rectal swab,9,emrR
+2024,OCTOBER,Tumkur,PV2,Rectal swab,9,leuO
+2024,OCTOBER,Tumkur,PV2,Rectal swab,9,eptA
+2024,OCTOBER,Tumkur,PV2,Rectal swab,9,mdtN
+2024,OCTOBER,Tumkur,PV2,Rectal swab,9,mdtO
+2024,OCTOBER,Tumkur,PV2,Rectal swab,9,mdtP
+2024,JULY,Tumkur,LK,Rectal swab,10,H-NS
+2024,JULY,Tumkur,LK,Rectal swab,10,emrB
+2024,JULY,Tumkur,LK,Rectal swab,10,Klebsiella_pneumoniae_KpnG
+2024,JULY,Tumkur,LK,Rectal swab,10,emrR
+2024,JULY,Tumkur,LK,Rectal swab,10,H-NS
+2024,JULY,Tumkur,LK,Rectal swab,10,cpxA
+2024,JULY,Tumkur,LK,Rectal swab,10,CMH-16
+2024,JULY,Tumkur,LK,Rectal swab,10,FosA2
+2024,JULY,Tumkur,LK,Rectal swab,10,ramA
+2024,JULY,Tumkur,LK,Rectal swab,10,mdtC
+2024,JULY,Tumkur,LK,Rectal swab,10,mdtB
+2024,JULY,Tumkur,LK,Rectal swab,10,mdtA
+2024,JULY,Tumkur,LK,Rectal swab,10,acrD
+2024,JULY,Tumkur,LK,Rectal swab,10,marA
+2024,JULY,Tumkur,LK,Rectal swab,10,oqxA
+2024,JULY,Tumkur,LK,Rectal swab,10,oqxB
+2024,JULY,Tumkur,LK,Rectal swab,10,bacA
+2024,JULY,Tumkur,LK,Rectal swab,10,CRP
+2024,JULY,Tumkur,LK,Rectal swab,10,OmpA
+2024,JULY,Tumkur,LK,Rectal swab,10,msbA
+2024,JULY,Tumkur,LK,Rectal swab,10,acrB
+2024,JULY,Tumkur,LK,Rectal swab,10,Enterobacter_cloacae_acrA
+2024,JULY,Tumkur,LK,Rectal swab,10,evgA
+2024,MAY,Tumkur,NR,Rectal swab,11,ugd
+2024,MAY,Tumkur,NR,Rectal swab,11,YojI
+2024,MAY,Tumkur,NR,Rectal swab,11,Escherichia_coli_emrE
+2024,MAY,Tumkur,NR,Rectal swab,11,cpxA
+2024,MAY,Tumkur,NR,Rectal swab,11,TolC
+2024,MAY,Tumkur,NR,Rectal swab,11,acrD
+2024,MAY,Tumkur,NR,Rectal swab,11,H-NS
+2024,MAY,Tumkur,NR,Rectal swab,11,EC-15
+2024,MAY,Tumkur,NR,Rectal swab,11,mdtM
+2024,MAY,Tumkur,NR,Rectal swab,11,bacA
+2024,MAY,Tumkur,NR,Rectal swab,11,Escherichia_coli_acrA
+2024,MAY,Tumkur,NR,Rectal swab,11,acrB
+2024,MAY,Tumkur,NR,Rectal swab,11,msbA
+2024,MAY,Tumkur,NR,Rectal swab,11,kdpE
+2024,MAY,Tumkur,NR,Rectal swab,11,mdtP
+2024,MAY,Tumkur,NR,Rectal swab,11,mdtO
+2024,MAY,Tumkur,NR,Rectal swab,11,mdtN
+2024,MAY,Tumkur,NR,Rectal swab,11,mdtE
+2024,MAY,Tumkur,NR,Rectal swab,11,mdtF
+2024,MAY,Tumkur,NR,Rectal swab,11,gadW
+2024,MAY,Tumkur,NR,Rectal swab,11,gadX
+2024,MAY,Tumkur,NR,Rectal swab,11,emrY
+2024,MAY,Tumkur,NR,Rectal swab,11,emrK
+2024,MAY,Tumkur,NR,Rectal swab,11,evgA
+2024,MAY,Tumkur,NR,Rectal swab,11,evgS
+2024,MAY,Tumkur,NR,Rectal swab,11,OmpA
+2024,MAY,Tumkur,NR,Rectal swab,11,CRP
+2024,MAY,Tumkur,NR,Rectal swab,11,Escherichia_coli_mdfA
+2024,MAY,Tumkur,NR,Rectal swab,11,mdtA
+2024,MAY,Tumkur,NR,Rectal swab,11,mdtB
+2024,MAY,Tumkur,NR,Rectal swab,11,mdtC
+2024,MAY,Tumkur,NR,Rectal swab,11,eptA
+2024,MAY,Tumkur,NR,Rectal swab,11,marA
+2024,MAY,Tumkur,NR,Rectal swab,11,PmrF
+2024,MAY,Tumkur,NR,Rectal swab,11,AcrS
+2024,MAY,Tumkur,NR,Rectal swab,11,AcrE
+2024,MAY,Tumkur,NR,Rectal swab,11,AcrF
+2024,MAY,Tumkur,NR,Rectal swab,11,emrB
+2024,MAY,Tumkur,NR,Rectal swab,11,emrA
+2024,MAY,Tumkur,NR,Rectal swab,11,emrR
+2024,MAY,Tumkur,NR,Rectal swab,11,mdtG
+2024,MAY,Tumkur,NR,Rectal swab,11,mdtH
+2024,JUNE,Tumkur,PV1,Rectal swab,13,evgA
+2024,JUNE,Tumkur,PV1,Rectal swab,13,kdpE
+2024,JUNE,Tumkur,PV1,Rectal swab,13,H-NS
+2024,JUNE,Tumkur,PV1,Rectal swab,13,emrR
+2024,JUNE,Tumkur,PV1,Rectal swab,13,Escherichia_coli_emrE
+2024,JUNE,Tumkur,PV1,Rectal swab,13,ugd
+2024,JUNE,Tumkur,PV1,Rectal swab,13,PmrF
+2024,JUNE,Tumkur,PV1,Rectal swab,13,mdtP
+2024,JUNE,Tumkur,PV1,Rectal swab,13,mdtH
+2024,JUNE,Tumkur,PV1,Rectal swab,13,tet(B)
+2024,JUNE,Tumkur,PV1,Rectal swab,13,leuO
+2024,JUNE,Tumkur,PV1,Rectal swab,13,gadW
+2024,JUNE,Tumkur,PV1,Rectal swab,13,mdtF
+2024,JUNE,Tumkur,PV1,Rectal swab,13,mdtE
+2024,JUNE,Tumkur,PV1,Rectal swab,13,catA4
+2024,JULY,Tumkur,AE,Rectal swab,14,tet(J)
+2024,JULY,Tumkur,AE,Rectal swab,14,CRP
+2024,JULY,Tumkur,AE,Rectal swab,14,emrR
+2024,JULY,Tumkur,AE,Rectal swab,14,Klebsiella_pneumoniae_KpnG
+2024,JULY,Tumkur,AE,Rectal swab,14,emrB
+2024,JULY,Tumkur,AE,Rectal swab,14,CRP
+2024,JULY,Tumkur,AE,Rectal swab,14,kdpE
+2024,JULY,Tumkur,AE,Rectal swab,14,bacA
+2024,JULY,Tumkur,AE,Rectal swab,14,TolC
+2024,JULY,Tumkur,AE,Rectal swab,14,oqxB
+2024,JULY,Tumkur,AE,Rectal swab,14,oqxA
+2024,JULY,Tumkur,AE,Rectal swab,14,mdtM
+2024,JULY,Tumkur,AE,Rectal swab,14,AcrF
+2024,JULY,Tumkur,AE,Rectal swab,14,AcrE
+2024,JULY,Tumkur,AE,Rectal swab,14,AcrS
+2024,JULY,Tumkur,AE,Rectal swab,14,acrD
+2024,JULY,Tumkur,AE,Rectal swab,14,mdtC
+2024,JULY,Tumkur,AE,Rectal swab,14,Escherichia_coli_emrE
+2024,JULY,Tumkur,AE,Rectal swab,14,ugd
+2024,JULY,Tumkur,AE,Rectal swab,14,mdtA
+2024,JULY,Tumkur,AE,Rectal swab,14,mdtB
+2024,JULY,Tumkur,AE,Rectal swab,14,mdtC
+2024,JULY,Tumkur,AE,Rectal swab,14,YojI
+2024,JULY,Tumkur,AE,Rectal swab,14,PmrF
+2024,JULY,Tumkur,AE,Rectal swab,14,emrY
+2024,JULY,Tumkur,AE,Rectal swab,14,emrK
+2024,JULY,Tumkur,AE,Rectal swab,14,evgA
+2024,JULY,Tumkur,AE,Rectal swab,14,evgS
+2024,JULY,Tumkur,AE,Rectal swab,14,ArnT
+2024,JULY,Tumkur,AE,Rectal swab,14,mdtE
+2024,JULY,Tumkur,AE,Rectal swab,14,mdtF
+2024,JULY,Tumkur,AE,Rectal swab,14,gadW
+2024,JULY,Tumkur,AE,Rectal swab,14,gadX
+2024,JULY,Tumkur,AE,Rectal swab,14,EC-8
+2024,JULY,Tumkur,AE,Rectal swab,14,eptA
+2024,JULY,Tumkur,AE,Rectal swab,14,mdtN
+2024,JULY,Tumkur,AE,Rectal swab,14,mdtO
+2024,JULY,Tumkur,AE,Rectal swab,14,mdtP
+2024,JULY,Tumkur,AE,Rectal swab,14,CMH-10
+2024,JULY,Tumkur,AE,Rectal swab,14,ramA
+2024,JULY,Tumkur,AE,Rectal swab,14,acrD
+2024,JULY,Tumkur,AE,Rectal swab,14,CRP
+2024,JULY,Tumkur,AE,Rectal swab,14,cpxA
+2024,JULY,Tumkur,AE,Rectal swab,14,marA
+2024,JULY,Tumkur,AE,Rectal swab,14,eptB
+2024,JULY,Tumkur,AE,Rectal swab,14,Enterobacter_cloacae_acrA
+2024,JULY,Tumkur,AE,Rectal swab,14,acrB
+2024,JULY,Tumkur,AE,Rectal swab,14,H-NS
+2024,JULY,Tumkur,AE,Rectal swab,14,cpxA
+2024,JULY,Tumkur,AE,Rectal swab,14,catA4
+2024,JULY,Tumkur,AE,Rectal swab,14,fosA5
+2024,JULY,Tumkur,AE,Rectal swab,14,MdtQ
+2024,JULY,Tumkur,AE,Rectal swab,14,H-NS
+2024,JULY,Tumkur,AE,Rectal swab,14,oqxB
+2024,JULY,Tumkur,AE,Rectal swab,14,oqxA
+2024,JULY,Tumkur,AE,Rectal swab,14,emrR
+2024,JULY,Tumkur,AE,Rectal swab,14,Klebsiella_pneumoniae_KpnG
+2024,JULY,Tumkur,AE,Rectal swab,14,Klebsiella_pneumoniae_KpnH
+2024,JULY,Tumkur,AE,Rectal swab,14,CRP
+2024,JULY,Tumkur,AE,Rectal swab,14,H-NS
+2024,JULY,Tumkur,AE,Rectal swab,14,marA
+2024,JULY,Tumkur,AE,Rectal swab,14,cpxA
+2024,JULY,Tumkur,AE,Rectal swab,14,bacA
+2024,JULY,Tumkur,AE,Rectal swab,14,Klebsiella_pneumoniae_OmpK37
+2024,JULY,Tumkur,AE,Rectal swab,14,marA
+2024,JULY,Tumkur,AE,Rectal swab,14,Klebsiella_pneumoniae_KpnF
+2024,JULY,Tumkur,AE,Rectal swab,14,Klebsiella_pneumoniae_KpnE
+2024,JULY,Tumkur,AE,Rectal swab,14,Escherichia_coli_mdfA
+2024,JULY,Tumkur,AE,Rectal swab,14,acrD
+2024,JULY,Tumkur,AE,Rectal swab,14,mdtC
+2024,JULY,Tumkur,AE,Rectal swab,14,mdtB
+2024,JULY,Tumkur,AE,Rectal swab,14,ramA
+2024,JULY,Tumkur,AE,Rectal swab,14,Klebsiella_pneumoniae_acrA
+2024,JULY,Tumkur,AE,Rectal swab,14,acrB
+2024,JULY,Tumkur,AE,Rectal swab,14,msbA
+2024,JULY,Tumkur,AE,Rectal swab,14,OmpA
+2024,JULY,Tumkur,AE,Rectal swab,14,bacA
+2024,JULY,Tumkur,AE,Rectal swab,14,LptD
+2024,JULY,Tumkur,AE,Rectal swab,14,emrR
+2024,JULY,Tumkur,AE,Rectal swab,14,emrA
+2024,JULY,Tumkur,AE,Rectal swab,14,emrB
+2024,JULY,Tumkur,AE,Rectal swab,14,leuO
+2024,JULY,Tumkur,AE,Rectal swab,14,acrB
+2024,JULY,Tumkur,AE,Rectal swab,14,Escherichia_coli_acrA
+2024,JULY,Tumkur,AE,Rectal swab,14,FosA2
+2024,JULY,Tumkur,AE,Rectal swab,14,OmpA
+2024,JULY,Tumkur,AE,Rectal swab,14,msbA
+2024,JULY,Tumkur,AE,Rectal swab,14,mdtH
+2024,JULY,Tumkur,AE,Rectal swab,14,mdtG
+2024,JULY,Tumkur,AE,Rectal swab,14,OmpA
+2024,JULY,Tumkur,AE,Rectal swab,14,msbA
+2024,MAY,Tumkur,HR,Rectal swab,15,Klebsiella_pneumoniae_KpnE
+2024,MAY,Tumkur,HR,Rectal swab,15,ugd
+2024,MAY,Tumkur,HR,Rectal swab,15,msbA
+2024,MAY,Tumkur,HR,Rectal swab,15,EC-18
+2024,MAY,Tumkur,HR,Rectal swab,15,marA
+2024,MAY,Tumkur,HR,Rectal swab,15,mdtM
+2024,MAY,Tumkur,HR,Rectal swab,15,SHV-187
+2024,MAY,Tumkur,HR,Rectal swab,15,MdtQ
+2024,MAY,Tumkur,HR,Rectal swab,15,CRP
+2024,MAY,Tumkur,HR,Rectal swab,15,OmpA
+2024,MAY,Tumkur,HR,Rectal swab,15,emrR
+2024,MAY,Tumkur,HR,Rectal swab,15,Klebsiella_pneumoniae_KpnE
+2024,MAY,Tumkur,HR,Rectal swab,15,Klebsiella_pneumoniae_KpnF
+2024,MAY,Tumkur,HR,Rectal swab,15,ramA
+2024,MAY,Tumkur,HR,Rectal swab,15,Klebsiella_pneumoniae_KpnH
+2024,MAY,Tumkur,HR,Rectal swab,15,FosA6
+2024,MAY,Tumkur,HR,Rectal swab,15,mdtC
+2024,MAY,Tumkur,HR,Rectal swab,15,Escherichia_coli_emrE
+2024,MAY,Tumkur,HR,Rectal swab,15,emrB
+2024,MAY,Tumkur,HR,Rectal swab,15,Klebsiella_pneumoniae_KpnG
+2024,MAY,Tumkur,HR,Rectal swab,15,emrR
+2024,MAY,Tumkur,HR,Rectal swab,15,Klebsiella_pneumoniae_acrA
+2024,MAY,Tumkur,HR,Rectal swab,15,LptD
+2024,MAY,Tumkur,HR,Rectal swab,15,bacA
+2024,MAY,Tumkur,HR,Rectal swab,15,ugd
+2024,MAY,Tumkur,HR,Rectal swab,15,CMH-15
+2024,MAY,Tumkur,HR,Rectal swab,15,H-NS
+2024,MAY,Tumkur,HR,Rectal swab,15,cpxA
+2024,MAY,Tumkur,HR,Rectal swab,15,ArnT
+2024,MAY,Tumkur,HR,Rectal swab,15,PmrF
+2024,MAY,Tumkur,HR,Rectal swab,15,mdtM
+2024,MAY,Tumkur,HR,Rectal swab,15,Escherichia_coli_mdfA
+2024,MAY,Tumkur,HR,Rectal swab,15,bacA
+2024,MAY,Tumkur,HR,Rectal swab,15,CRP
+2024,MAY,Tumkur,HR,Rectal swab,15,emrR
+2024,MAY,Tumkur,HR,Rectal swab,15,emrA
+2024,MAY,Tumkur,HR,Rectal swab,15,emrB
+2024,MAY,Tumkur,HR,Rectal swab,15,kdpE
+2024,MAY,Tumkur,HR,Rectal swab,15,AcrS
+2024,MAY,Tumkur,HR,Rectal swab,15,AcrE
+2024,MAY,Tumkur,HR,Rectal swab,15,AcrF
+2024,MAY,Tumkur,HR,Rectal swab,15,gadX
+2024,MAY,Tumkur,HR,Rectal swab,15,gadW
+2024,MAY,Tumkur,HR,Rectal swab,15,mdtF
+2024,MAY,Tumkur,HR,Rectal swab,15,mdtE
+2024,MAY,Tumkur,HR,Rectal swab,15,acrB
+2024,MAY,Tumkur,HR,Rectal swab,15,Escherichia_coli_acrA
+2024,MAY,Tumkur,HR,Rectal swab,15,marA
+2024,MAY,Tumkur,HR,Rectal swab,15,YojI
+2024,MAY,Tumkur,HR,Rectal swab,15,eptA
+2024,MAY,Tumkur,HR,Rectal swab,15,mdtP
+2024,MAY,Tumkur,HR,Rectal swab,15,CRP
+2024,MAY,Tumkur,HR,Rectal swab,15,mdtC
+2024,MAY,Tumkur,HR,Rectal swab,15,mdtB
+2024,MAY,Tumkur,HR,Rectal swab,15,mdtA
+2024,MAY,Tumkur,HR,Rectal swab,15,leuO
+2024,MAY,Tumkur,HR,Rectal swab,15,evgS
+2024,MAY,Tumkur,HR,Rectal swab,15,evgA
+2024,MAY,Tumkur,HR,Rectal swab,15,emrK
+2024,MAY,Tumkur,HR,Rectal swab,15,emrY
+2024,MAY,Tumkur,HR,Rectal swab,15,TolC
+2024,MAY,Tumkur,HR,Rectal swab,15,OmpA
+2024,MAY,Tumkur,HR,Rectal swab,15,mdtG
+2024,MAY,Tumkur,HR,Rectal swab,15,mdtH
+2024,MAY,Tumkur,HR,Rectal swab,15,cpxA
+2024,MAY,Tumkur,HR,Rectal swab,15,oqxA
+2024,MAY,Tumkur,HR,Rectal swab,15,oqxB
+2024,MAY,Tumkur,HR,Rectal swab,15,Escherichia_coli_emrE
+2024,MAY,Tumkur,HR,Rectal swab,15,eptB
+2024,MAY,Tumkur,HR,Rectal swab,15,mdtC
+2024,MAY,Tumkur,HR,Rectal swab,15,mdtB
+2024,MAY,Tumkur,HR,Rectal swab,15,H-NS
+2024,MAY,Tumkur,HR,Rectal swab,15,OmpA
+2024,MAY,Tumkur,HR,Rectal swab,15,msbA
+2024,MAY,Tumkur,HR,Rectal swab,15,acrD
+2024,MAY,Tumkur,HR,Rectal swab,15,marA
+2024,MAY,Tumkur,HR,Rectal swab,15,H-NS
+2024,MAY,Tumkur,HR,Rectal swab,15,oqxA
+2024,MAY,Tumkur,HR,Rectal swab,15,oqxB
+2024,MAY,Tumkur,HR,Rectal swab,15,msbA
+2024,MAY,Tumkur,HR,Rectal swab,15,cpxA
+2024,MAY,Tumkur,HR,Rectal swab,15,bacA
+2024,MAY,Tumkur,HR,Rectal swab,15,acrD
+2024,MAY,Tumkur,HR,Rectal swab,15,FosA2
+2024,MAY,Tumkur,HR,Rectal swab,15,acrB
+2024,MAY,Tumkur,HR,Rectal swab,15,Enterobacter_cloacae_acrA
+2024,MAY,Tumkur,HR,Rectal swab,15,ramA
+2024,MAY,Tumkur,HR,Rectal swab,15,eptB
+2024,MAY,Tumkur,HR,Rectal swab,15,Escherichia_coli_ampC_beta-lactamase
+2024,JUNE,Tumkur,PV1,Rectal swab,16,catA4
+2024,JUNE,Tumkur,PV1,Rectal swab,16,tet(J)
+2024,JUNE,Tumkur,PV1,Rectal swab,16,gadX
+2024,JUNE,Tumkur,PV1,Rectal swab,16,gadW
+2024,JUNE,Tumkur,PV1,Rectal swab,16,mdtF
+2024,JUNE,Tumkur,PV1,Rectal swab,16,mdtE
+2024,JUNE,Tumkur,PV1,Rectal swab,16,CRP
+2024,JUNE,Tumkur,PV1,Rectal swab,16,acrD
+2024,JUNE,Tumkur,PV1,Rectal swab,16,cpxA
+2024,JUNE,Tumkur,PV1,Rectal swab,16,AcrF
+2024,JUNE,Tumkur,PV1,Rectal swab,16,AcrE
+2024,JUNE,Tumkur,PV1,Rectal swab,16,AcrS
+2024,JUNE,Tumkur,PV1,Rectal swab,16,bacA
+2024,JUNE,Tumkur,PV1,Rectal swab,16,TolC
+2024,JUNE,Tumkur,PV1,Rectal swab,16,emrB
+2024,JUNE,Tumkur,PV1,Rectal swab,16,emrA
+2024,JUNE,Tumkur,PV1,Rectal swab,16,emrR
+2024,JUNE,Tumkur,PV1,Rectal swab,16,evgS
+2024,JUNE,Tumkur,PV1,Rectal swab,16,evgA
+2024,JUNE,Tumkur,PV1,Rectal swab,16,emrK
+2024,JUNE,Tumkur,PV1,Rectal swab,16,emrY
+2024,JUNE,Tumkur,PV1,Rectal swab,16,PmrF
+2024,JUNE,Tumkur,PV1,Rectal swab,16,YojI
+2024,JUNE,Tumkur,PV1,Rectal swab,16,mdtC
+2024,JUNE,Tumkur,PV1,Rectal swab,16,mdtB
+2024,JUNE,Tumkur,PV1,Rectal swab,16,mdtA
+2024,JUNE,Tumkur,PV1,Rectal swab,16,ugd
+2024,JUNE,Tumkur,PV1,Rectal swab,16,mdtM
+2024,JUNE,Tumkur,PV1,Rectal swab,16,leuO
+2024,JUNE,Tumkur,PV1,Rectal swab,16,CRP
+2024,JUNE,Tumkur,PV1,Rectal swab,16,H-NS
+2024,JUNE,Tumkur,PV1,Rectal swab,16,mdtH
+2024,JUNE,Tumkur,PV1,Rectal swab,16,mdtG
+2024,JUNE,Tumkur,PV1,Rectal swab,16,OmpA
+2024,JUNE,Tumkur,PV1,Rectal swab,16,msbA
+2024,JUNE,Tumkur,PV1,Rectal swab,16,Escherichia_coli_mdfA
+2024,JUNE,Tumkur,PV1,Rectal swab,16,kdpE
+2024,JUNE,Tumkur,PV1,Rectal swab,16,Escherichia_coli_acrA
+2024,JUNE,Tumkur,PV1,Rectal swab,16,acrB
+2024,JUNE,Tumkur,PV1,Rectal swab,16,marA
+2024,JUNE,Tumkur,PV1,Rectal swab,16,EC-15
+2024,JUNE,Tumkur,PV1,Rectal swab,16,eptA
+2024,JUNE,Tumkur,PV1,Rectal swab,16,mdtN
+2024,JUNE,Tumkur,PV1,Rectal swab,16,mdtO
+2024,JUNE,Tumkur,PV1,Rectal swab,16,mdtP
+2023,JULY,Chitradurga,BA,Rectal swab,17,mdtM
+2023,JULY,Chitradurga,BA,Rectal swab,17,mdtN
+2023,JULY,Chitradurga,BA,Rectal swab,17,FosA7.5
+2023,JULY,Chitradurga,BA,Rectal swab,17,evgA
+2023,JULY,Chitradurga,BA,Rectal swab,17,Escherichia_coli_ampC_beta-lactamase
+2023,JULY,Chitradurga,BA,Rectal swab,17,gadW
+2023,JULY,Chitradurga,BA,Rectal swab,17,gadX
+2023,JULY,Chitradurga,BA,Rectal swab,17,emrY
+2023,JULY,Chitradurga,BA,Rectal swab,17,mdtE
+2023,JULY,Chitradurga,BA,Rectal swab,17,mdtN
+2023,JULY,Chitradurga,BA,Rectal swab,17,mdtM
+2023,JULY,Chitradurga,BA,Rectal swab,17,acrD
+2023,JULY,Chitradurga,BA,Rectal swab,17,EC-18
+2023,JULY,Chitradurga,BA,Rectal swab,17,marA
+2023,JULY,Chitradurga,BA,Rectal swab,17,H-NS
+2023,JULY,Chitradurga,BA,Rectal swab,17,mdtA
+2023,JULY,Chitradurga,BA,Rectal swab,17,Escherichia_coli_acrA
+2023,JULY,Chitradurga,BA,Rectal swab,17,acrB
+2023,JULY,Chitradurga,BA,Rectal swab,17,Escherichia_coli_mdfA
+2023,JULY,Chitradurga,BA,Rectal swab,17,Escherichia_coli_emrE
+2023,JULY,Chitradurga,BA,Rectal swab,17,AcrS
+2023,JULY,Chitradurga,BA,Rectal swab,17,AcrE
+2023,JULY,Chitradurga,BA,Rectal swab,17,AcrF
+2023,JULY,Chitradurga,BA,Rectal swab,17,msbA
+2023,JULY,Chitradurga,BA,Rectal swab,17,OmpA
+2023,JULY,Chitradurga,BA,Rectal swab,17,mdtG
+2023,JULY,Chitradurga,BA,Rectal swab,17,mdtH
+2023,JULY,Chitradurga,BA,Rectal swab,17,bacA
+2023,JULY,Chitradurga,BA,Rectal swab,17,eptA
+2023,JULY,Chitradurga,BA,Rectal swab,17,PmrF
+2023,JULY,Chitradurga,BA,Rectal swab,17,CRP
+2023,JULY,Chitradurga,BA,Rectal swab,17,leuO
+2023,JULY,Chitradurga,BA,Rectal swab,17,TolC
+2023,JULY,Chitradurga,BA,Rectal swab,17,Escherichia_coli_emrE
+2023,JULY,Chitradurga,BA,Rectal swab,17,evgS
+2023,JULY,Chitradurga,BA,Rectal swab,17,mdtP
+2023,JULY,Chitradurga,BA,Rectal swab,17,emrR
+2023,JULY,Chitradurga,BA,Rectal swab,17,emrA
+2023,JULY,Chitradurga,BA,Rectal swab,17,emrB
+2024,JULY,Tumkur,LK,Rectal swab,18,tet(B)
+2024,JULY,Tumkur,LK,Rectal swab,18,ugd
+2024,JULY,Tumkur,LK,Rectal swab,18,EC-18
+2024,JULY,Tumkur,LK,Rectal swab,18,Escherichia_coli_emrE
+2024,JULY,Tumkur,LK,Rectal swab,18,Escherichia_coli_mdfA
+2024,JULY,Tumkur,LK,Rectal swab,18,PmrF
+2024,JULY,Tumkur,LK,Rectal swab,18,leuO
+2024,JULY,Tumkur,LK,Rectal swab,18,mdtC
+2024,JULY,Tumkur,LK,Rectal swab,18,mdtB
+2024,JULY,Tumkur,LK,Rectal swab,18,mdtA
+2024,JULY,Tumkur,LK,Rectal swab,18,emrB
+2024,JULY,Tumkur,LK,Rectal swab,18,emrA
+2024,JULY,Tumkur,LK,Rectal swab,18,emrR
+2024,JULY,Tumkur,LK,Rectal swab,18,YojI
+2024,JULY,Tumkur,LK,Rectal swab,18,Escherichia_coli_acrA
+2024,JULY,Tumkur,LK,Rectal swab,18,acrB
+2024,JULY,Tumkur,LK,Rectal swab,18,kdpE
+2024,JULY,Tumkur,LK,Rectal swab,18,eptA
+2024,JULY,Tumkur,LK,Rectal swab,18,mdtH
+2024,JULY,Tumkur,LK,Rectal swab,18,mdtG
+2024,JULY,Tumkur,LK,Rectal swab,18,mdtM
+2024,JULY,Tumkur,LK,Rectal swab,18,acrD
+2024,JULY,Tumkur,LK,Rectal swab,18,CRP
+2024,JULY,Tumkur,LK,Rectal swab,18,marA
+2024,JULY,Tumkur,LK,Rectal swab,18,emrY
+2024,JULY,Tumkur,LK,Rectal swab,18,emrK
+2024,JULY,Tumkur,LK,Rectal swab,18,evgA
+2024,JULY,Tumkur,LK,Rectal swab,18,evgS
+2024,JULY,Tumkur,LK,Rectal swab,18,mdtE
+2024,JULY,Tumkur,LK,Rectal swab,18,mdtF
+2024,JULY,Tumkur,LK,Rectal swab,18,gadW
+2024,JULY,Tumkur,LK,Rectal swab,18,gadX
+2024,JULY,Tumkur,LK,Rectal swab,18,cpxA
+2024,JULY,Tumkur,LK,Rectal swab,18,H-NS
+2024,JULY,Tumkur,LK,Rectal swab,18,mdtP
+2024,JULY,Tumkur,LK,Rectal swab,18,mdtO
+2024,JULY,Tumkur,LK,Rectal swab,18,mdtN
+2024,JULY,Tumkur,LK,Rectal swab,18,OmpA
+2024,JULY,Tumkur,LK,Rectal swab,18,AcrF
+2024,JULY,Tumkur,LK,Rectal swab,18,AcrE
+2024,JULY,Tumkur,LK,Rectal swab,18,AcrS
+2024,JULY,Tumkur,LK,Rectal swab,18,msbA
+2024,JULY,Tumkur,LK,Rectal swab,18,TolC
+2024,JULY,Tumkur,LK,Rectal swab,18,bacA
+2024,JULY,Tumkur,LK,Rectal swab,20,acrD
+2024,JULY,Tumkur,LK,Rectal swab,20,cpxA
+2024,JULY,Tumkur,LK,Rectal swab,20,CRP
+2024,JULY,Tumkur,LK,Rectal swab,20,H-NS
+2024,JULY,Tumkur,LK,Rectal swab,20,emrB
+2024,JULY,Tumkur,LK,Rectal swab,20,Klebsiella_pneumoniae_KpnG
+2024,JULY,Tumkur,LK,Rectal swab,20,emrR
+2024,JULY,Tumkur,LK,Rectal swab,20,ACT-59
+2024,JULY,Tumkur,LK,Rectal swab,20,CRP
+2024,JULY,Tumkur,LK,Rectal swab,20,bacA
+2024,JULY,Tumkur,LK,Rectal swab,20,oqxB
+2024,JULY,Tumkur,LK,Rectal swab,20,oqxA
+2024,JULY,Tumkur,LK,Rectal swab,20,ugd
+2024,JULY,Tumkur,LK,Rectal swab,20,H-NS
+2024,JULY,Tumkur,LK,Rectal swab,20,acrD
+2024,JULY,Tumkur,LK,Rectal swab,20,FosA2
+2024,JULY,Tumkur,LK,Rectal swab,20,mdtA
+2024,JULY,Tumkur,LK,Rectal swab,20,mdtB
+2024,JULY,Tumkur,LK,Rectal swab,20,mdtC
+2024,JULY,Tumkur,LK,Rectal swab,20,CMH-1
+2024,JULY,Tumkur,LK,Rectal swab,20,emrB
+2024,JULY,Tumkur,LK,Rectal swab,20,Klebsiella_pneumoniae_KpnG
+2024,JULY,Tumkur,LK,Rectal swab,20,emrR
+2024,JULY,Tumkur,LK,Rectal swab,20,cpxA
+2024,JULY,Tumkur,LK,Rectal swab,20,ramA
+2024,JULY,Tumkur,LK,Rectal swab,20,marA
+2024,JULY,Tumkur,LK,Rectal swab,20,H-NS
+2024,JULY,Tumkur,LK,Rectal swab,20,TolC
+2024,JULY,Tumkur,LK,Rectal swab,20,emrB
+2024,JULY,Tumkur,LK,Rectal swab,20,tet(J)
+2024,JULY,Tumkur,LK,Rectal swab,20,bacA
+2024,JULY,Tumkur,LK,Rectal swab,20,acrB
+2024,JULY,Tumkur,LK,Rectal swab,20,Enterobacter_cloacae_acrA
+2024,JULY,Tumkur,LK,Rectal swab,20,oqxA
+2024,JULY,Tumkur,LK,Rectal swab,20,oqxB
+2024,JULY,Tumkur,LK,Rectal swab,20,acrD
+2024,JULY,Tumkur,LK,Rectal swab,20,Escherichia_coli_emrE
+2024,JULY,Tumkur,LK,Rectal swab,20,EC-13
+2024,JULY,Tumkur,LK,Rectal swab,20,OmpA
+2024,JULY,Tumkur,LK,Rectal swab,20,mdtA
+2024,JULY,Tumkur,LK,Rectal swab,20,mdtE
+2024,JULY,Tumkur,LK,Rectal swab,20,mdtF
+2024,JULY,Tumkur,LK,Rectal swab,20,gadW
+2024,JULY,Tumkur,LK,Rectal swab,20,gadX
+2024,JULY,Tumkur,LK,Rectal swab,20,mdtM
+2024,JULY,Tumkur,LK,Rectal swab,20,kdpE
+2024,JULY,Tumkur,LK,Rectal swab,20,eptA
+2024,JULY,Tumkur,LK,Rectal swab,20,msbA
+2024,JULY,Tumkur,LK,Rectal swab,20,mdtC
+2024,JULY,Tumkur,LK,Rectal swab,20,AcrS
+2024,JULY,Tumkur,LK,Rectal swab,20,AcrE
+2024,JULY,Tumkur,LK,Rectal swab,20,AcrF
+2024,JULY,Tumkur,LK,Rectal swab,20,CRP
+2024,JULY,Tumkur,LK,Rectal swab,20,marA
+2024,JULY,Tumkur,LK,Rectal swab,20,cpxA
+2024,JULY,Tumkur,LK,Rectal swab,20,emrR
+2024,JULY,Tumkur,LK,Rectal swab,20,mdtG
+2024,JULY,Tumkur,LK,Rectal swab,20,Escherichia_coli_acrA
+2024,JULY,Tumkur,LK,Rectal swab,20,acrB
+2024,JULY,Tumkur,LK,Rectal swab,20,mdtP
+2024,JULY,Tumkur,LK,Rectal swab,20,PmrF
+2024,JULY,Tumkur,LK,Rectal swab,20,mdtN
+2024,JULY,Tumkur,LK,Rectal swab,20,Escherichia_coli_mdfA
+2024,JULY,Tumkur,LK,Rectal swab,20,evgS
+2024,JULY,Tumkur,LK,Rectal swab,20,evgA
+2024,JULY,Tumkur,LK,Rectal swab,20,emrK
+2024,JULY,Tumkur,LK,Rectal swab,20,emrY
+2024,JULY,Tumkur,LK,Rectal swab,20,mdtC
+2024,JULY,Tumkur,LK,Rectal swab,20,mdtB
+2024,JULY,Tumkur,LK,Rectal swab,20,bacA
+2024,JULY,Tumkur,LK,Rectal swab,20,msbA
+2024,JULY,Tumkur,LK,Rectal swab,20,catA4
+2024,JULY,Tumkur,LK,Rectal swab,20,marA
+2024,JULY,Tumkur,LK,Rectal swab,20,CRP
+2024,JULY,Tumkur,LK,Rectal swab,20,acrB
+2024,JULY,Tumkur,LK,Rectal swab,20,Enterobacter_cloacae_acrA
+2024,JULY,Tumkur,LK,Rectal swab,20,Escherichia_coli_emrE
+2024,JULY,Tumkur,LK,Rectal swab,20,msbA
+2024,JULY,Tumkur,LK,Rectal swab,20,ramA
+2024,MAY,Tumkur,MD,Rectal swab,21,mdtN
+2024,MAY,Tumkur,MD,Rectal swab,21,mdtN
+2024,MAY,Tumkur,MD,Rectal swab,21,tet(B)
+2024,MAY,Tumkur,MD,Rectal swab,21,gadX
+2024,MAY,Tumkur,MD,Rectal swab,21,gadW
+2024,MAY,Tumkur,MD,Rectal swab,21,mdtF
+2024,MAY,Tumkur,MD,Rectal swab,21,mdtE
+2024,MAY,Tumkur,MD,Rectal swab,21,marA
+2024,MAY,Tumkur,MD,Rectal swab,21,Escherichia_coli_emrE
+2024,MAY,Tumkur,MD,Rectal swab,21,H-NS
+2024,MAY,Tumkur,MD,Rectal swab,21,emrY
+2024,MAY,Tumkur,MD,Rectal swab,21,emrK
+2024,MAY,Tumkur,MD,Rectal swab,21,evgA
+2024,MAY,Tumkur,MD,Rectal swab,21,evgS
+2024,MAY,Tumkur,MD,Rectal swab,21,mdtC
+2024,MAY,Tumkur,MD,Rectal swab,21,mdtB
+2024,MAY,Tumkur,MD,Rectal swab,21,mdtA
+2024,MAY,Tumkur,MD,Rectal swab,21,cpxA
+2024,MAY,Tumkur,MD,Rectal swab,21,EC-18
+2024,MAY,Tumkur,MD,Rectal swab,21,msbA
+2024,MAY,Tumkur,MD,Rectal swab,21,kdpE
+2024,MAY,Tumkur,MD,Rectal swab,21,eptA
+2024,MAY,Tumkur,MD,Rectal swab,21,mdtG
+2024,MAY,Tumkur,MD,Rectal swab,21,mdtH
+2024,MAY,Tumkur,MD,Rectal swab,21,TolC
+2024,MAY,Tumkur,MD,Rectal swab,21,bacA
+2024,MAY,Tumkur,MD,Rectal swab,21,leuO
+2024,MAY,Tumkur,MD,Rectal swab,21,CRP
+2024,MAY,Tumkur,MD,Rectal swab,21,Escherichia_coli_mdfA
+2024,MAY,Tumkur,MD,Rectal swab,21,YojI
+2024,MAY,Tumkur,MD,Rectal swab,21,mdtP
+2024,MAY,Tumkur,MD,Rectal swab,21,mdtO
+2024,MAY,Tumkur,MD,Rectal swab,21,AcrF
+2024,MAY,Tumkur,MD,Rectal swab,21,AcrE
+2024,MAY,Tumkur,MD,Rectal swab,21,AcrS
+2024,MAY,Tumkur,MD,Rectal swab,21,acrB
+2024,MAY,Tumkur,MD,Rectal swab,21,Escherichia_coli_acrA
+2024,MAY,Tumkur,MD,Rectal swab,21,acrD
+2024,MAY,Tumkur,MD,Rectal swab,21,PmrF
+2024,MAY,Tumkur,MD,Rectal swab,21,emrB
+2024,MAY,Tumkur,MD,Rectal swab,21,emrA
+2024,MAY,Tumkur,MD,Rectal swab,21,emrR
+2024,MAY,Tumkur,MD,Rectal swab,21,OmpA
+2024,JULY,Tumkur,LK,Rectal swab,22,gadX
+2024,JULY,Tumkur,LK,Rectal swab,22,mphA
+2024,JULY,Tumkur,LK,Rectal swab,22,EC-18
+2024,JULY,Tumkur,LK,Rectal swab,22,emrB
+2024,JULY,Tumkur,LK,Rectal swab,22,emrA
+2024,JULY,Tumkur,LK,Rectal swab,22,emrR
+2024,JULY,Tumkur,LK,Rectal swab,22,bacA
+2024,JULY,Tumkur,LK,Rectal swab,22,TolC
+2024,JULY,Tumkur,LK,Rectal swab,22,Escherichia_coli_emrE
+2024,JULY,Tumkur,LK,Rectal swab,22,gadX
+2024,JULY,Tumkur,LK,Rectal swab,22,gadW
+2024,JULY,Tumkur,LK,Rectal swab,22,mdtF
+2024,JULY,Tumkur,LK,Rectal swab,22,mdtE
+2024,JULY,Tumkur,LK,Rectal swab,22,cpxA
+2024,JULY,Tumkur,LK,Rectal swab,22,leuO
+2024,JULY,Tumkur,LK,Rectal swab,22,kdpE
+2024,JULY,Tumkur,LK,Rectal swab,22,mdtM
+2024,JULY,Tumkur,LK,Rectal swab,22,marA
+2024,JULY,Tumkur,LK,Rectal swab,22,eptA
+2024,JULY,Tumkur,LK,Rectal swab,22,mdtN
+2024,JULY,Tumkur,LK,Rectal swab,22,mdtO
+2024,JULY,Tumkur,LK,Rectal swab,22,mdtP
+2024,JULY,Tumkur,LK,Rectal swab,22,H-NS
+2024,JULY,Tumkur,LK,Rectal swab,22,mdtG
+2024,JULY,Tumkur,LK,Rectal swab,22,mdtH
+2024,JULY,Tumkur,LK,Rectal swab,22,CRP
+2024,JULY,Tumkur,LK,Rectal swab,22,Escherichia_coli_acrA
+2024,JULY,Tumkur,LK,Rectal swab,22,acrB
+2024,JULY,Tumkur,LK,Rectal swab,22,OmpA
+2024,JULY,Tumkur,LK,Rectal swab,22,msbA
+2024,JULY,Tumkur,LK,Rectal swab,22,Escherichia_coli_mdfA
+2024,JULY,Tumkur,LK,Rectal swab,22,AcrF
+2024,JULY,Tumkur,LK,Rectal swab,22,AcrE
+2024,JULY,Tumkur,LK,Rectal swab,22,AcrS
+2024,JULY,Tumkur,LK,Rectal swab,22,acrD
+2024,JULY,Tumkur,LK,Rectal swab,22,evgS
+2024,JULY,Tumkur,LK,Rectal swab,22,evgA
+2024,JULY,Tumkur,LK,Rectal swab,22,emrK
+2024,JULY,Tumkur,LK,Rectal swab,22,emrY
+2024,JULY,Tumkur,LK,Rectal swab,22,PmrF
+2024,JULY,Tumkur,LK,Rectal swab,22,YojI
+2024,JULY,Tumkur,LK,Rectal swab,22,mdtC
+2024,JULY,Tumkur,LK,Rectal swab,22,mdtB
+2024,JULY,Tumkur,LK,Rectal swab,22,mdtA
+2024,JULY,Tumkur,LK,Rectal swab,22,ugd
+2024,JULY,Tumkur,LK,Rectal swab,22,dfrA17
+2024,JUNE,Tumkur,PV1,Rectal swab,23,marA
+2024,JUNE,Tumkur,PV1,Rectal swab,23,Escherichia_coli_mdfA
+2024,JUNE,Tumkur,PV1,Rectal swab,23,cpxA
+2024,JUNE,Tumkur,PV1,Rectal swab,23,kdpE
+2024,JUNE,Tumkur,PV1,Rectal swab,23,emrB
+2024,JUNE,Tumkur,PV1,Rectal swab,23,emrA
+2024,JUNE,Tumkur,PV1,Rectal swab,23,emrR
+2024,JUNE,Tumkur,PV1,Rectal swab,23,mdtG
+2024,JUNE,Tumkur,PV1,Rectal swab,23,mdtH
+2024,JUNE,Tumkur,PV1,Rectal swab,23,Escherichia_coli_acrA
+2024,JUNE,Tumkur,PV1,Rectal swab,23,acrB
+2024,JUNE,Tumkur,PV1,Rectal swab,23,acrD
+2024,JUNE,Tumkur,PV1,Rectal swab,23,TolC
+2024,JUNE,Tumkur,PV1,Rectal swab,23,bacA
+2024,JUNE,Tumkur,PV1,Rectal swab,23,AcrS
+2024,JUNE,Tumkur,PV1,Rectal swab,23,AcrE
+2024,JUNE,Tumkur,PV1,Rectal swab,23,AcrF
+2024,JUNE,Tumkur,PV1,Rectal swab,23,gadX
+2024,JUNE,Tumkur,PV1,Rectal swab,23,gadW
+2024,JUNE,Tumkur,PV1,Rectal swab,23,mdtF
+2024,JUNE,Tumkur,PV1,Rectal swab,23,mdtE
+2024,JUNE,Tumkur,PV1,Rectal swab,23,CRP
+2024,JUNE,Tumkur,PV1,Rectal swab,23,ugd
+2024,JUNE,Tumkur,PV1,Rectal swab,23,mdtA
+2024,JUNE,Tumkur,PV1,Rectal swab,23,mdtB
+2024,JUNE,Tumkur,PV1,Rectal swab,23,mdtC
+2024,JUNE,Tumkur,PV1,Rectal swab,23,evgS
+2024,JUNE,Tumkur,PV1,Rectal swab,23,evgA
+2024,JUNE,Tumkur,PV1,Rectal swab,23,emrK
+2024,JUNE,Tumkur,PV1,Rectal swab,23,emrY
+2024,JUNE,Tumkur,PV1,Rectal swab,23,PmrF
+2024,JUNE,Tumkur,PV1,Rectal swab,23,YojI
+2024,JUNE,Tumkur,PV1,Rectal swab,23,eptA
+2024,JUNE,Tumkur,PV1,Rectal swab,23,mdtN
+2024,JUNE,Tumkur,PV1,Rectal swab,23,mdtO
+2024,JUNE,Tumkur,PV1,Rectal swab,23,mdtP
+2024,JUNE,Tumkur,PV1,Rectal swab,23,H-NS
+2024,JUNE,Tumkur,PV1,Rectal swab,23,leuO
+2024,JUNE,Tumkur,PV1,Rectal swab,23,OmpA
+2024,JUNE,Tumkur,PV1,Rectal swab,23,msbA
+2024,JUNE,Tumkur,PV1,Rectal swab,23,EC-18
+2024,JUNE,Tumkur,PV1,Rectal swab,23,mdtM
+2024,JUNE,Tumkur,PV2,Rectal swab,24,kdpE
+2024,JUNE,Tumkur,PV2,Rectal swab,24,Escherichia_coli_emrE
+2024,JUNE,Tumkur,PV2,Rectal swab,24,leuO
+2024,JUNE,Tumkur,PV2,Rectal swab,24,marA
+2024,JUNE,Tumkur,PV2,Rectal swab,24,acrD
+2024,JUNE,Tumkur,PV2,Rectal swab,24,emrB
+2024,JUNE,Tumkur,PV2,Rectal swab,24,emrA
+2024,JUNE,Tumkur,PV2,Rectal swab,24,emrR
+2024,JUNE,Tumkur,PV2,Rectal swab,24,CRP
+2024,JUNE,Tumkur,PV2,Rectal swab,24,mdtE
+2024,JUNE,Tumkur,PV2,Rectal swab,24,mdtF
+2024,JUNE,Tumkur,PV2,Rectal swab,24,gadW
+2024,JUNE,Tumkur,PV2,Rectal swab,24,gadX
+2024,JUNE,Tumkur,PV2,Rectal swab,24,H-NS
+2024,JUNE,Tumkur,PV2,Rectal swab,24,OmpA
+2024,JUNE,Tumkur,PV2,Rectal swab,24,msbA
+2024,JUNE,Tumkur,PV2,Rectal swab,24,Escherichia_coli_mdfA
+2024,JUNE,Tumkur,PV2,Rectal swab,24,mdtM
+2024,JUNE,Tumkur,PV2,Rectal swab,24,mdtC
+2024,JUNE,Tumkur,PV2,Rectal swab,24,mdtB
+2024,JUNE,Tumkur,PV2,Rectal swab,24,mdtA
+2024,JUNE,Tumkur,PV2,Rectal swab,24,mdtH
+2024,JUNE,Tumkur,PV2,Rectal swab,24,mdtG
+2024,JUNE,Tumkur,PV2,Rectal swab,24,emrY
+2024,JUNE,Tumkur,PV2,Rectal swab,24,emrK
+2024,JUNE,Tumkur,PV2,Rectal swab,24,evgA
+2024,JUNE,Tumkur,PV2,Rectal swab,24,evgS
+2024,JUNE,Tumkur,PV2,Rectal swab,24,ugd
+2024,JUNE,Tumkur,PV2,Rectal swab,24,cpxA
+2024,JUNE,Tumkur,PV2,Rectal swab,24,PmrF
+2024,JUNE,Tumkur,PV2,Rectal swab,24,EC-15
+2024,JUNE,Tumkur,PV2,Rectal swab,24,eptA
+2024,JUNE,Tumkur,PV2,Rectal swab,24,mdtN
+2024,JUNE,Tumkur,PV2,Rectal swab,24,mdtO
+2024,JUNE,Tumkur,PV2,Rectal swab,24,mdtP
+2024,JUNE,Tumkur,PV2,Rectal swab,24,YojI
+2024,JUNE,Tumkur,PV2,Rectal swab,24,acrB
+2024,JUNE,Tumkur,PV2,Rectal swab,24,Escherichia_coli_acrA
+2024,JUNE,Tumkur,PV2,Rectal swab,24,TolC
+2024,JUNE,Tumkur,PV2,Rectal swab,24,bacA
+2024,JUNE,Tumkur,PV2,Rectal swab,24,AcrS
+2024,JUNE,Tumkur,PV2,Rectal swab,24,AcrE
+2024,JUNE,Tumkur,PV2,Rectal swab,24,AcrF
+2024,MAY,Tumkur,MD,Rectal swab,25,ugd
+2024,MAY,Tumkur,MD,Rectal swab,25,ugd
+2024,MAY,Tumkur,MD,Rectal swab,25,Escherichia_coli_emrE
+2024,MAY,Tumkur,MD,Rectal swab,25,kdpE
+2024,MAY,Tumkur,MD,Rectal swab,25,mdtM
+2024,MAY,Tumkur,MD,Rectal swab,25,cpxA
+2024,MAY,Tumkur,MD,Rectal swab,25,emrB
+2024,MAY,Tumkur,MD,Rectal swab,25,emrA
+2024,MAY,Tumkur,MD,Rectal swab,25,emrR
+2024,MAY,Tumkur,MD,Rectal swab,25,mdtN
+2024,MAY,Tumkur,MD,Rectal swab,25,mdtO
+2024,MAY,Tumkur,MD,Rectal swab,25,mdtP
+2024,MAY,Tumkur,MD,Rectal swab,25,mdtC
+2024,MAY,Tumkur,MD,Rectal swab,25,mdtB
+2024,MAY,Tumkur,MD,Rectal swab,25,mdtA
+2024,MAY,Tumkur,MD,Rectal swab,25,gadX
+2024,MAY,Tumkur,MD,Rectal swab,25,gadW
+2024,MAY,Tumkur,MD,Rectal swab,25,mdtF
+2024,MAY,Tumkur,MD,Rectal swab,25,mdtE
+2024,MAY,Tumkur,MD,Rectal swab,25,EC-18
+2024,MAY,Tumkur,MD,Rectal swab,25,emrY
+2024,MAY,Tumkur,MD,Rectal swab,25,emrK
+2024,MAY,Tumkur,MD,Rectal swab,25,evgA
+2024,MAY,Tumkur,MD,Rectal swab,25,evgS
+2024,MAY,Tumkur,MD,Rectal swab,25,acrD
+2024,MAY,Tumkur,MD,Rectal swab,25,Escherichia_coli_acrA
+2024,MAY,Tumkur,MD,Rectal swab,25,acrB
+2024,MAY,Tumkur,MD,Rectal swab,25,CRP
+2024,MAY,Tumkur,MD,Rectal swab,25,marA
+2024,MAY,Tumkur,MD,Rectal swab,25,mdtH
+2024,MAY,Tumkur,MD,Rectal swab,25,mdtG
+2024,MAY,Tumkur,MD,Rectal swab,25,H-NS
+2024,MAY,Tumkur,MD,Rectal swab,25,Escherichia_coli_emrE
+2024,MAY,Tumkur,MD,Rectal swab,25,OmpA
+2024,MAY,Tumkur,MD,Rectal swab,25,msbA
+2024,MAY,Tumkur,MD,Rectal swab,25,AcrF
+2024,MAY,Tumkur,MD,Rectal swab,25,AcrE
+2024,MAY,Tumkur,MD,Rectal swab,25,AcrS
+2024,MAY,Tumkur,MD,Rectal swab,25,YojI
+2024,MAY,Tumkur,MD,Rectal swab,25,PmrF
+2024,MAY,Tumkur,MD,Rectal swab,25,eptA
+2024,MAY,Tumkur,MD,Rectal swab,25,bacA
+2024,MAY,Tumkur,MD,Rectal swab,25,TolC
+2024,MAY,Tumkur,MD,Rectal swab,25,Escherichia_coli_mdfA
+2024,MAY,Tumkur,MD,Rectal swab,25,leuO
+2024,JUNE,Tumkur,KLA,Rectal swab,26,mdtE
+2024,JUNE,Tumkur,KLA,Rectal swab,26,mdtF
+2024,JUNE,Tumkur,KLA,Rectal swab,26,gadW
+2024,JUNE,Tumkur,KLA,Rectal swab,26,gadX
+2024,JUNE,Tumkur,KLA,Rectal swab,26,emrR
+2024,JUNE,Tumkur,KLA,Rectal swab,26,emrA
+2024,JUNE,Tumkur,KLA,Rectal swab,26,emrB
+2024,JUNE,Tumkur,KLA,Rectal swab,26,mdtH
+2024,JUNE,Tumkur,KLA,Rectal swab,26,mdtG
+2024,JUNE,Tumkur,KLA,Rectal swab,26,YojI
+2024,JUNE,Tumkur,KLA,Rectal swab,26,PmrF
+2024,JUNE,Tumkur,KLA,Rectal swab,26,marA
+2024,JUNE,Tumkur,KLA,Rectal swab,26,H-NS
+2024,JUNE,Tumkur,KLA,Rectal swab,26,cpxA
+2024,JUNE,Tumkur,KLA,Rectal swab,26,AcrF
+2024,JUNE,Tumkur,KLA,Rectal swab,26,AcrE
+2024,JUNE,Tumkur,KLA,Rectal swab,26,AcrS
+2024,JUNE,Tumkur,KLA,Rectal swab,26,mdtM
+2024,JUNE,Tumkur,KLA,Rectal swab,26,TolC
+2024,JUNE,Tumkur,KLA,Rectal swab,26,bacA
+2024,JUNE,Tumkur,KLA,Rectal swab,26,EC-18
+2024,JUNE,Tumkur,KLA,Rectal swab,26,acrB
+2024,JUNE,Tumkur,KLA,Rectal swab,26,Escherichia_coli_acrA
+2024,JUNE,Tumkur,KLA,Rectal swab,26,msbA
+2024,JUNE,Tumkur,KLA,Rectal swab,26,OmpA
+2024,JUNE,Tumkur,KLA,Rectal swab,26,Escherichia_coli_emrE
+2024,JUNE,Tumkur,KLA,Rectal swab,26,ugd
+2024,JUNE,Tumkur,KLA,Rectal swab,26,mdtA
+2024,JUNE,Tumkur,KLA,Rectal swab,26,mdtB
+2024,JUNE,Tumkur,KLA,Rectal swab,26,mdtC
+2024,JUNE,Tumkur,KLA,Rectal swab,26,kdpE
+2024,JUNE,Tumkur,KLA,Rectal swab,26,leuO
+2024,JUNE,Tumkur,KLA,Rectal swab,26,Escherichia_coli_mdfA
+2024,JUNE,Tumkur,KLA,Rectal swab,26,mdtP
+2024,JUNE,Tumkur,KLA,Rectal swab,26,mdtO
+2024,JUNE,Tumkur,KLA,Rectal swab,26,mdtN
+2024,JUNE,Tumkur,KLA,Rectal swab,26,eptA
+2024,JUNE,Tumkur,KLA,Rectal swab,26,acrD
+2024,JUNE,Tumkur,KLA,Rectal swab,26,evgS
+2024,JUNE,Tumkur,KLA,Rectal swab,26,evgA
+2024,JUNE,Tumkur,KLA,Rectal swab,26,emrK
+2024,JUNE,Tumkur,KLA,Rectal swab,26,emrY
+2024,JUNE,Tumkur,KLA,Rectal swab,26,CRP
+2024,JUNE,Tumkur,PV2,Rectal swab,27,H-NS
+2024,JUNE,Tumkur,PV2,Rectal swab,27,Escherichia_coli_emrE
+2024,JUNE,Tumkur,PV2,Rectal swab,27,Escherichia_coli_mdfA
+2024,JUNE,Tumkur,PV2,Rectal swab,27,cpxA
+2024,JUNE,Tumkur,PV2,Rectal swab,27,acrB
+2024,JUNE,Tumkur,PV2,Rectal swab,27,Escherichia_coli_acrA
+2024,JUNE,Tumkur,PV2,Rectal swab,27,kdpE
+2024,JUNE,Tumkur,PV2,Rectal swab,27,mdtH
+2024,JUNE,Tumkur,PV2,Rectal swab,27,mdtG
+2024,JUNE,Tumkur,PV2,Rectal swab,27,acrD
+2024,JUNE,Tumkur,PV2,Rectal swab,27,evgS
+2024,JUNE,Tumkur,PV2,Rectal swab,27,evgA
+2024,JUNE,Tumkur,PV2,Rectal swab,27,emrK
+2024,JUNE,Tumkur,PV2,Rectal swab,27,emrY
+2024,JUNE,Tumkur,PV2,Rectal swab,27,eptA
+2024,JUNE,Tumkur,PV2,Rectal swab,27,mdtN
+2024,JUNE,Tumkur,PV2,Rectal swab,27,mdtO
+2024,JUNE,Tumkur,PV2,Rectal swab,27,mdtP
+2024,JUNE,Tumkur,PV2,Rectal swab,27,emrR
+2024,JUNE,Tumkur,PV2,Rectal swab,27,emrA
+2024,JUNE,Tumkur,PV2,Rectal swab,27,emrB
+2024,JUNE,Tumkur,PV2,Rectal swab,27,EC-18
+2024,JUNE,Tumkur,PV2,Rectal swab,27,leuO
+2024,JUNE,Tumkur,PV2,Rectal swab,27,bacA
+2024,JUNE,Tumkur,PV2,Rectal swab,27,TolC
+2024,JUNE,Tumkur,PV2,Rectal swab,27,PmrF
+2024,JUNE,Tumkur,PV2,Rectal swab,27,YojI
+2024,JUNE,Tumkur,PV2,Rectal swab,27,mdtC
+2024,JUNE,Tumkur,PV2,Rectal swab,27,mdtB
+2024,JUNE,Tumkur,PV2,Rectal swab,27,mdtA
+2024,JUNE,Tumkur,PV2,Rectal swab,27,ugd
+2024,JUNE,Tumkur,PV2,Rectal swab,27,mdtM
+2024,JUNE,Tumkur,PV2,Rectal swab,27,marA
+2024,JUNE,Tumkur,PV2,Rectal swab,27,gadX
+2024,JUNE,Tumkur,PV2,Rectal swab,27,gadW
+2024,JUNE,Tumkur,PV2,Rectal swab,27,mdtF
+2024,JUNE,Tumkur,PV2,Rectal swab,27,mdtE
+2024,JUNE,Tumkur,PV2,Rectal swab,27,CRP
+2024,JUNE,Tumkur,PV2,Rectal swab,27,AcrF
+2024,JUNE,Tumkur,PV2,Rectal swab,27,AcrE
+2024,JUNE,Tumkur,PV2,Rectal swab,27,AcrS
+2024,JUNE,Tumkur,PV2,Rectal swab,27,OmpA
+2024,JUNE,Tumkur,PV2,Rectal swab,27,msbA
+2023,DECEMBER,Chitradurga,BG,Rectal swab,28,ugd
+2023,DECEMBER,Chitradurga,BG,Rectal swab,28,Escherichia_coli_emrE
+2023,DECEMBER,Chitradurga,BG,Rectal swab,28,gadX
+2023,DECEMBER,Chitradurga,BG,Rectal swab,28,gadW
+2023,DECEMBER,Chitradurga,BG,Rectal swab,28,mdtF
+2023,DECEMBER,Chitradurga,BG,Rectal swab,28,mdtE
+2023,DECEMBER,Chitradurga,BG,Rectal swab,28,mdtM
+2023,DECEMBER,Chitradurga,BG,Rectal swab,28,CRP
+2023,DECEMBER,Chitradurga,BG,Rectal swab,28,emrY
+2023,DECEMBER,Chitradurga,BG,Rectal swab,28,emrK
+2023,DECEMBER,Chitradurga,BG,Rectal swab,28,evgA
+2023,DECEMBER,Chitradurga,BG,Rectal swab,28,evgS
+2023,DECEMBER,Chitradurga,BG,Rectal swab,28,acrB
+2023,DECEMBER,Chitradurga,BG,Rectal swab,28,Escherichia_coli_acrA
+2023,DECEMBER,Chitradurga,BG,Rectal swab,28,TolC
+2023,DECEMBER,Chitradurga,BG,Rectal swab,28,kdpE
+2023,DECEMBER,Chitradurga,BG,Rectal swab,28,H-NS
+2023,DECEMBER,Chitradurga,BG,Rectal swab,28,AcrF
+2023,DECEMBER,Chitradurga,BG,Rectal swab,28,AcrE
+2023,DECEMBER,Chitradurga,BG,Rectal swab,28,AcrS
+2023,DECEMBER,Chitradurga,BG,Rectal swab,28,bacA
+2023,DECEMBER,Chitradurga,BG,Rectal swab,28,mdtP
+2023,DECEMBER,Chitradurga,BG,Rectal swab,28,mdtO
+2023,DECEMBER,Chitradurga,BG,Rectal swab,28,mdtN
+2023,DECEMBER,Chitradurga,BG,Rectal swab,28,eptA
+2023,DECEMBER,Chitradurga,BG,Rectal swab,28,EC-18
+2023,DECEMBER,Chitradurga,BG,Rectal swab,28,marA
+2023,DECEMBER,Chitradurga,BG,Rectal swab,28,leuO
+2023,DECEMBER,Chitradurga,BG,Rectal swab,28,cpxA
+2023,DECEMBER,Chitradurga,BG,Rectal swab,28,emrB
+2023,DECEMBER,Chitradurga,BG,Rectal swab,28,emrA
+2023,DECEMBER,Chitradurga,BG,Rectal swab,28,emrR
+2023,DECEMBER,Chitradurga,BG,Rectal swab,28,acrD
+2023,DECEMBER,Chitradurga,BG,Rectal swab,28,mdtH
+2023,DECEMBER,Chitradurga,BG,Rectal swab,28,mdtG
+2023,DECEMBER,Chitradurga,BG,Rectal swab,28,mdtA
+2023,DECEMBER,Chitradurga,BG,Rectal swab,28,mdtB
+2023,DECEMBER,Chitradurga,BG,Rectal swab,28,mdtC
+2023,DECEMBER,Chitradurga,BG,Rectal swab,28,YojI
+2023,DECEMBER,Chitradurga,BG,Rectal swab,28,PmrF
+2023,DECEMBER,Chitradurga,BG,Rectal swab,28,Escherichia_coli_mdfA
+2023,DECEMBER,Chitradurga,BG,Rectal swab,28,msbA
+2023,DECEMBER,Chitradurga,BG,Rectal swab,28,OmpA
+2024,MAY,Tumkur,MD,Rectal swab,29,CTX-M-15
+2024,MAY,Tumkur,MD,Rectal swab,29,tet(B)
+2024,MAY,Tumkur,MD,Rectal swab,29,evgS
+2024,MAY,Tumkur,MD,Rectal swab,29,evgA
+2024,MAY,Tumkur,MD,Rectal swab,29,emrK
+2024,MAY,Tumkur,MD,Rectal swab,29,emrY
+2024,MAY,Tumkur,MD,Rectal swab,29,kdpE
+2024,MAY,Tumkur,MD,Rectal swab,29,mdtH
+2024,MAY,Tumkur,MD,Rectal swab,29,mdtG
+2024,MAY,Tumkur,MD,Rectal swab,29,msbA
+2024,MAY,Tumkur,MD,Rectal swab,29,cpxA
+2024,MAY,Tumkur,MD,Rectal swab,29,marA
+2024,MAY,Tumkur,MD,Rectal swab,29,H-NS
+2024,MAY,Tumkur,MD,Rectal swab,29,OmpA
+2024,MAY,Tumkur,MD,Rectal swab,29,AcrS
+2024,MAY,Tumkur,MD,Rectal swab,29,AcrE
+2024,MAY,Tumkur,MD,Rectal swab,29,AcrF
+2024,MAY,Tumkur,MD,Rectal swab,29,TolC
+2024,MAY,Tumkur,MD,Rectal swab,29,bacA
+2024,MAY,Tumkur,MD,Rectal swab,29,YojI
+2024,MAY,Tumkur,MD,Rectal swab,29,PmrF
+2024,MAY,Tumkur,MD,Rectal swab,29,CRP
+2024,MAY,Tumkur,MD,Rectal swab,29,mdtE
+2024,MAY,Tumkur,MD,Rectal swab,29,mdtF
+2024,MAY,Tumkur,MD,Rectal swab,29,gadW
+2024,MAY,Tumkur,MD,Rectal swab,29,gadX
+2024,MAY,Tumkur,MD,Rectal swab,29,emrR
+2024,MAY,Tumkur,MD,Rectal swab,29,emrA
+2024,MAY,Tumkur,MD,Rectal swab,29,emrB
+2024,MAY,Tumkur,MD,Rectal swab,29,acrD
+2024,MAY,Tumkur,MD,Rectal swab,29,mdtP
+2024,MAY,Tumkur,MD,Rectal swab,29,mdtO
+2024,MAY,Tumkur,MD,Rectal swab,29,mdtN
+2024,MAY,Tumkur,MD,Rectal swab,29,eptA
+2024,MAY,Tumkur,MD,Rectal swab,29,Escherichia_coli_mdfA
+2024,MAY,Tumkur,MD,Rectal swab,29,leuO
+2024,MAY,Tumkur,MD,Rectal swab,29,mdtM
+2024,MAY,Tumkur,MD,Rectal swab,29,EC-18
+2024,MAY,Tumkur,MD,Rectal swab,29,mdtC
+2024,MAY,Tumkur,MD,Rectal swab,29,mdtB
+2024,MAY,Tumkur,MD,Rectal swab,29,mdtA
+2024,MAY,Tumkur,MD,Rectal swab,29,ugd
+2024,MAY,Tumkur,MD,Rectal swab,29,acrB
+2024,MAY,Tumkur,MD,Rectal swab,29,Escherichia_coli_acrA
+2024,MAY,Tumkur,MD,Rectal swab,29,marA
+2024,JULY,Tumkur,DDM,Rectal swab,30,bmr
+2024,JULY,Tumkur,DDM,Rectal swab,30,vmlR
+2024,JULY,Tumkur,DDM,Rectal swab,30,tmrB
+2024,JULY,Tumkur,DDM,Rectal swab,30,lmrB
+2024,JULY,Tumkur,DDM,Rectal swab,30,mphK
+2024,JULY,Tumkur,DDM,Rectal swab,30,blt
+2024,JULY,Tumkur,DDM,Rectal swab,30,aadK
+2024,JULY,Tumkur,DDM,Rectal swab,30,tet(L)
+2024,JULY,Tumkur,DDM,Rectal swab,30,rphB
+2024,JULY,Tumkur,DDM,Rectal swab,30,tet(J)
+2024,JULY,Tumkur,DDM,Rectal swab,30,ykkD
+2024,JULY,Tumkur,DDM,Rectal swab,30,ykkC
+2024,JULY,Tumkur,DDM,Rectal swab,30,catA4
+2024,JULY,Tumkur,DDM,Rectal swab,30,CRP
+2024,JULY,Tumkur,DDM,Rectal swab,30,Bacillus_subtilis_mprF
+2024,JUNE,Tumkur,PV1,Rectal swab,31,tet(B)
+2024,JUNE,Tumkur,PV1,Rectal swab,31,emrB
+2024,JUNE,Tumkur,PV1,Rectal swab,31,emrA
+2024,JUNE,Tumkur,PV1,Rectal swab,31,emrR
+2024,JUNE,Tumkur,PV1,Rectal swab,31,AcrF
+2024,JUNE,Tumkur,PV1,Rectal swab,31,AcrE
+2024,JUNE,Tumkur,PV1,Rectal swab,31,AcrS
+2024,JUNE,Tumkur,PV1,Rectal swab,31,H-NS
+2024,JUNE,Tumkur,PV1,Rectal swab,31,mdtM
+2024,JUNE,Tumkur,PV1,Rectal swab,31,mdtH
+2024,JUNE,Tumkur,PV1,Rectal swab,31,mdtG
+2024,JUNE,Tumkur,PV1,Rectal swab,31,acrD
+2024,JUNE,Tumkur,PV1,Rectal swab,31,leuO
+2024,JUNE,Tumkur,PV1,Rectal swab,31,EC-18
+2024,JUNE,Tumkur,PV1,Rectal swab,31,Escherichia_coli_mdfA
+2024,JUNE,Tumkur,PV1,Rectal swab,31,msbA
+2024,JUNE,Tumkur,PV1,Rectal swab,31,OmpA
+2024,JUNE,Tumkur,PV1,Rectal swab,31,kdpE
+2024,JUNE,Tumkur,PV1,Rectal swab,31,gadX
+2024,JUNE,Tumkur,PV1,Rectal swab,31,gadW
+2024,JUNE,Tumkur,PV1,Rectal swab,31,mdtF
+2024,JUNE,Tumkur,PV1,Rectal swab,31,mdtE
+2024,JUNE,Tumkur,PV1,Rectal swab,31,CRP
+2024,JUNE,Tumkur,PV1,Rectal swab,31,marA
+2024,JUNE,Tumkur,PV1,Rectal swab,31,TolC
+2024,JUNE,Tumkur,PV1,Rectal swab,31,bacA
+2024,JUNE,Tumkur,PV1,Rectal swab,31,cpxA
+2024,JUNE,Tumkur,PV1,Rectal swab,31,evgS
+2024,JUNE,Tumkur,PV1,Rectal swab,31,evgA
+2024,JUNE,Tumkur,PV1,Rectal swab,31,emrK
+2024,JUNE,Tumkur,PV1,Rectal swab,31,emrY
+2024,JUNE,Tumkur,PV1,Rectal swab,31,PmrF
+2024,JUNE,Tumkur,PV1,Rectal swab,31,YojI
+2024,JUNE,Tumkur,PV1,Rectal swab,31,mdtC
+2024,JUNE,Tumkur,PV1,Rectal swab,31,mdtB
+2024,JUNE,Tumkur,PV1,Rectal swab,31,mdtA
+2024,JUNE,Tumkur,PV1,Rectal swab,31,acrB
+2024,JUNE,Tumkur,PV1,Rectal swab,31,Escherichia_coli_acrA
+2024,JUNE,Tumkur,PV1,Rectal swab,31,mdtP
+2024,JUNE,Tumkur,PV1,Rectal swab,31,mdtO
+2024,JUNE,Tumkur,PV1,Rectal swab,31,mdtN
+2024,JUNE,Tumkur,PV1,Rectal swab,31,eptA
+2024,JULY,Tumkur,LK,Rectal swab,32,leuO
+2024,JULY,Tumkur,LK,Rectal swab,32,CRP
+2024,JULY,Tumkur,LK,Rectal swab,32,gadX
+2024,JULY,Tumkur,LK,Rectal swab,32,Escherichia_coli_emrE
+2024,JULY,Tumkur,LK,Rectal swab,32,msbA
+2024,JULY,Tumkur,LK,Rectal swab,32,emrB
+2024,JULY,Tumkur,LK,Rectal swab,32,emrA
+2024,JULY,Tumkur,LK,Rectal swab,32,emrR
+2024,JULY,Tumkur,LK,Rectal swab,32,YojI
+2024,JULY,Tumkur,LK,Rectal swab,32,mdtN
+2024,JULY,Tumkur,LK,Rectal swab,32,mdtO
+2024,JULY,Tumkur,LK,Rectal swab,32,Escherichia_coli_emrE
+2024,JULY,Tumkur,LK,Rectal swab,32,mdtE
+2024,JULY,Tumkur,LK,Rectal swab,32,ugd
+2024,JULY,Tumkur,LK,Rectal swab,32,kdpE
+2024,JULY,Tumkur,LK,Rectal swab,32,H-NS
+2024,JULY,Tumkur,LK,Rectal swab,32,gadX
+2024,JULY,Tumkur,LK,Rectal swab,32,PmrF
+2024,JULY,Tumkur,LK,Rectal swab,32,marA
+2024,JULY,Tumkur,LK,Rectal swab,32,CRP
+2024,JULY,Tumkur,LK,Rectal swab,32,Escherichia_coli_mdfA
+2024,JULY,Tumkur,LK,Rectal swab,32,evgS
+2024,JULY,Tumkur,LK,Rectal swab,32,evgA
+2024,JULY,Tumkur,LK,Rectal swab,32,emrK
+2024,JULY,Tumkur,LK,Rectal swab,32,emrY
+2024,JULY,Tumkur,LK,Rectal swab,32,bacA
+2024,JULY,Tumkur,LK,Rectal swab,32,gadW
+2024,JULY,Tumkur,LK,Rectal swab,32,gadW
+2024,JULY,Tumkur,LK,Rectal swab,32,acrB
+2024,JULY,Tumkur,LK,Rectal swab,32,Escherichia_coli_acrA
+2024,JULY,Tumkur,LK,Rectal swab,32,cpxA
+2024,JULY,Tumkur,LK,Rectal swab,32,TolC
+2024,JULY,Tumkur,LK,Rectal swab,32,leuO
+2024,JULY,Tumkur,LK,Rectal swab,32,eptA
+2024,JULY,Tumkur,LK,Rectal swab,32,acrD
+2024,JULY,Tumkur,LK,Rectal swab,32,AcrS
+2024,JULY,Tumkur,LK,Rectal swab,32,mdtG
+2024,JULY,Tumkur,LK,Rectal swab,32,mdtH
+2024,JULY,Tumkur,LK,Rectal swab,32,OmpA
+2023,OCTOBER,Chitradurga,DD,Rectal swab,33,emrR
+2023,OCTOBER,Chitradurga,DD,Rectal swab,33,emrA
+2023,OCTOBER,Chitradurga,DD,Rectal swab,33,emrB
+2023,OCTOBER,Chitradurga,DD,Rectal swab,33,TolC
+2023,OCTOBER,Chitradurga,DD,Rectal swab,33,bacA
+2023,OCTOBER,Chitradurga,DD,Rectal swab,33,msbA
+2023,OCTOBER,Chitradurga,DD,Rectal swab,33,Escherichia_coli_mdfA
+2023,OCTOBER,Chitradurga,DD,Rectal swab,33,acrB
+2023,OCTOBER,Chitradurga,DD,Rectal swab,33,Escherichia_coli_acrA
+2023,OCTOBER,Chitradurga,DD,Rectal swab,33,cpxA
+2023,OCTOBER,Chitradurga,DD,Rectal swab,33,AcrF
+2023,OCTOBER,Chitradurga,DD,Rectal swab,33,AcrE
+2023,OCTOBER,Chitradurga,DD,Rectal swab,33,AcrS
+2023,OCTOBER,Chitradurga,DD,Rectal swab,33,marA
+2023,OCTOBER,Chitradurga,DD,Rectal swab,33,mdtM
+2023,OCTOBER,Chitradurga,DD,Rectal swab,33,H-NS
+2023,OCTOBER,Chitradurga,DD,Rectal swab,33,mdtH
+2023,OCTOBER,Chitradurga,DD,Rectal swab,33,mdtG
+2023,OCTOBER,Chitradurga,DD,Rectal swab,33,ugd
+2023,OCTOBER,Chitradurga,DD,Rectal swab,33,gadX
+2023,OCTOBER,Chitradurga,DD,Rectal swab,33,gadW
+2023,OCTOBER,Chitradurga,DD,Rectal swab,33,mdtF
+2023,OCTOBER,Chitradurga,DD,Rectal swab,33,mdtE
+2023,OCTOBER,Chitradurga,DD,Rectal swab,33,CRP
+2023,OCTOBER,Chitradurga,DD,Rectal swab,33,kdpE
+2023,OCTOBER,Chitradurga,DD,Rectal swab,33,emrY
+2023,OCTOBER,Chitradurga,DD,Rectal swab,33,emrK
+2023,OCTOBER,Chitradurga,DD,Rectal swab,33,evgA
+2023,OCTOBER,Chitradurga,DD,Rectal swab,33,evgS
+2023,OCTOBER,Chitradurga,DD,Rectal swab,33,acrD
+2023,OCTOBER,Chitradurga,DD,Rectal swab,33,EC-18
+2023,OCTOBER,Chitradurga,DD,Rectal swab,33,eptA
+2023,OCTOBER,Chitradurga,DD,Rectal swab,33,mdtN
+2023,OCTOBER,Chitradurga,DD,Rectal swab,33,mdtO
+2023,OCTOBER,Chitradurga,DD,Rectal swab,33,mdtP
+2023,OCTOBER,Chitradurga,DD,Rectal swab,33,mdtA
+2023,OCTOBER,Chitradurga,DD,Rectal swab,33,mdtB
+2023,OCTOBER,Chitradurga,DD,Rectal swab,33,mdtC
+2023,OCTOBER,Chitradurga,DD,Rectal swab,33,YojI
+2023,OCTOBER,Chitradurga,DD,Rectal swab,33,PmrF
+2023,OCTOBER,Chitradurga,DD,Rectal swab,33,OmpA
+2023,OCTOBER,Chitradurga,DD,Rectal swab,33,leuO
+2024,JUNE,Tumkur,PV2,Rectal swab,34,marA
+2024,JUNE,Tumkur,PV2,Rectal swab,34,Escherichia_coli_emrE
+2024,JUNE,Tumkur,PV2,Rectal swab,34,mdtN
+2024,JUNE,Tumkur,PV2,Rectal swab,34,evgS
+2024,JUNE,Tumkur,PV2,Rectal swab,34,evgA
+2024,JUNE,Tumkur,PV2,Rectal swab,34,emrK
+2024,JUNE,Tumkur,PV2,Rectal swab,34,emrY
+2024,JUNE,Tumkur,PV2,Rectal swab,34,marA
+2024,JUNE,Tumkur,PV2,Rectal swab,34,YojI
+2024,JUNE,Tumkur,PV2,Rectal swab,34,mdtM
+2024,JUNE,Tumkur,PV2,Rectal swab,34,leuO
+2024,JUNE,Tumkur,PV2,Rectal swab,34,mdtG
+2024,JUNE,Tumkur,PV2,Rectal swab,34,mdtH
+2024,JUNE,Tumkur,PV2,Rectal swab,34,acrD
+2024,JUNE,Tumkur,PV2,Rectal swab,34,CRP
+2024,JUNE,Tumkur,PV2,Rectal swab,34,mdtB
+2024,JUNE,Tumkur,PV2,Rectal swab,34,mdtA
+2024,JUNE,Tumkur,PV2,Rectal swab,34,kdpE
+2024,JUNE,Tumkur,PV2,Rectal swab,34,mdtP
+2024,JUNE,Tumkur,PV2,Rectal swab,34,TolC
+2024,JUNE,Tumkur,PV2,Rectal swab,34,bacA
+2024,JUNE,Tumkur,PV2,Rectal swab,34,EC-15
+2024,JUNE,Tumkur,PV2,Rectal swab,34,acrB
+2024,JUNE,Tumkur,PV2,Rectal swab,34,Escherichia_coli_acrA
+2024,JUNE,Tumkur,PV2,Rectal swab,34,Escherichia_coli_mdfA
+2024,JUNE,Tumkur,PV2,Rectal swab,34,H-NS
+2024,JUNE,Tumkur,PV2,Rectal swab,34,eptA
+2024,JUNE,Tumkur,PV2,Rectal swab,34,emrR
+2024,JUNE,Tumkur,PV2,Rectal swab,34,emrA
+2024,JUNE,Tumkur,PV2,Rectal swab,34,emrB
+2024,JUNE,Tumkur,PV2,Rectal swab,34,ugd
+2024,JUNE,Tumkur,PV2,Rectal swab,34,AcrS
+2024,JUNE,Tumkur,PV2,Rectal swab,34,AcrE
+2024,JUNE,Tumkur,PV2,Rectal swab,34,AcrF
+2024,JUNE,Tumkur,PV2,Rectal swab,34,mdtC
+2024,JUNE,Tumkur,PV2,Rectal swab,34,tet(J)
+2024,JUNE,Tumkur,PV2,Rectal swab,34,cpxA
+2024,JUNE,Tumkur,PV2,Rectal swab,34,OmpA
+2024,JUNE,Tumkur,PV2,Rectal swab,34,CRP
+2024,JUNE,Tumkur,PV2,Rectal swab,34,PmrF
+2024,JUNE,Tumkur,PV2,Rectal swab,34,catA4
+2024,JUNE,Tumkur,PV2,Rectal swab,34,mdtE
+2024,JUNE,Tumkur,PV2,Rectal swab,34,mdtF
+2024,JUNE,Tumkur,PV2,Rectal swab,34,gadW
+2024,JUNE,Tumkur,PV2,Rectal swab,34,gadX
+2024,JUNE,Tumkur,PV2,Rectal swab,34,msbA
+2024,JUNE,Tumkur,PV1,Rectal swab,35,marA
+2024,JUNE,Tumkur,PV1,Rectal swab,35,bacA
+2024,JUNE,Tumkur,PV1,Rectal swab,35,TolC
+2024,JUNE,Tumkur,PV1,Rectal swab,35,AcrS
+2024,JUNE,Tumkur,PV1,Rectal swab,35,AcrE
+2024,JUNE,Tumkur,PV1,Rectal swab,35,AcrF
+2024,JUNE,Tumkur,PV1,Rectal swab,35,Escherichia_coli_mdfA
+2024,JUNE,Tumkur,PV1,Rectal swab,35,kdpE
+2024,JUNE,Tumkur,PV1,Rectal swab,35,Escherichia_coli_acrA
+2024,JUNE,Tumkur,PV1,Rectal swab,35,acrB
+2024,JUNE,Tumkur,PV1,Rectal swab,35,mdtC
+2024,JUNE,Tumkur,PV1,Rectal swab,35,mdtB
+2024,JUNE,Tumkur,PV1,Rectal swab,35,mdtA
+2024,JUNE,Tumkur,PV1,Rectal swab,35,emrR
+2024,JUNE,Tumkur,PV1,Rectal swab,35,emrA
+2024,JUNE,Tumkur,PV1,Rectal swab,35,emrB
+2024,JUNE,Tumkur,PV1,Rectal swab,35,Escherichia_coli_ampC_beta-lactamase
+2024,JUNE,Tumkur,PV1,Rectal swab,35,eptA
+2024,JUNE,Tumkur,PV1,Rectal swab,35,mdtN
+2024,JUNE,Tumkur,PV1,Rectal swab,35,mdtO
+2024,JUNE,Tumkur,PV1,Rectal swab,35,mdtP
+2024,JUNE,Tumkur,PV1,Rectal swab,35,gadX
+2024,JUNE,Tumkur,PV1,Rectal swab,35,gadW
+2024,JUNE,Tumkur,PV1,Rectal swab,35,mdtF
+2024,JUNE,Tumkur,PV1,Rectal swab,35,mdtE
+2024,JUNE,Tumkur,PV1,Rectal swab,35,CRP
+2024,JUNE,Tumkur,PV1,Rectal swab,35,mdtH
+2024,JUNE,Tumkur,PV1,Rectal swab,35,mdtG
+2024,JUNE,Tumkur,PV1,Rectal swab,35,cpxA
+2024,JUNE,Tumkur,PV1,Rectal swab,35,YojI
+2024,JUNE,Tumkur,PV1,Rectal swab,35,PmrF
+2024,JUNE,Tumkur,PV1,Rectal swab,35,emrY
+2024,JUNE,Tumkur,PV1,Rectal swab,35,emrK
+2024,JUNE,Tumkur,PV1,Rectal swab,35,evgA
+2024,JUNE,Tumkur,PV1,Rectal swab,35,evgS
+2024,JUNE,Tumkur,PV1,Rectal swab,35,acrD
+2024,JUNE,Tumkur,PV1,Rectal swab,35,OmpA
+2024,JUNE,Tumkur,PV1,Rectal swab,35,msbA
+2024,JUNE,Tumkur,PV1,Rectal swab,35,H-NS
+2024,JUNE,Tumkur,PV1,Rectal swab,35,mdtM
+2024,JUNE,Tumkur,PV1,Rectal swab,35,leuO
+2024,JULY,Tumkur,TL,Rectal swab,36,cpxA
+2024,JULY,Tumkur,TL,Rectal swab,36,ugd
+2024,JULY,Tumkur,TL,Rectal swab,36,EC-15
+2024,JULY,Tumkur,TL,Rectal swab,36,emrB
+2024,JULY,Tumkur,TL,Rectal swab,36,H-NS
+2024,JULY,Tumkur,TL,Rectal swab,36,emrR
+2024,JULY,Tumkur,TL,Rectal swab,36,Enterobacter_cloacae_acrA
+2024,JULY,Tumkur,TL,Rectal swab,36,bacA
+2024,JULY,Tumkur,TL,Rectal swab,36,msbA
+2024,JULY,Tumkur,TL,Rectal swab,36,cpxA
+2024,JULY,Tumkur,TL,Rectal swab,36,marA
+2024,JULY,Tumkur,TL,Rectal swab,36,ramA
+2024,JULY,Tumkur,TL,Rectal swab,36,H-NS
+2024,JULY,Tumkur,TL,Rectal swab,36,eptB
+2024,JULY,Tumkur,TL,Rectal swab,36,Klebsiella_pneumoniae_KpnH
+2024,JULY,Tumkur,TL,Rectal swab,36,Klebsiella_pneumoniae_KpnG
+2024,JULY,Tumkur,TL,Rectal swab,36,OKP-B-6
+2024,JULY,Tumkur,TL,Rectal swab,36,mdtA
+2024,JULY,Tumkur,TL,Rectal swab,36,ugd
+2024,JULY,Tumkur,TL,Rectal swab,36,Klebsiella_pneumoniae_KpnF
+2024,JULY,Tumkur,TL,Rectal swab,36,Klebsiella_pneumoniae_KpnE
+2024,JULY,Tumkur,TL,Rectal swab,36,ACT-151
+2024,JULY,Tumkur,TL,Rectal swab,36,Escherichia_coli_emrE
+2024,JULY,Tumkur,TL,Rectal swab,36,bacA
+2024,JULY,Tumkur,TL,Rectal swab,36,ramA
+2024,JULY,Tumkur,TL,Rectal swab,36,ugd
+2024,JULY,Tumkur,TL,Rectal swab,36,MdtQ
+2024,JULY,Tumkur,TL,Rectal swab,36,OmpA
+2024,JULY,Tumkur,TL,Rectal swab,36,Escherichia_coli_emrE
+2024,JULY,Tumkur,TL,Rectal swab,36,FosA2
+2024,JULY,Tumkur,TL,Rectal swab,36,FosA6
+2024,JULY,Tumkur,TL,Rectal swab,36,acrB
+2024,JULY,Tumkur,TL,Rectal swab,36,H-NS
+2024,JULY,Tumkur,TL,Rectal swab,36,emrR
+2024,JULY,Tumkur,TL,Rectal swab,36,acrD
+2024,JULY,Tumkur,TL,Rectal swab,36,Klebsiella_pneumoniae_KpnE
+2024,JULY,Tumkur,TL,Rectal swab,36,Klebsiella_pneumoniae_KpnF
+2024,JULY,Tumkur,TL,Rectal swab,36,marA
+2024,JULY,Tumkur,TL,Rectal swab,36,mdtB
+2024,JULY,Tumkur,TL,Rectal swab,36,oqxA
+2024,JULY,Tumkur,TL,Rectal swab,36,ArnT
+2024,JULY,Tumkur,TL,Rectal swab,36,ArnT
+2024,JULY,Tumkur,TL,Rectal swab,36,Klebsiella_pneumoniae_OmpK37
+2024,JULY,Tumkur,TL,Rectal swab,36,mdtE
+2024,JULY,Tumkur,TL,Rectal swab,36,gadW
+2024,JULY,Tumkur,TL,Rectal swab,36,acrD
+2024,JULY,Tumkur,TL,Rectal swab,36,marA
+2024,JULY,Tumkur,TL,Rectal swab,36,SHV-106
+2024,JULY,Tumkur,TL,Rectal swab,36,emrR
+2024,JULY,Tumkur,TL,Rectal swab,36,eptB
+2024,JULY,Tumkur,TL,Rectal swab,36,Klebsiella_pneumoniae_KpnH
+2024,JULY,Tumkur,TL,Rectal swab,36,Klebsiella_pneumoniae_KpnG
+2024,JULY,Tumkur,TL,Rectal swab,36,emrR
+2024,JULY,Tumkur,TL,Rectal swab,36,H-NS
+2024,JULY,Tumkur,TL,Rectal swab,36,CRP
+2024,JULY,Tumkur,TL,Rectal swab,36,bacA
+2024,JULY,Tumkur,TL,Rectal swab,36,gadW
+2024,JULY,Tumkur,TL,Rectal swab,36,mdtF
+2024,JULY,Tumkur,TL,Rectal swab,36,emrK
+2024,JULY,Tumkur,TL,Rectal swab,36,evgA
+2024,JULY,Tumkur,TL,Rectal swab,36,CRP
+2024,JULY,Tumkur,TL,Rectal swab,36,mdtM
+2024,JULY,Tumkur,TL,Rectal swab,36,Klebsiella_pneumoniae_acrA
+2024,JULY,Tumkur,TL,Rectal swab,36,CRP
+2024,JULY,Tumkur,TL,Rectal swab,36,bacA
+2024,JULY,Tumkur,TL,Rectal swab,36,acrB
+2024,JULY,Tumkur,TL,Rectal swab,36,mdtM
+2024,JULY,Tumkur,TL,Rectal swab,36,mdtM
+2024,JULY,Tumkur,TL,Rectal swab,36,AcrE
+2024,JULY,Tumkur,TL,Rectal swab,36,OmpA
+2024,JULY,Tumkur,TL,Rectal swab,36,Enterobacter_cloacae_acrA
+2024,JULY,Tumkur,TL,Rectal swab,36,acrB
+2024,JULY,Tumkur,TL,Rectal swab,36,ramA
+2024,JULY,Tumkur,TL,Rectal swab,36,mdtH
+2024,JULY,Tumkur,TL,Rectal swab,36,acrD
+2024,JULY,Tumkur,TL,Rectal swab,36,msbA
+2024,JULY,Tumkur,TL,Rectal swab,36,OmpA
+2024,JULY,Tumkur,TL,Rectal swab,36,cpxA
+2024,JULY,Tumkur,TL,Rectal swab,36,marA
+2024,JULY,Tumkur,TL,Rectal swab,36,Klebsiella_pneumoniae_KpnG
+2024,JULY,Tumkur,TL,Rectal swab,36,emrB
+2024,JULY,Tumkur,TL,Rectal swab,36,oqxB
+2024,JULY,Tumkur,TL,Rectal swab,36,oqxA
+2024,JULY,Tumkur,TL,Rectal swab,36,H-NS
+2024,JULY,Tumkur,TL,Rectal swab,36,fosA5
+2024,JULY,Tumkur,TL,Rectal swab,36,oqxA
+2024,JULY,Tumkur,TL,Rectal swab,36,msbA
+2024,JULY,Tumkur,TL,Rectal swab,36,mdtB
+2024,JULY,Tumkur,TL,Rectal swab,36,mdtC
+2023,JULY,Chitradurga,GN,Rectal swab,37,tet(B)
+2023,JULY,Chitradurga,GN,Rectal swab,37,cpxA
+2023,JULY,Chitradurga,GN,Rectal swab,37,gadX
+2023,JULY,Chitradurga,GN,Rectal swab,37,gadW
+2023,JULY,Chitradurga,GN,Rectal swab,37,mdtF
+2023,JULY,Chitradurga,GN,Rectal swab,37,mdtE
+2023,JULY,Chitradurga,GN,Rectal swab,37,CRP
+2023,JULY,Chitradurga,GN,Rectal swab,37,kdpE
+2023,JULY,Chitradurga,GN,Rectal swab,37,Escherichia_coli_emrE
+2023,JULY,Chitradurga,GN,Rectal swab,37,mdtH
+2023,JULY,Chitradurga,GN,Rectal swab,37,mdtG
+2023,JULY,Chitradurga,GN,Rectal swab,37,marA
+2023,JULY,Chitradurga,GN,Rectal swab,37,H-NS
+2023,JULY,Chitradurga,GN,Rectal swab,37,msbA
+2023,JULY,Chitradurga,GN,Rectal swab,37,Escherichia_coli_mdfA
+2023,JULY,Chitradurga,GN,Rectal swab,37,emrR
+2023,JULY,Chitradurga,GN,Rectal swab,37,emrA
+2023,JULY,Chitradurga,GN,Rectal swab,37,emrB
+2023,JULY,Chitradurga,GN,Rectal swab,37,leuO
+2023,JULY,Chitradurga,GN,Rectal swab,37,mdtP
+2023,JULY,Chitradurga,GN,Rectal swab,37,mdtO
+2023,JULY,Chitradurga,GN,Rectal swab,37,mdtN
+2023,JULY,Chitradurga,GN,Rectal swab,37,eptA
+2023,JULY,Chitradurga,GN,Rectal swab,37,EC-18
+2023,JULY,Chitradurga,GN,Rectal swab,37,mdtC
+2023,JULY,Chitradurga,GN,Rectal swab,37,mdtB
+2023,JULY,Chitradurga,GN,Rectal swab,37,mdtA
+2023,JULY,Chitradurga,GN,Rectal swab,37,ugd
+2023,JULY,Chitradurga,GN,Rectal swab,37,mdtM
+2023,JULY,Chitradurga,GN,Rectal swab,37,OmpA
+2023,JULY,Chitradurga,GN,Rectal swab,37,TolC
+2023,JULY,Chitradurga,GN,Rectal swab,37,bacA
+2023,JULY,Chitradurga,GN,Rectal swab,37,AcrS
+2023,JULY,Chitradurga,GN,Rectal swab,37,AcrE
+2023,JULY,Chitradurga,GN,Rectal swab,37,AcrF
+2023,JULY,Chitradurga,GN,Rectal swab,37,acrB
+2023,JULY,Chitradurga,GN,Rectal swab,37,Escherichia_coli_acrA
+2023,JULY,Chitradurga,GN,Rectal swab,37,acrD
+2023,JULY,Chitradurga,GN,Rectal swab,37,evgS
+2023,JULY,Chitradurga,GN,Rectal swab,37,evgA
+2023,JULY,Chitradurga,GN,Rectal swab,37,emrK
+2023,JULY,Chitradurga,GN,Rectal swab,37,emrY
+2023,JULY,Chitradurga,GN,Rectal swab,37,PmrF
+2023,JULY,Chitradurga,GN,Rectal swab,37,YojI
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,39,Escherichia_coli_emrE
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,39,ugd
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,39,H-NS
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,39,mdtA
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,39,mdtB
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,39,mdtC
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,39,YojI
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,39,PmrF
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,39,emrY
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,39,emrK
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,39,evgA
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,39,evgS
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,39,acrD
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,39,kdpE
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,39,mdtM
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,39,leuO
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,39,gadX
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,39,gadW
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,39,mdtF
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,39,mdtE
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,39,CRP
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,39,Escherichia_coli_mdfA
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,39,EC-13
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,39,eptA
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,39,mdtN
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,39,mdtO
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,39,mdtP
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,39,acrB
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,39,Escherichia_coli_acrA
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,39,cpxA
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,39,OmpA
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,39,msbA
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,39,marA
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,39,AcrF
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,39,AcrE
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,39,AcrS
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,39,bacA
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,39,TolC
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,39,mdtG
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,39,mdtH
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,39,emrB
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,39,emrA
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,39,emrR
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,40,dfrA7
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,40,H-NS
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,40,YojI
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,40,emrR
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,40,mdtE
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,40,emrY
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,40,kdpE
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,40,marA
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,40,gadW
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,40,CRP
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,40,DHA-1
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,40,QnrB4
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,40,ugd
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,40,ugd
+2024,MAY,Tumkur,NR,Rectal swab,41,ugd
+2024,MAY,Tumkur,NR,Rectal swab,41,ugd
+2024,MAY,Tumkur,NR,Rectal swab,41,Escherichia_coli_emrE
+2024,MAY,Tumkur,NR,Rectal swab,41,Escherichia_coli_emrE
+2024,MAY,Tumkur,NR,Rectal swab,41,mdtB
+2024,MAY,Tumkur,NR,Rectal swab,41,mdtA
+2024,MAY,Tumkur,NR,Rectal swab,41,OmpA
+2024,MAY,Tumkur,NR,Rectal swab,41,mdtN
+2024,MAY,Tumkur,NR,Rectal swab,41,kdpE
+2024,MAY,Tumkur,NR,Rectal swab,41,msbA
+2024,MAY,Tumkur,NR,Rectal swab,41,mdtP
+2024,MAY,Tumkur,NR,Rectal swab,41,TolC
+2024,MAY,Tumkur,NR,Rectal swab,41,bacA
+2024,MAY,Tumkur,NR,Rectal swab,41,mdtF
+2024,MAY,Tumkur,NR,Rectal swab,41,gadW
+2024,MAY,Tumkur,NR,Rectal swab,41,gadX
+2024,MAY,Tumkur,NR,Rectal swab,41,eptA
+2024,MAY,Tumkur,NR,Rectal swab,41,emrK
+2024,MAY,Tumkur,NR,Rectal swab,41,evgA
+2024,MAY,Tumkur,NR,Rectal swab,41,evgS
+2024,MAY,Tumkur,NR,Rectal swab,41,H-NS
+2024,MAY,Tumkur,NR,Rectal swab,41,EC-18
+2024,MAY,Tumkur,NR,Rectal swab,41,CRP
+2024,MAY,Tumkur,NR,Rectal swab,41,PmrF
+2024,MAY,Tumkur,NR,Rectal swab,41,emrB
+2024,MAY,Tumkur,NR,Rectal swab,41,emrA
+2024,MAY,Tumkur,NR,Rectal swab,41,emrR
+2024,MAY,Tumkur,NR,Rectal swab,41,AcrS
+2024,MAY,Tumkur,NR,Rectal swab,41,AcrE
+2024,MAY,Tumkur,NR,Rectal swab,41,AcrF
+2024,MAY,Tumkur,NR,Rectal swab,41,mdtG
+2024,MAY,Tumkur,NR,Rectal swab,41,mdtH
+2024,MAY,Tumkur,NR,Rectal swab,41,leuO
+2024,MAY,Tumkur,NR,Rectal swab,41,Escherichia_coli_acrA
+2024,MAY,Tumkur,NR,Rectal swab,41,acrB
+2024,MAY,Tumkur,NR,Rectal swab,41,cpxA
+2024,MAY,Tumkur,NR,Rectal swab,41,marA
+2024,MAY,Tumkur,NR,Rectal swab,41,acrD
+2025,JANUARY,Tumkur,SI,Rectal swab,43,dfrA7
+2025,JANUARY,Tumkur,SI,Rectal swab,43,ugd
+2025,JANUARY,Tumkur,SI,Rectal swab,43,msrE
+2025,JANUARY,Tumkur,SI,Rectal swab,43,DHA-1
+2025,JANUARY,Tumkur,SI,Rectal swab,43,QnrB4
+2025,JANUARY,Tumkur,SI,Rectal swab,43,Escherichia_coli_emrE
+2025,JANUARY,Tumkur,SI,Rectal swab,43,mdtM
+2025,JANUARY,Tumkur,SI,Rectal swab,43,PmrF
+2025,JANUARY,Tumkur,SI,Rectal swab,43,H-NS
+2025,JANUARY,Tumkur,SI,Rectal swab,43,emrY
+2025,JANUARY,Tumkur,SI,Rectal swab,43,emrK
+2025,JANUARY,Tumkur,SI,Rectal swab,43,evgA
+2025,JANUARY,Tumkur,SI,Rectal swab,43,evgS
+2025,JANUARY,Tumkur,SI,Rectal swab,43,Escherichia_coli_acrA
+2025,JANUARY,Tumkur,SI,Rectal swab,43,leuO
+2025,JANUARY,Tumkur,SI,Rectal swab,43,ugd
+2025,JANUARY,Tumkur,SI,Rectal swab,43,ugd
+2025,JANUARY,Tumkur,SI,Rectal swab,43,AcrS
+2025,JANUARY,Tumkur,SI,Rectal swab,43,AcrE
+2025,JANUARY,Tumkur,SI,Rectal swab,43,AcrF
+2025,JANUARY,Tumkur,SI,Rectal swab,43,mdtA
+2025,JANUARY,Tumkur,SI,Rectal swab,43,mdtB
+2025,JANUARY,Tumkur,SI,Rectal swab,43,Escherichia_coli_mdfA
+2025,JANUARY,Tumkur,SI,Rectal swab,43,YojI
+2025,JANUARY,Tumkur,SI,Rectal swab,43,msbA
+2025,JANUARY,Tumkur,SI,Rectal swab,43,marA
+2025,JANUARY,Tumkur,SI,Rectal swab,43,OmpA
+2025,JANUARY,Tumkur,SI,Rectal swab,43,acrB
+2025,JANUARY,Tumkur,SI,Rectal swab,43,bacA
+2025,JANUARY,Tumkur,SI,Rectal swab,43,TolC
+2025,JANUARY,Tumkur,SI,Rectal swab,43,cpxA
+2025,JANUARY,Tumkur,SI,Rectal swab,43,CRP
+2025,JANUARY,Tumkur,SI,Rectal swab,43,emrR
+2025,JANUARY,Tumkur,SI,Rectal swab,43,emrA
+2025,JANUARY,Tumkur,SI,Rectal swab,43,emrB
+2025,JANUARY,Tumkur,SI,Rectal swab,43,mdtP
+2025,JANUARY,Tumkur,SI,Rectal swab,43,mdtO
+2025,JANUARY,Tumkur,SI,Rectal swab,43,mdtN
+2025,JANUARY,Tumkur,SI,Rectal swab,43,eptA
+2025,JANUARY,Tumkur,SI,Rectal swab,43,EC-18
+2025,JANUARY,Tumkur,SI,Rectal swab,43,gadX
+2025,JANUARY,Tumkur,SI,Rectal swab,43,gadW
+2025,JANUARY,Tumkur,SI,Rectal swab,43,mdtF
+2025,JANUARY,Tumkur,SI,Rectal swab,43,mdtE
+2025,JANUARY,Tumkur,SI,Rectal swab,43,kdpE
+2025,JANUARY,Tumkur,SI,Rectal swab,43,acrD
+2025,JANUARY,Tumkur,SI,Rectal swab,43,mdtH
+2025,JANUARY,Tumkur,SI,Rectal swab,43,mdtG
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,44,kdpE
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,44,emrR
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,44,emrA
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,44,emrB
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,44,emrY
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,44,emrK
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,44,leuO
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,44,H-NS
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,44,ugd
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,44,mdtA
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,44,mdtB
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,44,mdtC
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,44,YojI
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,44,PmrF
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,44,catA4
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,44,cpxA
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,44,gadX
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,44,gadW
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,44,mdtF
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,44,mdtE
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,44,CRP
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,44,CRP
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,44,tet(J)
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,44,AcrF
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,44,AcrE
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,44,AcrS
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,44,bacA
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,44,TolC
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,44,acrD
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,44,OmpA
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,44,msbA
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,44,marA
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,44,Escherichia_coli_mdfA
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,44,mdtH
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,44,mdtG
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,44,mdtP
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,44,mdtO
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,44,mdtN
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,44,eptA
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,44,EC-18
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,44,mdtM
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,44,acrB
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,44,Escherichia_coli_acrA
+2025,JANUARY,Tumkur,TM,Rectal swab,46,cpxA
+2025,JANUARY,Tumkur,TM,Rectal swab,46,ugd
+2025,JANUARY,Tumkur,TM,Rectal swab,46,marA
+2025,JANUARY,Tumkur,TM,Rectal swab,46,msbA
+2025,JANUARY,Tumkur,TM,Rectal swab,46,OmpA
+2025,JANUARY,Tumkur,TM,Rectal swab,46,Escherichia_coli_mdfA
+2025,JANUARY,Tumkur,TM,Rectal swab,46,mdtM
+2025,JANUARY,Tumkur,TM,Rectal swab,46,Escherichia_coli_emrE
+2025,JANUARY,Tumkur,TM,Rectal swab,46,kdpE
+2025,JANUARY,Tumkur,TM,Rectal swab,46,leuO
+2025,JANUARY,Tumkur,TM,Rectal swab,46,CTX-M-15
+2025,JANUARY,Tumkur,TM,Rectal swab,46,QnrS1
+2025,JANUARY,Tumkur,TM,Rectal swab,46,gadX
+2025,JANUARY,Tumkur,TM,Rectal swab,46,gadW
+2025,JANUARY,Tumkur,TM,Rectal swab,46,mdtF
+2025,JANUARY,Tumkur,TM,Rectal swab,46,mdtE
+2025,JANUARY,Tumkur,TM,Rectal swab,46,CRP
+2025,JANUARY,Tumkur,TM,Rectal swab,46,mdtG
+2025,JANUARY,Tumkur,TM,Rectal swab,46,mdtH
+2025,JANUARY,Tumkur,TM,Rectal swab,46,H-NS
+2025,JANUARY,Tumkur,TM,Rectal swab,46,EC-18
+2025,JANUARY,Tumkur,TM,Rectal swab,46,eptA
+2025,JANUARY,Tumkur,TM,Rectal swab,46,mdtN
+2025,JANUARY,Tumkur,TM,Rectal swab,46,mdtO
+2025,JANUARY,Tumkur,TM,Rectal swab,46,mdtP
+2025,JANUARY,Tumkur,TM,Rectal swab,46,AcrF
+2025,JANUARY,Tumkur,TM,Rectal swab,46,AcrE
+2025,JANUARY,Tumkur,TM,Rectal swab,46,AcrS
+2025,JANUARY,Tumkur,TM,Rectal swab,46,mdtA
+2025,JANUARY,Tumkur,TM,Rectal swab,46,mdtB
+2025,JANUARY,Tumkur,TM,Rectal swab,46,mdtC
+2025,JANUARY,Tumkur,TM,Rectal swab,46,YojI
+2025,JANUARY,Tumkur,TM,Rectal swab,46,PmrF
+2025,JANUARY,Tumkur,TM,Rectal swab,46,emrY
+2025,JANUARY,Tumkur,TM,Rectal swab,46,emrK
+2025,JANUARY,Tumkur,TM,Rectal swab,46,evgA
+2025,JANUARY,Tumkur,TM,Rectal swab,46,evgS
+2025,JANUARY,Tumkur,TM,Rectal swab,46,acrD
+2025,JANUARY,Tumkur,TM,Rectal swab,46,bacA
+2025,JANUARY,Tumkur,TM,Rectal swab,46,TolC
+2025,JANUARY,Tumkur,TM,Rectal swab,46,emrB
+2025,JANUARY,Tumkur,TM,Rectal swab,46,emrA
+2025,JANUARY,Tumkur,TM,Rectal swab,46,emrR
+2025,JANUARY,Tumkur,TM,Rectal swab,46,Escherichia_coli_acrA
+2025,JANUARY,Tumkur,TM,Rectal swab,46,acrB
+2025,JANUARY,Tumkur,TI,Rectal swab,47,marA
+2025,JANUARY,Tumkur,TI,Rectal swab,47,cpxA
+2025,JANUARY,Tumkur,TI,Rectal swab,47,ugd
+2025,JANUARY,Tumkur,TI,Rectal swab,47,H-NS
+2025,JANUARY,Tumkur,TI,Rectal swab,47,kdpE
+2025,JANUARY,Tumkur,TI,Rectal swab,47,CRP
+2025,JANUARY,Tumkur,TI,Rectal swab,47,mdtP
+2025,JANUARY,Tumkur,TI,Rectal swab,47,mdtO
+2025,JANUARY,Tumkur,TI,Rectal swab,47,mdtN
+2025,JANUARY,Tumkur,TI,Rectal swab,47,eptA
+2025,JANUARY,Tumkur,TI,Rectal swab,47,mdtE
+2025,JANUARY,Tumkur,TI,Rectal swab,47,mdtF
+2025,JANUARY,Tumkur,TI,Rectal swab,47,gadW
+2025,JANUARY,Tumkur,TI,Rectal swab,47,gadX
+2025,JANUARY,Tumkur,TI,Rectal swab,47,acrB
+2025,JANUARY,Tumkur,TI,Rectal swab,47,Escherichia_coli_acrA
+2025,JANUARY,Tumkur,TI,Rectal swab,47,AcrF
+2025,JANUARY,Tumkur,TI,Rectal swab,47,AcrE
+2025,JANUARY,Tumkur,TI,Rectal swab,47,AcrS
+2025,JANUARY,Tumkur,TI,Rectal swab,47,bacA
+2025,JANUARY,Tumkur,TI,Rectal swab,47,TolC
+2025,JANUARY,Tumkur,TI,Rectal swab,47,emrB
+2025,JANUARY,Tumkur,TI,Rectal swab,47,emrA
+2025,JANUARY,Tumkur,TI,Rectal swab,47,emrR
+2025,JANUARY,Tumkur,TI,Rectal swab,47,EC-18
+2025,JANUARY,Tumkur,TI,Rectal swab,47,leuO
+2025,JANUARY,Tumkur,TI,Rectal swab,47,Escherichia_coli_mdfA
+2025,JANUARY,Tumkur,TI,Rectal swab,47,msbA
+2025,JANUARY,Tumkur,TI,Rectal swab,47,OmpA
+2025,JANUARY,Tumkur,TI,Rectal swab,47,mdtH
+2025,JANUARY,Tumkur,TI,Rectal swab,47,mdtG
+2025,JANUARY,Tumkur,TI,Rectal swab,47,mdtA
+2025,JANUARY,Tumkur,TI,Rectal swab,47,mdtB
+2025,JANUARY,Tumkur,TI,Rectal swab,47,mdtC
+2025,JANUARY,Tumkur,TI,Rectal swab,47,YojI
+2025,JANUARY,Tumkur,TI,Rectal swab,47,PmrF
+2025,JANUARY,Tumkur,TI,Rectal swab,47,emrY
+2025,JANUARY,Tumkur,TI,Rectal swab,47,emrK
+2025,JANUARY,Tumkur,TI,Rectal swab,47,evgA
+2025,JANUARY,Tumkur,TI,Rectal swab,47,evgS
+2025,JANUARY,Tumkur,TI,Rectal swab,47,acrD
+2025,JANUARY,Tumkur,TI,Rectal swab,47,mdtM
+2024,MAY,Tumkur,NR,Rectal swab,49,dfrA14
+2024,MAY,Tumkur,NR,Rectal swab,49,emrR
+2024,MAY,Tumkur,NR,Rectal swab,49,Escherichia_coli_acrA
+2024,MAY,Tumkur,NR,Rectal swab,49,CRP
+2024,MAY,Tumkur,NR,Rectal swab,49,cpxA
+2024,MAY,Tumkur,NR,Rectal swab,49,emrB
+2024,MAY,Tumkur,NR,Rectal swab,49,TolC
+2025,JANUARY,Tumkur,JN,Rectal swab,50,Escherichia_coli_mdfA
+2025,JANUARY,Tumkur,JN,Rectal swab,50,msbA
+2025,JANUARY,Tumkur,JN,Rectal swab,50,mdtC
+2025,JANUARY,Tumkur,JN,Rectal swab,50,mdtB
+2025,JANUARY,Tumkur,JN,Rectal swab,50,mdtA
+2025,JANUARY,Tumkur,JN,Rectal swab,50,ugd
+2025,JANUARY,Tumkur,JN,Rectal swab,50,OmpA
+2025,JANUARY,Tumkur,JN,Rectal swab,50,cpxA
+2025,JANUARY,Tumkur,JN,Rectal swab,50,kdpE
+2025,JANUARY,Tumkur,JN,Rectal swab,50,EC-18
+2025,JANUARY,Tumkur,JN,Rectal swab,50,eptA
+2025,JANUARY,Tumkur,JN,Rectal swab,50,mdtN
+2025,JANUARY,Tumkur,JN,Rectal swab,50,mdtO
+2025,JANUARY,Tumkur,JN,Rectal swab,50,mdtP
+2025,JANUARY,Tumkur,JN,Rectal swab,50,H-NS
+2025,JANUARY,Tumkur,JN,Rectal swab,50,AcrF
+2025,JANUARY,Tumkur,JN,Rectal swab,50,AcrE
+2025,JANUARY,Tumkur,JN,Rectal swab,50,AcrS
+2025,JANUARY,Tumkur,JN,Rectal swab,50,bacA
+2025,JANUARY,Tumkur,JN,Rectal swab,50,TolC
+2025,JANUARY,Tumkur,JN,Rectal swab,50,YojI
+2025,JANUARY,Tumkur,JN,Rectal swab,50,PmrF
+2025,JANUARY,Tumkur,JN,Rectal swab,50,emrY
+2025,JANUARY,Tumkur,JN,Rectal swab,50,emrK
+2025,JANUARY,Tumkur,JN,Rectal swab,50,evgA
+2025,JANUARY,Tumkur,JN,Rectal swab,50,evgS
+2025,JANUARY,Tumkur,JN,Rectal swab,50,acrD
+2025,JANUARY,Tumkur,JN,Rectal swab,50,mdtG
+2025,JANUARY,Tumkur,JN,Rectal swab,50,mdtH
+2025,JANUARY,Tumkur,JN,Rectal swab,50,Escherichia_coli_emrE
+2025,JANUARY,Tumkur,JN,Rectal swab,50,Escherichia_coli_acrA
+2025,JANUARY,Tumkur,JN,Rectal swab,50,acrB
+2025,JANUARY,Tumkur,JN,Rectal swab,50,leuO
+2025,JANUARY,Tumkur,JN,Rectal swab,50,mdtM
+2025,JANUARY,Tumkur,JN,Rectal swab,50,gadX
+2025,JANUARY,Tumkur,JN,Rectal swab,50,gadW
+2025,JANUARY,Tumkur,JN,Rectal swab,50,mdtF
+2025,JANUARY,Tumkur,JN,Rectal swab,50,mdtE
+2025,JANUARY,Tumkur,JN,Rectal swab,50,CRP
+2025,JANUARY,Tumkur,JN,Rectal swab,50,marA
+2025,JANUARY,Tumkur,JN,Rectal swab,50,emrB
+2025,JANUARY,Tumkur,JN,Rectal swab,50,emrA
+2025,JANUARY,Tumkur,JN,Rectal swab,50,emrR
+2025,JANUARY,Tumkur,SI,Rectal swab,51,emrY
+2025,JANUARY,Tumkur,SI,Rectal swab,51,emrK
+2025,JANUARY,Tumkur,SI,Rectal swab,51,evgA
+2025,JANUARY,Tumkur,SI,Rectal swab,51,evgS
+2025,JANUARY,Tumkur,SI,Rectal swab,51,EC-18
+2025,JANUARY,Tumkur,SI,Rectal swab,51,ugd
+2025,JANUARY,Tumkur,SI,Rectal swab,51,Escherichia_coli_emrE
+2025,JANUARY,Tumkur,SI,Rectal swab,51,AcrS
+2025,JANUARY,Tumkur,SI,Rectal swab,51,AcrE
+2025,JANUARY,Tumkur,SI,Rectal swab,51,AcrF
+2025,JANUARY,Tumkur,SI,Rectal swab,51,OmpA
+2025,JANUARY,Tumkur,SI,Rectal swab,51,cpxA
+2025,JANUARY,Tumkur,SI,Rectal swab,51,marA
+2025,JANUARY,Tumkur,SI,Rectal swab,51,H-NS
+2025,JANUARY,Tumkur,SI,Rectal swab,51,emrR
+2025,JANUARY,Tumkur,SI,Rectal swab,51,emrA
+2025,JANUARY,Tumkur,SI,Rectal swab,51,emrB
+2025,JANUARY,Tumkur,SI,Rectal swab,51,kdpE
+2025,JANUARY,Tumkur,SI,Rectal swab,51,acrD
+2025,JANUARY,Tumkur,SI,Rectal swab,51,acrB
+2025,JANUARY,Tumkur,SI,Rectal swab,51,Escherichia_coli_acrA
+2025,JANUARY,Tumkur,SI,Rectal swab,51,CRP
+2025,JANUARY,Tumkur,SI,Rectal swab,51,eptA
+2025,JANUARY,Tumkur,SI,Rectal swab,51,mdtN
+2025,JANUARY,Tumkur,SI,Rectal swab,51,mdtO
+2025,JANUARY,Tumkur,SI,Rectal swab,51,mdtP
+2025,JANUARY,Tumkur,SI,Rectal swab,51,Escherichia_coli_mdfA
+2025,JANUARY,Tumkur,SI,Rectal swab,51,msbA
+2025,JANUARY,Tumkur,SI,Rectal swab,51,mdtA
+2025,JANUARY,Tumkur,SI,Rectal swab,51,mdtB
+2025,JANUARY,Tumkur,SI,Rectal swab,51,mdtC
+2025,JANUARY,Tumkur,SI,Rectal swab,51,YojI
+2025,JANUARY,Tumkur,SI,Rectal swab,51,PmrF
+2025,JANUARY,Tumkur,SI,Rectal swab,51,bacA
+2025,JANUARY,Tumkur,SI,Rectal swab,51,TolC
+2025,JANUARY,Tumkur,SI,Rectal swab,51,mdtH
+2025,JANUARY,Tumkur,SI,Rectal swab,51,mdtG
+2025,JANUARY,Tumkur,SI,Rectal swab,51,gadX
+2025,JANUARY,Tumkur,SI,Rectal swab,51,gadW
+2025,JANUARY,Tumkur,SI,Rectal swab,51,mdtF
+2025,JANUARY,Tumkur,SI,Rectal swab,51,mdtE
+2025,JANUARY,Tumkur,SI,Rectal swab,51,leuO
+2025,JANUARY,Tumkur,SI,Rectal swab,51,mdtM
+2024,MAY,Tumkur,MD,Rectal swab,53,mdtP
+2024,MAY,Tumkur,MD,Rectal swab,53,mdtO
+2024,MAY,Tumkur,MD,Rectal swab,53,mdtN
+2024,MAY,Tumkur,MD,Rectal swab,53,eptA
+2024,MAY,Tumkur,MD,Rectal swab,53,ugd
+2024,MAY,Tumkur,MD,Rectal swab,53,mdtA
+2024,MAY,Tumkur,MD,Rectal swab,53,mdtB
+2024,MAY,Tumkur,MD,Rectal swab,53,mdtC
+2024,MAY,Tumkur,MD,Rectal swab,53,emrR
+2024,MAY,Tumkur,MD,Rectal swab,53,emrA
+2024,MAY,Tumkur,MD,Rectal swab,53,emrB
+2024,MAY,Tumkur,MD,Rectal swab,53,acrB
+2024,MAY,Tumkur,MD,Rectal swab,53,Escherichia_coli_acrA
+2024,MAY,Tumkur,MD,Rectal swab,53,Escherichia_coli_emrE
+2024,MAY,Tumkur,MD,Rectal swab,53,kdpE
+2024,MAY,Tumkur,MD,Rectal swab,53,EC-18
+2024,MAY,Tumkur,MD,Rectal swab,53,acrD
+2024,MAY,Tumkur,MD,Rectal swab,53,gadX
+2024,MAY,Tumkur,MD,Rectal swab,53,gadW
+2024,MAY,Tumkur,MD,Rectal swab,53,mdtF
+2024,MAY,Tumkur,MD,Rectal swab,53,mdtE
+2024,MAY,Tumkur,MD,Rectal swab,53,CRP
+2024,MAY,Tumkur,MD,Rectal swab,53,mdtG
+2024,MAY,Tumkur,MD,Rectal swab,53,mdtH
+2024,MAY,Tumkur,MD,Rectal swab,53,H-NS
+2024,MAY,Tumkur,MD,Rectal swab,53,Escherichia_coli_mdfA
+2024,MAY,Tumkur,MD,Rectal swab,53,msbA
+2024,MAY,Tumkur,MD,Rectal swab,53,marA
+2024,MAY,Tumkur,MD,Rectal swab,53,mdtM
+2024,MAY,Tumkur,MD,Rectal swab,53,evgS
+2024,MAY,Tumkur,MD,Rectal swab,53,evgA
+2024,MAY,Tumkur,MD,Rectal swab,53,emrK
+2024,MAY,Tumkur,MD,Rectal swab,53,emrY
+2024,MAY,Tumkur,MD,Rectal swab,53,PmrF
+2024,MAY,Tumkur,MD,Rectal swab,53,YojI
+2024,MAY,Tumkur,MD,Rectal swab,53,OmpA
+2024,MAY,Tumkur,MD,Rectal swab,53,leuO
+2024,MAY,Tumkur,MD,Rectal swab,53,cpxA
+2024,MAY,Tumkur,MD,Rectal swab,53,TolC
+2024,MAY,Tumkur,MD,Rectal swab,53,bacA
+2024,MAY,Tumkur,MD,Rectal swab,53,AcrS
+2024,MAY,Tumkur,MD,Rectal swab,53,AcrE
+2024,MAY,Tumkur,MD,Rectal swab,53,AcrF
+2025,JANUARY,Tumkur,SI,Rectal swab,54,leuO
+2025,JANUARY,Tumkur,SI,Rectal swab,54,emrB
+2025,JANUARY,Tumkur,SI,Rectal swab,54,emrA
+2025,JANUARY,Tumkur,SI,Rectal swab,54,emrR
+2025,JANUARY,Tumkur,SI,Rectal swab,54,msbA
+2025,JANUARY,Tumkur,SI,Rectal swab,54,Escherichia_coli_mdfA
+2025,JANUARY,Tumkur,SI,Rectal swab,54,cpxA
+2025,JANUARY,Tumkur,SI,Rectal swab,54,mdtP
+2025,JANUARY,Tumkur,SI,Rectal swab,54,mdtO
+2025,JANUARY,Tumkur,SI,Rectal swab,54,mdtN
+2025,JANUARY,Tumkur,SI,Rectal swab,54,eptA
+2025,JANUARY,Tumkur,SI,Rectal swab,54,EC-18
+2025,JANUARY,Tumkur,SI,Rectal swab,54,kdpE
+2025,JANUARY,Tumkur,SI,Rectal swab,54,ugd
+2025,JANUARY,Tumkur,SI,Rectal swab,54,mdtA
+2025,JANUARY,Tumkur,SI,Rectal swab,54,mdtB
+2025,JANUARY,Tumkur,SI,Rectal swab,54,mdtC
+2025,JANUARY,Tumkur,SI,Rectal swab,54,OmpA
+2025,JANUARY,Tumkur,SI,Rectal swab,54,mdtM
+2025,JANUARY,Tumkur,SI,Rectal swab,54,marA
+2025,JANUARY,Tumkur,SI,Rectal swab,54,Escherichia_coli_emrE
+2025,JANUARY,Tumkur,SI,Rectal swab,54,mdtH
+2025,JANUARY,Tumkur,SI,Rectal swab,54,mdtG
+2025,JANUARY,Tumkur,SI,Rectal swab,54,TolC
+2025,JANUARY,Tumkur,SI,Rectal swab,54,bacA
+2025,JANUARY,Tumkur,SI,Rectal swab,54,AcrS
+2025,JANUARY,Tumkur,SI,Rectal swab,54,AcrE
+2025,JANUARY,Tumkur,SI,Rectal swab,54,AcrF
+2025,JANUARY,Tumkur,SI,Rectal swab,54,acrB
+2025,JANUARY,Tumkur,SI,Rectal swab,54,Escherichia_coli_acrA
+2025,JANUARY,Tumkur,SI,Rectal swab,54,gadX
+2025,JANUARY,Tumkur,SI,Rectal swab,54,gadW
+2025,JANUARY,Tumkur,SI,Rectal swab,54,mdtF
+2025,JANUARY,Tumkur,SI,Rectal swab,54,mdtE
+2025,JANUARY,Tumkur,SI,Rectal swab,54,CRP
+2025,JANUARY,Tumkur,SI,Rectal swab,54,acrD
+2025,JANUARY,Tumkur,SI,Rectal swab,54,evgS
+2025,JANUARY,Tumkur,SI,Rectal swab,54,evgA
+2025,JANUARY,Tumkur,SI,Rectal swab,54,emrK
+2025,JANUARY,Tumkur,SI,Rectal swab,54,emrY
+2025,JANUARY,Tumkur,SI,Rectal swab,54,PmrF
+2025,JANUARY,Tumkur,SI,Rectal swab,54,YojI
+2025,JANUARY,Tumkur,SI,Rectal swab,54,H-NS
+2023,DECEMBER,Chitradurga,ML,Rectal swab,55,mdtN
+2023,DECEMBER,Chitradurga,ML,Rectal swab,55,TolC
+2023,DECEMBER,Chitradurga,ML,Rectal swab,55,EC-8
+2023,DECEMBER,Chitradurga,ML,Rectal swab,55,gadW
+2023,DECEMBER,Chitradurga,ML,Rectal swab,55,emrK
+2023,DECEMBER,Chitradurga,ML,Rectal swab,55,emrY
+2023,DECEMBER,Chitradurga,ML,Rectal swab,55,kdpE
+2023,DECEMBER,Chitradurga,ML,Rectal swab,55,mdtG
+2023,DECEMBER,Chitradurga,ML,Rectal swab,55,AcrS
+2023,DECEMBER,Chitradurga,ML,Rectal swab,55,ugd
+2023,DECEMBER,Chitradurga,ML,Rectal swab,55,gadW
+2023,DECEMBER,Chitradurga,ML,Rectal swab,55,kdpE
+2023,DECEMBER,Chitradurga,ML,Rectal swab,55,emrY
+2023,DECEMBER,Chitradurga,ML,Rectal swab,55,mdtG
+2023,DECEMBER,Chitradurga,ML,Rectal swab,55,TolC
+2023,DECEMBER,Chitradurga,ML,Rectal swab,55,marA
+2023,DECEMBER,Chitradurga,ML,Rectal swab,55,mdtO
+2023,DECEMBER,Chitradurga,ML,Rectal swab,55,mdtP
+2023,DECEMBER,Chitradurga,ML,Rectal swab,55,leuO
+2023,DECEMBER,Chitradurga,ML,Rectal swab,55,YojI
+2023,DECEMBER,Chitradurga,ML,Rectal swab,55,PmrF
+2023,DECEMBER,Chitradurga,ML,Rectal swab,55,mdtN
+2023,DECEMBER,Chitradurga,ML,Rectal swab,55,CRP
+2023,DECEMBER,Chitradurga,ML,Rectal swab,55,H-NS
+2023,DECEMBER,Chitradurga,ML,Rectal swab,55,emrK
+2023,DECEMBER,Chitradurga,ML,Rectal swab,55,emrR
+2023,DECEMBER,Chitradurga,ML,Rectal swab,55,emrA
+2023,DECEMBER,Chitradurga,ML,Rectal swab,55,emrB
+2023,DECEMBER,Chitradurga,ML,Rectal swab,55,mdtC
+2023,DECEMBER,Chitradurga,ML,Rectal swab,55,EC-18
+2023,DECEMBER,Chitradurga,ML,Rectal swab,55,bacA
+2023,DECEMBER,Chitradurga,ML,Rectal swab,55,OmpA
+2023,DECEMBER,Chitradurga,ML,Rectal swab,55,Escherichia_coli_acrA
+2023,DECEMBER,Chitradurga,ML,Rectal swab,55,acrB
+2023,DECEMBER,Chitradurga,ML,Rectal swab,55,AcrE
+2023,DECEMBER,Chitradurga,ML,Rectal swab,55,AcrF
+2023,DECEMBER,Chitradurga,ML,Rectal swab,55,msbA
+2023,DECEMBER,Chitradurga,ML,Rectal swab,55,mdtH
+2023,DECEMBER,Chitradurga,ML,Rectal swab,55,cpxA
+2023,DECEMBER,Chitradurga,ML,Rectal swab,55,evgA
+2023,DECEMBER,Chitradurga,ML,Rectal swab,55,acrD
+2023,DECEMBER,Chitradurga,ML,Rectal swab,55,gadX
+2023,DECEMBER,Chitradurga,ML,Rectal swab,55,mdtF
+2023,DECEMBER,Chitradurga,ML,Rectal swab,55,mdtE
+2023,DECEMBER,Chitradurga,ML,Rectal swab,55,tet(B)
+2023,DECEMBER,Chitradurga,ML,Rectal swab,55,ugd
+2023,DECEMBER,Chitradurga,ML,Rectal swab,55,AcrS
+2023,DECEMBER,Chitradurga,ML,Rectal swab,55,mdtM
+2023,DECEMBER,Chitradurga,ML,Rectal swab,55,eptA
+2023,DECEMBER,Chitradurga,ML,Rectal swab,55,mdtP
+2023,JULY,Chitradurga,DD,Rectal swab,57,TEM-1
+2023,JULY,Chitradurga,DD,Rectal swab,57,cpxA
+2023,JULY,Chitradurga,DD,Rectal swab,57,Escherichia_coli_emrE
+2023,JULY,Chitradurga,DD,Rectal swab,57,CTX-M-15
+2023,JULY,Chitradurga,DD,Rectal swab,57,QnrS1
+2023,JULY,Chitradurga,DD,Rectal swab,57,marA
+2023,JULY,Chitradurga,DD,Rectal swab,57,kdpE
+2023,JULY,Chitradurga,DD,Rectal swab,57,ugd
+2023,JULY,Chitradurga,DD,Rectal swab,57,Escherichia_coli_mdfA
+2023,JULY,Chitradurga,DD,Rectal swab,57,CRP
+2023,JULY,Chitradurga,DD,Rectal swab,57,H-NS
+2023,JULY,Chitradurga,DD,Rectal swab,57,mdtP
+2023,JULY,Chitradurga,DD,Rectal swab,57,mdtO
+2023,JULY,Chitradurga,DD,Rectal swab,57,mdtN
+2023,JULY,Chitradurga,DD,Rectal swab,57,eptA
+2023,JULY,Chitradurga,DD,Rectal swab,57,EC-18
+2023,JULY,Chitradurga,DD,Rectal swab,57,mdtE
+2023,JULY,Chitradurga,DD,Rectal swab,57,mdtF
+2023,JULY,Chitradurga,DD,Rectal swab,57,gadW
+2023,JULY,Chitradurga,DD,Rectal swab,57,gadX
+2023,JULY,Chitradurga,DD,Rectal swab,57,emrR
+2023,JULY,Chitradurga,DD,Rectal swab,57,emrA
+2023,JULY,Chitradurga,DD,Rectal swab,57,emrB
+2023,JULY,Chitradurga,DD,Rectal swab,57,TolC
+2023,JULY,Chitradurga,DD,Rectal swab,57,bacA
+2023,JULY,Chitradurga,DD,Rectal swab,57,AcrS
+2023,JULY,Chitradurga,DD,Rectal swab,57,AcrE
+2023,JULY,Chitradurga,DD,Rectal swab,57,AcrF
+2023,JULY,Chitradurga,DD,Rectal swab,57,leuO
+2023,JULY,Chitradurga,DD,Rectal swab,57,mdtM
+2023,JULY,Chitradurga,DD,Rectal swab,57,Escherichia_coli_acrA
+2023,JULY,Chitradurga,DD,Rectal swab,57,acrB
+2023,JULY,Chitradurga,DD,Rectal swab,57,mdtA
+2023,JULY,Chitradurga,DD,Rectal swab,57,mdtB
+2023,JULY,Chitradurga,DD,Rectal swab,57,mdtC
+2023,JULY,Chitradurga,DD,Rectal swab,57,YojI
+2023,JULY,Chitradurga,DD,Rectal swab,57,PmrF
+2023,JULY,Chitradurga,DD,Rectal swab,57,emrY
+2023,JULY,Chitradurga,DD,Rectal swab,57,emrK
+2023,JULY,Chitradurga,DD,Rectal swab,57,evgA
+2023,JULY,Chitradurga,DD,Rectal swab,57,evgS
+2023,JULY,Chitradurga,DD,Rectal swab,57,acrD
+2023,JULY,Chitradurga,DD,Rectal swab,57,mdtH
+2023,JULY,Chitradurga,DD,Rectal swab,57,mdtG
+2023,JULY,Chitradurga,DD,Rectal swab,57,OmpA
+2023,JULY,Chitradurga,DD,Rectal swab,57,msbA
+2024,MAY,Tumkur,MD,Rectal swab,58,mdtC
+2024,MAY,Tumkur,MD,Rectal swab,58,mdtB
+2024,MAY,Tumkur,MD,Rectal swab,58,mdtA
+2024,MAY,Tumkur,MD,Rectal swab,58,EC-18
+2024,MAY,Tumkur,MD,Rectal swab,58,mdtG
+2024,MAY,Tumkur,MD,Rectal swab,58,mdtH
+2024,MAY,Tumkur,MD,Rectal swab,58,H-NS
+2024,MAY,Tumkur,MD,Rectal swab,58,marA
+2024,MAY,Tumkur,MD,Rectal swab,58,emrR
+2024,MAY,Tumkur,MD,Rectal swab,58,emrA
+2024,MAY,Tumkur,MD,Rectal swab,58,emrB
+2024,MAY,Tumkur,MD,Rectal swab,58,ugd
+2024,MAY,Tumkur,MD,Rectal swab,58,mdtM
+2024,MAY,Tumkur,MD,Rectal swab,58,kdpE
+2024,MAY,Tumkur,MD,Rectal swab,58,acrB
+2024,MAY,Tumkur,MD,Rectal swab,58,Escherichia_coli_acrA
+2024,MAY,Tumkur,MD,Rectal swab,58,cpxA
+2024,MAY,Tumkur,MD,Rectal swab,58,OmpA
+2024,MAY,Tumkur,MD,Rectal swab,58,Escherichia_coli_emrE
+2024,MAY,Tumkur,MD,Rectal swab,58,mdtP
+2024,MAY,Tumkur,MD,Rectal swab,58,mdtO
+2024,MAY,Tumkur,MD,Rectal swab,58,mdtN
+2024,MAY,Tumkur,MD,Rectal swab,58,eptA
+2024,MAY,Tumkur,MD,Rectal swab,58,acrD
+2024,MAY,Tumkur,MD,Rectal swab,58,AcrF
+2024,MAY,Tumkur,MD,Rectal swab,58,AcrE
+2024,MAY,Tumkur,MD,Rectal swab,58,AcrS
+2024,MAY,Tumkur,MD,Rectal swab,58,bacA
+2024,MAY,Tumkur,MD,Rectal swab,58,TolC
+2024,MAY,Tumkur,MD,Rectal swab,58,leuO
+2024,MAY,Tumkur,MD,Rectal swab,58,YojI
+2024,MAY,Tumkur,MD,Rectal swab,58,PmrF
+2024,MAY,Tumkur,MD,Rectal swab,58,emrY
+2024,MAY,Tumkur,MD,Rectal swab,58,emrK
+2024,MAY,Tumkur,MD,Rectal swab,58,evgA
+2024,MAY,Tumkur,MD,Rectal swab,58,evgS
+2024,MAY,Tumkur,MD,Rectal swab,58,msbA
+2024,MAY,Tumkur,MD,Rectal swab,58,Escherichia_coli_mdfA
+2024,MAY,Tumkur,MD,Rectal swab,58,CRP
+2024,MAY,Tumkur,MD,Rectal swab,58,mdtE
+2024,MAY,Tumkur,MD,Rectal swab,58,mdtF
+2024,MAY,Tumkur,MD,Rectal swab,58,gadW
+2024,MAY,Tumkur,MD,Rectal swab,58,gadX
+2025,JANUARY,Tumkur,TM,Rectal swab,59,Escherichia_coli_emrE
+2025,JANUARY,Tumkur,TM,Rectal swab,59,cpxA
+2025,JANUARY,Tumkur,TM,Rectal swab,59,kdpE
+2025,JANUARY,Tumkur,TM,Rectal swab,59,Escherichia_coli_acrA
+2025,JANUARY,Tumkur,TM,Rectal swab,59,acrB
+2025,JANUARY,Tumkur,TM,Rectal swab,59,OmpA
+2025,JANUARY,Tumkur,TM,Rectal swab,59,msbA
+2025,JANUARY,Tumkur,TM,Rectal swab,59,Escherichia_coli_mdfA
+2025,JANUARY,Tumkur,TM,Rectal swab,59,CRP
+2025,JANUARY,Tumkur,TM,Rectal swab,59,mdtE
+2025,JANUARY,Tumkur,TM,Rectal swab,59,mdtF
+2025,JANUARY,Tumkur,TM,Rectal swab,59,gadW
+2025,JANUARY,Tumkur,TM,Rectal swab,59,gadX
+2025,JANUARY,Tumkur,TM,Rectal swab,59,mdtH
+2025,JANUARY,Tumkur,TM,Rectal swab,59,mdtG
+2025,JANUARY,Tumkur,TM,Rectal swab,59,AcrF
+2025,JANUARY,Tumkur,TM,Rectal swab,59,AcrE
+2025,JANUARY,Tumkur,TM,Rectal swab,59,AcrS
+2025,JANUARY,Tumkur,TM,Rectal swab,59,bacA
+2025,JANUARY,Tumkur,TM,Rectal swab,59,TolC
+2025,JANUARY,Tumkur,TM,Rectal swab,59,emrB
+2025,JANUARY,Tumkur,TM,Rectal swab,59,emrA
+2025,JANUARY,Tumkur,TM,Rectal swab,59,emrR
+2025,JANUARY,Tumkur,TM,Rectal swab,59,marA
+2025,JANUARY,Tumkur,TM,Rectal swab,59,mdtP
+2025,JANUARY,Tumkur,TM,Rectal swab,59,mdtO
+2025,JANUARY,Tumkur,TM,Rectal swab,59,mdtN
+2025,JANUARY,Tumkur,TM,Rectal swab,59,eptA
+2025,JANUARY,Tumkur,TM,Rectal swab,59,EC-13
+2025,JANUARY,Tumkur,TM,Rectal swab,59,mdtM
+2025,JANUARY,Tumkur,TM,Rectal swab,59,leuO
+2025,JANUARY,Tumkur,TM,Rectal swab,59,acrD
+2025,JANUARY,Tumkur,TM,Rectal swab,59,H-NS
+2025,JANUARY,Tumkur,TM,Rectal swab,59,evgS
+2025,JANUARY,Tumkur,TM,Rectal swab,59,evgA
+2025,JANUARY,Tumkur,TM,Rectal swab,59,emrK
+2025,JANUARY,Tumkur,TM,Rectal swab,59,emrY
+2025,JANUARY,Tumkur,TM,Rectal swab,59,PmrF
+2025,JANUARY,Tumkur,TM,Rectal swab,59,YojI
+2025,JANUARY,Tumkur,TM,Rectal swab,59,mdtC
+2025,JANUARY,Tumkur,TM,Rectal swab,59,mdtB
+2025,JANUARY,Tumkur,TM,Rectal swab,59,mdtA
+2025,JANUARY,Tumkur,TM,Rectal swab,59,ugd
+2025,JANUARY,Tumkur,SI,Rectal swab,60,Escherichia_coli_emrE
+2025,JANUARY,Tumkur,SI,Rectal swab,60,ugd
+2025,JANUARY,Tumkur,SI,Rectal swab,60,cpxA
+2025,JANUARY,Tumkur,SI,Rectal swab,60,mdtM
+2025,JANUARY,Tumkur,SI,Rectal swab,60,AcrS
+2025,JANUARY,Tumkur,SI,Rectal swab,60,AcrE
+2025,JANUARY,Tumkur,SI,Rectal swab,60,AcrF
+2025,JANUARY,Tumkur,SI,Rectal swab,60,OmpA
+2025,JANUARY,Tumkur,SI,Rectal swab,60,msbA
+2025,JANUARY,Tumkur,SI,Rectal swab,60,kdpE
+2025,JANUARY,Tumkur,SI,Rectal swab,60,CRP
+2025,JANUARY,Tumkur,SI,Rectal swab,60,mdtG
+2025,JANUARY,Tumkur,SI,Rectal swab,60,mdtH
+2025,JANUARY,Tumkur,SI,Rectal swab,60,marA
+2025,JANUARY,Tumkur,SI,Rectal swab,60,Escherichia_coli_mdfA
+2025,JANUARY,Tumkur,SI,Rectal swab,60,H-NS
+2025,JANUARY,Tumkur,SI,Rectal swab,60,mdtE
+2025,JANUARY,Tumkur,SI,Rectal swab,60,mdtF
+2025,JANUARY,Tumkur,SI,Rectal swab,60,gadW
+2025,JANUARY,Tumkur,SI,Rectal swab,60,gadX
+2025,JANUARY,Tumkur,SI,Rectal swab,60,EC-18
+2025,JANUARY,Tumkur,SI,Rectal swab,60,eptA
+2025,JANUARY,Tumkur,SI,Rectal swab,60,mdtN
+2025,JANUARY,Tumkur,SI,Rectal swab,60,mdtO
+2025,JANUARY,Tumkur,SI,Rectal swab,60,mdtP
+2025,JANUARY,Tumkur,SI,Rectal swab,60,leuO
+2025,JANUARY,Tumkur,SI,Rectal swab,60,TolC
+2025,JANUARY,Tumkur,SI,Rectal swab,60,bacA
+2025,JANUARY,Tumkur,SI,Rectal swab,60,emrR
+2025,JANUARY,Tumkur,SI,Rectal swab,60,emrA
+2025,JANUARY,Tumkur,SI,Rectal swab,60,emrB
+2025,JANUARY,Tumkur,SI,Rectal swab,60,Escherichia_coli_acrA
+2025,JANUARY,Tumkur,SI,Rectal swab,60,acrB
+2025,JANUARY,Tumkur,SI,Rectal swab,60,acrD
+2025,JANUARY,Tumkur,SI,Rectal swab,60,evgS
+2025,JANUARY,Tumkur,SI,Rectal swab,60,evgA
+2025,JANUARY,Tumkur,SI,Rectal swab,60,emrK
+2025,JANUARY,Tumkur,SI,Rectal swab,60,emrY
+2025,JANUARY,Tumkur,SI,Rectal swab,60,PmrF
+2025,JANUARY,Tumkur,SI,Rectal swab,60,YojI
+2025,JANUARY,Tumkur,SI,Rectal swab,60,mdtC
+2025,JANUARY,Tumkur,SI,Rectal swab,60,mdtB
+2025,JANUARY,Tumkur,SI,Rectal swab,60,mdtA
+2025,JANUARY,Tumkur,JN,Rectal swab,63,Escherichia_coli_emrE
+2025,JANUARY,Tumkur,JN,Rectal swab,63,evgS
+2025,JANUARY,Tumkur,JN,Rectal swab,63,evgA
+2025,JANUARY,Tumkur,JN,Rectal swab,63,emrK
+2025,JANUARY,Tumkur,JN,Rectal swab,63,emrY
+2025,JANUARY,Tumkur,JN,Rectal swab,63,H-NS
+2025,JANUARY,Tumkur,JN,Rectal swab,63,emrR
+2025,JANUARY,Tumkur,JN,Rectal swab,63,emrA
+2025,JANUARY,Tumkur,JN,Rectal swab,63,emrB
+2025,JANUARY,Tumkur,JN,Rectal swab,63,mdtM
+2025,JANUARY,Tumkur,JN,Rectal swab,63,AcrF
+2025,JANUARY,Tumkur,JN,Rectal swab,63,AcrE
+2025,JANUARY,Tumkur,JN,Rectal swab,63,AcrS
+2025,JANUARY,Tumkur,JN,Rectal swab,63,bacA
+2025,JANUARY,Tumkur,JN,Rectal swab,63,TolC
+2025,JANUARY,Tumkur,JN,Rectal swab,63,CRP
+2025,JANUARY,Tumkur,JN,Rectal swab,63,mdtE
+2025,JANUARY,Tumkur,JN,Rectal swab,63,mdtF
+2025,JANUARY,Tumkur,JN,Rectal swab,63,gadW
+2025,JANUARY,Tumkur,JN,Rectal swab,63,gadX
+2025,JANUARY,Tumkur,JN,Rectal swab,63,leuO
+2025,JANUARY,Tumkur,JN,Rectal swab,63,marA
+2025,JANUARY,Tumkur,JN,Rectal swab,63,acrD
+2025,JANUARY,Tumkur,JN,Rectal swab,63,cpxA
+2025,JANUARY,Tumkur,JN,Rectal swab,63,mdtP
+2025,JANUARY,Tumkur,JN,Rectal swab,63,mdtO
+2025,JANUARY,Tumkur,JN,Rectal swab,63,mdtN
+2025,JANUARY,Tumkur,JN,Rectal swab,63,eptA
+2025,JANUARY,Tumkur,JN,Rectal swab,63,EC-18
+2025,JANUARY,Tumkur,JN,Rectal swab,63,kdpE
+2025,JANUARY,Tumkur,JN,Rectal swab,63,acrB
+2025,JANUARY,Tumkur,JN,Rectal swab,63,Escherichia_coli_acrA
+2025,JANUARY,Tumkur,JN,Rectal swab,63,mdtH
+2025,JANUARY,Tumkur,JN,Rectal swab,63,mdtG
+2025,JANUARY,Tumkur,JN,Rectal swab,63,OmpA
+2025,JANUARY,Tumkur,JN,Rectal swab,63,msbA
+2025,JANUARY,Tumkur,JN,Rectal swab,63,Escherichia_coli_mdfA
+2025,JANUARY,Tumkur,JN,Rectal swab,63,ugd
+2025,JANUARY,Tumkur,JN,Rectal swab,63,mdtA
+2025,JANUARY,Tumkur,JN,Rectal swab,63,mdtB
+2025,JANUARY,Tumkur,JN,Rectal swab,63,mdtC
+2025,JANUARY,Tumkur,JN,Rectal swab,63,YojI
+2025,JANUARY,Tumkur,JN,Rectal swab,63,PmrF
+2023,JULY,Chitradurga,GN,Rectal swab,66,mdtM
+2023,JULY,Chitradurga,GN,Rectal swab,66,marA
+2023,JULY,Chitradurga,GN,Rectal swab,66,AcrF
+2023,JULY,Chitradurga,GN,Rectal swab,66,AcrE
+2023,JULY,Chitradurga,GN,Rectal swab,66,AcrS
+2023,JULY,Chitradurga,GN,Rectal swab,66,emrR
+2023,JULY,Chitradurga,GN,Rectal swab,66,emrA
+2023,JULY,Chitradurga,GN,Rectal swab,66,emrB
+2023,JULY,Chitradurga,GN,Rectal swab,66,PmrF
+2023,JULY,Chitradurga,GN,Rectal swab,66,acrD
+2023,JULY,Chitradurga,GN,Rectal swab,66,mdtG
+2023,JULY,Chitradurga,GN,Rectal swab,66,mdtH
+2023,JULY,Chitradurga,GN,Rectal swab,66,H-NS
+2023,JULY,Chitradurga,GN,Rectal swab,66,cpxA
+2023,JULY,Chitradurga,GN,Rectal swab,66,Escherichia_coli_acrA
+2023,JULY,Chitradurga,GN,Rectal swab,66,acrB
+2023,JULY,Chitradurga,GN,Rectal swab,66,evgS
+2023,JULY,Chitradurga,GN,Rectal swab,66,evgA
+2023,JULY,Chitradurga,GN,Rectal swab,66,emrK
+2023,JULY,Chitradurga,GN,Rectal swab,66,emrY
+2023,JULY,Chitradurga,GN,Rectal swab,66,YojI
+2023,JULY,Chitradurga,GN,Rectal swab,66,mdtC
+2023,JULY,Chitradurga,GN,Rectal swab,66,mdtB
+2023,JULY,Chitradurga,GN,Rectal swab,66,mdtA
+2023,JULY,Chitradurga,GN,Rectal swab,66,ugd
+2023,JULY,Chitradurga,GN,Rectal swab,66,kdpE
+2023,JULY,Chitradurga,GN,Rectal swab,66,Escherichia_coli_mdfA
+2023,JULY,Chitradurga,GN,Rectal swab,66,msbA
+2023,JULY,Chitradurga,GN,Rectal swab,66,OmpA
+2023,JULY,Chitradurga,GN,Rectal swab,66,EC-18
+2023,JULY,Chitradurga,GN,Rectal swab,66,gadX
+2023,JULY,Chitradurga,GN,Rectal swab,66,gadW
+2023,JULY,Chitradurga,GN,Rectal swab,66,mdtF
+2023,JULY,Chitradurga,GN,Rectal swab,66,mdtE
+2023,JULY,Chitradurga,GN,Rectal swab,66,CRP
+2023,JULY,Chitradurga,GN,Rectal swab,66,eptA
+2023,JULY,Chitradurga,GN,Rectal swab,66,mdtN
+2023,JULY,Chitradurga,GN,Rectal swab,66,mdtO
+2023,JULY,Chitradurga,GN,Rectal swab,66,mdtP
+2023,JULY,Chitradurga,GN,Rectal swab,66,TolC
+2023,JULY,Chitradurga,GN,Rectal swab,66,bacA
+2023,JULY,Chitradurga,GN,Rectal swab,66,leuO
+2023,JULY,Chitradurga,SN,Rectal swab,67,cpxA
+2023,JULY,Chitradurga,SN,Rectal swab,67,TolC
+2023,JULY,Chitradurga,SN,Rectal swab,67,bacA
+2023,JULY,Chitradurga,SN,Rectal swab,67,EC-18
+2023,JULY,Chitradurga,SN,Rectal swab,67,marA
+2023,JULY,Chitradurga,SN,Rectal swab,67,mdtM
+2023,JULY,Chitradurga,SN,Rectal swab,67,acrB
+2023,JULY,Chitradurga,SN,Rectal swab,67,Escherichia_coli_acrA
+2023,JULY,Chitradurga,SN,Rectal swab,67,acrD
+2023,JULY,Chitradurga,SN,Rectal swab,67,kdpE
+2023,JULY,Chitradurga,SN,Rectal swab,67,H-NS
+2023,JULY,Chitradurga,SN,Rectal swab,67,mdtH
+2023,JULY,Chitradurga,SN,Rectal swab,67,mdtG
+2023,JULY,Chitradurga,SN,Rectal swab,67,OmpA
+2023,JULY,Chitradurga,SN,Rectal swab,67,emrB
+2023,JULY,Chitradurga,SN,Rectal swab,67,emrA
+2023,JULY,Chitradurga,SN,Rectal swab,67,emrR
+2023,JULY,Chitradurga,SN,Rectal swab,67,mdtA
+2023,JULY,Chitradurga,SN,Rectal swab,67,mdtB
+2023,JULY,Chitradurga,SN,Rectal swab,67,mdtC
+2023,JULY,Chitradurga,SN,Rectal swab,67,YojI
+2023,JULY,Chitradurga,SN,Rectal swab,67,PmrF
+2023,JULY,Chitradurga,SN,Rectal swab,67,emrY
+2023,JULY,Chitradurga,SN,Rectal swab,67,emrK
+2023,JULY,Chitradurga,SN,Rectal swab,67,evgA
+2023,JULY,Chitradurga,SN,Rectal swab,67,evgS
+2023,JULY,Chitradurga,SN,Rectal swab,67,gadX
+2023,JULY,Chitradurga,SN,Rectal swab,67,gadW
+2023,JULY,Chitradurga,SN,Rectal swab,67,mdtF
+2023,JULY,Chitradurga,SN,Rectal swab,67,mdtE
+2023,JULY,Chitradurga,SN,Rectal swab,67,CRP
+2023,JULY,Chitradurga,SN,Rectal swab,67,QnrS1
+2023,JULY,Chitradurga,SN,Rectal swab,67,CTX-M-15
+2023,JULY,Chitradurga,SN,Rectal swab,67,Escherichia_coli_mdfA
+2023,JULY,Chitradurga,SN,Rectal swab,67,msbA
+2023,JULY,Chitradurga,SN,Rectal swab,67,AcrF
+2023,JULY,Chitradurga,SN,Rectal swab,67,AcrE
+2023,JULY,Chitradurga,SN,Rectal swab,67,AcrS
+2023,JULY,Chitradurga,SN,Rectal swab,67,leuO
+2023,JULY,Chitradurga,SN,Rectal swab,67,eptA
+2023,JULY,Chitradurga,SN,Rectal swab,67,mdtN
+2023,JULY,Chitradurga,SN,Rectal swab,67,mdtO
+2023,JULY,Chitradurga,SN,Rectal swab,67,mdtP
+2023,JULY,Chitradurga,DD,Rectal swab,68,CTX-M-15
+2023,JULY,Chitradurga,DD,Rectal swab,68,QnrS1
+2023,JULY,Chitradurga,DD,Rectal swab,68,marA
+2023,JULY,Chitradurga,DD,Rectal swab,68,mdtE
+2023,JULY,Chitradurga,DD,Rectal swab,68,mdtF
+2023,JULY,Chitradurga,DD,Rectal swab,68,gadW
+2023,JULY,Chitradurga,DD,Rectal swab,68,gadX
+2023,JULY,Chitradurga,DD,Rectal swab,68,EC-18
+2023,JULY,Chitradurga,DD,Rectal swab,68,eptA
+2023,JULY,Chitradurga,DD,Rectal swab,68,mdtN
+2023,JULY,Chitradurga,DD,Rectal swab,68,mdtO
+2023,JULY,Chitradurga,DD,Rectal swab,68,mdtP
+2023,JULY,Chitradurga,DD,Rectal swab,68,Escherichia_coli_emrE
+2023,JULY,Chitradurga,DD,Rectal swab,68,mdtM
+2023,JULY,Chitradurga,DD,Rectal swab,68,cpxA
+2023,JULY,Chitradurga,DD,Rectal swab,68,leuO
+2023,JULY,Chitradurga,DD,Rectal swab,68,kdpE
+2023,JULY,Chitradurga,DD,Rectal swab,68,H-NS
+2023,JULY,Chitradurga,DD,Rectal swab,68,mdtH
+2023,JULY,Chitradurga,DD,Rectal swab,68,mdtG
+2023,JULY,Chitradurga,DD,Rectal swab,68,OmpA
+2023,JULY,Chitradurga,DD,Rectal swab,68,msbA
+2023,JULY,Chitradurga,DD,Rectal swab,68,Escherichia_coli_mdfA
+2023,JULY,Chitradurga,DD,Rectal swab,68,AcrF
+2023,JULY,Chitradurga,DD,Rectal swab,68,AcrE
+2023,JULY,Chitradurga,DD,Rectal swab,68,AcrS
+2023,JULY,Chitradurga,DD,Rectal swab,68,bacA
+2023,JULY,Chitradurga,DD,Rectal swab,68,TolC
+2023,JULY,Chitradurga,DD,Rectal swab,68,emrB
+2023,JULY,Chitradurga,DD,Rectal swab,68,emrA
+2023,JULY,Chitradurga,DD,Rectal swab,68,emrR
+2023,JULY,Chitradurga,DD,Rectal swab,68,ugd
+2023,JULY,Chitradurga,DD,Rectal swab,68,mdtA
+2023,JULY,Chitradurga,DD,Rectal swab,68,mdtB
+2023,JULY,Chitradurga,DD,Rectal swab,68,mdtC
+2023,JULY,Chitradurga,DD,Rectal swab,68,YojI
+2023,JULY,Chitradurga,DD,Rectal swab,68,PmrF
+2023,JULY,Chitradurga,DD,Rectal swab,68,emrY
+2023,JULY,Chitradurga,DD,Rectal swab,68,emrK
+2023,JULY,Chitradurga,DD,Rectal swab,68,evgA
+2023,JULY,Chitradurga,DD,Rectal swab,68,evgS
+2023,JULY,Chitradurga,DD,Rectal swab,68,acrD
+2023,JULY,Chitradurga,DD,Rectal swab,68,acrB
+2023,JULY,Chitradurga,DD,Rectal swab,68,Escherichia_coli_acrA
+2023,JULY,Chitradurga,DD,Rectal swab,68,CRP
+2023,SEPTEMBER,Chitradurga,VN,Rectal swab,69,TEM-141
+2023,SEPTEMBER,Chitradurga,VN,Rectal swab,69,Escherichia_coli_emrE
+2023,SEPTEMBER,Chitradurga,VN,Rectal swab,69,cpxA
+2023,SEPTEMBER,Chitradurga,VN,Rectal swab,69,emrB
+2023,SEPTEMBER,Chitradurga,VN,Rectal swab,69,emrA
+2023,SEPTEMBER,Chitradurga,VN,Rectal swab,69,emrR
+2023,SEPTEMBER,Chitradurga,VN,Rectal swab,69,YojI
+2023,SEPTEMBER,Chitradurga,VN,Rectal swab,69,PmrF
+2023,SEPTEMBER,Chitradurga,VN,Rectal swab,69,kdpE
+2023,SEPTEMBER,Chitradurga,VN,Rectal swab,69,leuO
+2023,SEPTEMBER,Chitradurga,VN,Rectal swab,69,emrY
+2023,SEPTEMBER,Chitradurga,VN,Rectal swab,69,emrK
+2023,SEPTEMBER,Chitradurga,VN,Rectal swab,69,evgA
+2023,SEPTEMBER,Chitradurga,VN,Rectal swab,69,evgS
+2023,SEPTEMBER,Chitradurga,VN,Rectal swab,69,H-NS
+2023,SEPTEMBER,Chitradurga,VN,Rectal swab,69,mdtM
+2023,SEPTEMBER,Chitradurga,VN,Rectal swab,69,marA
+2023,SEPTEMBER,Chitradurga,VN,Rectal swab,69,acrD
+2023,SEPTEMBER,Chitradurga,VN,Rectal swab,69,EC-13
+2023,SEPTEMBER,Chitradurga,VN,Rectal swab,69,eptA
+2023,SEPTEMBER,Chitradurga,VN,Rectal swab,69,mdtN
+2023,SEPTEMBER,Chitradurga,VN,Rectal swab,69,mdtO
+2023,SEPTEMBER,Chitradurga,VN,Rectal swab,69,mdtP
+2023,SEPTEMBER,Chitradurga,VN,Rectal swab,69,acrB
+2023,SEPTEMBER,Chitradurga,VN,Rectal swab,69,Escherichia_coli_acrA
+2023,SEPTEMBER,Chitradurga,VN,Rectal swab,69,TolC
+2023,SEPTEMBER,Chitradurga,VN,Rectal swab,69,bacA
+2023,SEPTEMBER,Chitradurga,VN,Rectal swab,69,CRP
+2023,SEPTEMBER,Chitradurga,VN,Rectal swab,69,mdtE
+2023,SEPTEMBER,Chitradurga,VN,Rectal swab,69,mdtF
+2023,SEPTEMBER,Chitradurga,VN,Rectal swab,69,gadW
+2023,SEPTEMBER,Chitradurga,VN,Rectal swab,69,gadX
+2023,SEPTEMBER,Chitradurga,VN,Rectal swab,69,ugd
+2023,SEPTEMBER,Chitradurga,VN,Rectal swab,69,mdtA
+2023,SEPTEMBER,Chitradurga,VN,Rectal swab,69,mdtB
+2023,SEPTEMBER,Chitradurga,VN,Rectal swab,69,mdtC
+2023,SEPTEMBER,Chitradurga,VN,Rectal swab,69,Escherichia_coli_mdfA
+2023,SEPTEMBER,Chitradurga,VN,Rectal swab,69,AcrS
+2023,SEPTEMBER,Chitradurga,VN,Rectal swab,69,AcrE
+2023,SEPTEMBER,Chitradurga,VN,Rectal swab,69,AcrF
+2023,SEPTEMBER,Chitradurga,VN,Rectal swab,69,mdtH
+2023,SEPTEMBER,Chitradurga,VN,Rectal swab,69,mdtG
+2023,SEPTEMBER,Chitradurga,VN,Rectal swab,69,OmpA
+2023,SEPTEMBER,Chitradurga,VN,Rectal swab,69,msbA
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,70,Escherichia_coli_mdfA
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,70,emrK
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,70,emrY
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,70,marA
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,70,H-NS
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,70,Escherichia_coli_acrA
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,70,acrB
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,70,kdpE
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,70,emrB
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,70,emrA
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,70,emrR
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,70,leuO
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,70,msbA
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,70,OmpA
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,70,ugd
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,70,mdtA
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,70,mdtB
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,70,mdtC
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,70,YojI
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,70,PmrF
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,70,CRP
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,70,mdtE
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,70,mdtF
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,70,gadW
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,70,gadX
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,70,TolC
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,70,bacA
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,70,AcrS
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,70,AcrE
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,70,AcrF
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,70,mdtM
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,70,EC-18
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,70,eptA
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,70,mdtN
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,70,mdtO
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,70,mdtP
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,70,mdtH
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,70,mdtG
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,70,cpxA
+2023,DECEMBER,Chitradurga,MDP,Rectal swab,70,acrD
+2023,DECEMBER,Chitradurga,ML,Rectal swab,72,ugd
+2023,DECEMBER,Chitradurga,ML,Rectal swab,72,marA
+2023,DECEMBER,Chitradurga,ML,Rectal swab,72,kdpE
+2023,DECEMBER,Chitradurga,ML,Rectal swab,72,mdtE
+2023,DECEMBER,Chitradurga,ML,Rectal swab,72,mdtF
+2023,DECEMBER,Chitradurga,ML,Rectal swab,72,gadW
+2023,DECEMBER,Chitradurga,ML,Rectal swab,72,gadX
+2023,DECEMBER,Chitradurga,ML,Rectal swab,72,mdtA
+2023,DECEMBER,Chitradurga,ML,Rectal swab,72,mdtB
+2023,DECEMBER,Chitradurga,ML,Rectal swab,72,H-NS
+2023,DECEMBER,Chitradurga,ML,Rectal swab,72,OmpA
+2023,DECEMBER,Chitradurga,ML,Rectal swab,72,TolC
+2023,DECEMBER,Chitradurga,ML,Rectal swab,72,AcrS
+2023,DECEMBER,Chitradurga,ML,Rectal swab,72,AcrE
+2023,DECEMBER,Chitradurga,ML,Rectal swab,72,AcrF
+2023,DECEMBER,Chitradurga,ML,Rectal swab,72,PmrF
+2023,DECEMBER,Chitradurga,ML,Rectal swab,72,Escherichia_coli_emrE
+2023,DECEMBER,Chitradurga,ML,Rectal swab,72,mdtH
+2023,DECEMBER,Chitradurga,ML,Rectal swab,72,mdtG
+2023,DECEMBER,Chitradurga,ML,Rectal swab,72,emrR
+2023,DECEMBER,Chitradurga,ML,Rectal swab,72,emrA
+2023,DECEMBER,Chitradurga,ML,Rectal swab,72,emrB
+2023,DECEMBER,Chitradurga,ML,Rectal swab,72,EC-18
+2023,DECEMBER,Chitradurga,ML,Rectal swab,72,bacA
+2023,DECEMBER,Chitradurga,ML,Rectal swab,72,emrY
+2023,DECEMBER,Chitradurga,ML,Rectal swab,72,emrK
+2023,DECEMBER,Chitradurga,ML,Rectal swab,72,evgA
+2023,DECEMBER,Chitradurga,ML,Rectal swab,72,evgS
+2023,DECEMBER,Chitradurga,ML,Rectal swab,72,eptA
+2023,DECEMBER,Chitradurga,ML,Rectal swab,72,cpxA
+2023,DECEMBER,Chitradurga,ML,Rectal swab,72,mdtM
+2023,DECEMBER,Chitradurga,ML,Rectal swab,72,mdtN
+2023,DECEMBER,Chitradurga,ML,Rectal swab,72,mdtO
+2023,DECEMBER,Chitradurga,ML,Rectal swab,72,mdtP
+2023,DECEMBER,Chitradurga,ML,Rectal swab,72,leuO
+2023,DECEMBER,Chitradurga,ML,Rectal swab,72,ugd
+2023,DECEMBER,Chitradurga,ML,Rectal swab,72,Escherichia_coli_acrA
+2023,DECEMBER,Chitradurga,ML,Rectal swab,72,acrB
+2023,DECEMBER,Chitradurga,ML,Rectal swab,72,YojI
+2023,DECEMBER,Chitradurga,ML,Rectal swab,72,acrD
+2023,DECEMBER,Chitradurga,ML,Rectal swab,72,msbA
+2023,JULY,Chitradurga,GN,Soil,2,H-NS
+2023,JULY,Chitradurga,GN,Soil,2,OmpA
+2023,JULY,Chitradurga,GN,Soil,2,marA
+2023,JULY,Chitradurga,GN,Soil,2,CRP
+2023,JULY,Chitradurga,GN,Soil,2,mdtE
+2023,JULY,Chitradurga,GN,Soil,2,mdtF
+2023,JULY,Chitradurga,GN,Soil,2,gadW
+2023,JULY,Chitradurga,GN,Soil,2,gadX
+2023,JULY,Chitradurga,GN,Soil,2,AcrF
+2023,JULY,Chitradurga,GN,Soil,2,AcrE
+2023,JULY,Chitradurga,GN,Soil,2,AcrS
+2023,JULY,Chitradurga,GN,Soil,2,kdpE
+2023,JULY,Chitradurga,GN,Soil,2,leuO
+2023,JULY,Chitradurga,GN,Soil,2,mdtM
+2023,JULY,Chitradurga,GN,Soil,2,acrD
+2023,JULY,Chitradurga,GN,Soil,2,Escherichia_coli_mdfA
+2023,JULY,Chitradurga,GN,Soil,2,msbA
+2023,JULY,Chitradurga,GN,Soil,2,mdtG
+2023,JULY,Chitradurga,GN,Soil,2,mdtH
+2023,JULY,Chitradurga,GN,Soil,2,mdtC
+2023,JULY,Chitradurga,GN,Soil,2,mdtB
+2023,JULY,Chitradurga,GN,Soil,2,mdtA
+2023,JULY,Chitradurga,GN,Soil,2,ugd
+2023,JULY,Chitradurga,GN,Soil,2,Escherichia_coli_acrA
+2023,JULY,Chitradurga,GN,Soil,2,acrB
+2023,JULY,Chitradurga,GN,Soil,2,YojI
+2023,JULY,Chitradurga,GN,Soil,2,PmrF
+2023,JULY,Chitradurga,GN,Soil,2,emrY
+2023,JULY,Chitradurga,GN,Soil,2,emrK
+2023,JULY,Chitradurga,GN,Soil,2,evgA
+2023,JULY,Chitradurga,GN,Soil,2,evgS
+2023,JULY,Chitradurga,GN,Soil,2,emrR
+2023,JULY,Chitradurga,GN,Soil,2,emrA
+2023,JULY,Chitradurga,GN,Soil,2,emrB
+2023,JULY,Chitradurga,GN,Soil,2,TolC
+2023,JULY,Chitradurga,GN,Soil,2,bacA
+2023,JULY,Chitradurga,GN,Soil,2,mdtP
+2023,JULY,Chitradurga,GN,Soil,2,mdtO
+2023,JULY,Chitradurga,GN,Soil,2,mdtN
+2023,JULY,Chitradurga,GN,Soil,2,eptA
+2023,JULY,Chitradurga,GN,Soil,2,EC-18
+2023,JULY,Chitradurga,GN,Soil,2,cpxA
+2023,JULY,Chitradurga,BA,Soil,4,kdpE
+2023,JULY,Chitradurga,BA,Soil,4,OmpA
+2023,JULY,Chitradurga,BA,Soil,4,acrD
+2023,JULY,Chitradurga,BA,Soil,4,emrR
+2023,JULY,Chitradurga,BA,Soil,4,emrA
+2023,JULY,Chitradurga,BA,Soil,4,emrB
+2023,JULY,Chitradurga,BA,Soil,4,mdtE
+2023,JULY,Chitradurga,BA,Soil,4,mdtF
+2023,JULY,Chitradurga,BA,Soil,4,gadW
+2023,JULY,Chitradurga,BA,Soil,4,gadX
+2023,JULY,Chitradurga,BA,Soil,4,Escherichia_coli_acrA
+2023,JULY,Chitradurga,BA,Soil,4,acrB
+2023,JULY,Chitradurga,BA,Soil,4,cpxA
+2023,JULY,Chitradurga,BA,Soil,4,Escherichia_coli_emrE
+2023,JULY,Chitradurga,BA,Soil,4,EC-15
+2023,JULY,Chitradurga,BA,Soil,4,marA
+2023,JULY,Chitradurga,BA,Soil,4,mdtM
+2023,JULY,Chitradurga,BA,Soil,4,eptA
+2023,JULY,Chitradurga,BA,Soil,4,mdtN
+2023,JULY,Chitradurga,BA,Soil,4,mdtO
+2023,JULY,Chitradurga,BA,Soil,4,mdtP
+2023,JULY,Chitradurga,BA,Soil,4,H-NS
+2023,JULY,Chitradurga,BA,Soil,4,mdtG
+2023,JULY,Chitradurga,BA,Soil,4,mdtH
+2023,JULY,Chitradurga,BA,Soil,4,leuO
+2023,JULY,Chitradurga,BA,Soil,4,evgS
+2023,JULY,Chitradurga,BA,Soil,4,evgA
+2023,JULY,Chitradurga,BA,Soil,4,emrK
+2023,JULY,Chitradurga,BA,Soil,4,emrY
+2023,JULY,Chitradurga,BA,Soil,4,PmrF
+2023,JULY,Chitradurga,BA,Soil,4,YojI
+2023,JULY,Chitradurga,BA,Soil,4,AcrF
+2023,JULY,Chitradurga,BA,Soil,4,AcrE
+2023,JULY,Chitradurga,BA,Soil,4,AcrS
+2023,JULY,Chitradurga,BA,Soil,4,bacA
+2023,JULY,Chitradurga,BA,Soil,4,TolC
+2023,JULY,Chitradurga,BA,Soil,4,mdtC
+2023,JULY,Chitradurga,BA,Soil,4,mdtB
+2023,JULY,Chitradurga,BA,Soil,4,mdtA
+2023,JULY,Chitradurga,BA,Soil,4,Escherichia_coli_mdfA
+2023,JULY,Chitradurga,BA,Soil,4,msbA
+2023,JULY,Chitradurga,BA,Soil,4,CRP
+2024,JUNE,Tumkur,LK,Soil,5,gadW
+2024,JUNE,Tumkur,LK,Soil,5,Escherichia_coli_ampC_beta-lactamase
+2024,JUNE,Tumkur,LK,Soil,5,DHA-1
+2024,JUNE,Tumkur,LK,Soil,5,QnrB4
+2024,JUNE,Tumkur,LK,Soil,5,AcrS
+2024,JUNE,Tumkur,LK,Soil,5,YojI
+2024,JUNE,Tumkur,LK,Soil,5,kdpE
+2024,JUNE,Tumkur,LK,Soil,5,gadW
+2024,JUNE,Tumkur,LK,Soil,5,Escherichia_coli_emrE
+2024,JUNE,Tumkur,LK,Soil,5,emrR
+2024,JUNE,Tumkur,LK,Soil,5,Klebsiella_pneumoniae_KpnG
+2024,JUNE,Tumkur,LK,Soil,5,emrB
+2024,JUNE,Tumkur,LK,Soil,5,Escherichia_coli_emrE
+2024,JUNE,Tumkur,LK,Soil,5,msbA
+2024,JUNE,Tumkur,LK,Soil,5,ugd
+2024,JUNE,Tumkur,LK,Soil,5,oqxA
+2024,JUNE,Tumkur,LK,Soil,5,oqxB
+2024,JUNE,Tumkur,LK,Soil,5,CMH-16
+2024,JUNE,Tumkur,LK,Soil,5,acrD
+2024,JUNE,Tumkur,LK,Soil,5,cpxA
+2024,JUNE,Tumkur,LK,Soil,5,AcrS
+2024,JUNE,Tumkur,LK,Soil,5,marA
+2024,JUNE,Tumkur,LK,Soil,5,ramA
+2024,JUNE,Tumkur,LK,Soil,5,FosA2
+2024,JUNE,Tumkur,LK,Soil,5,bacA
+2024,JUNE,Tumkur,LK,Soil,5,gadX
+2024,JUNE,Tumkur,LK,Soil,5,mdtC
+2024,JUNE,Tumkur,LK,Soil,5,mdtE
+2024,JUNE,Tumkur,LK,Soil,5,mdtF
+2024,JUNE,Tumkur,LK,Soil,5,mdtP
+2024,JUNE,Tumkur,LK,Soil,5,mdtO
+2024,JUNE,Tumkur,LK,Soil,5,mdtN
+2024,JUNE,Tumkur,LK,Soil,5,bacA
+2024,JUNE,Tumkur,LK,Soil,5,YojI
+2024,JUNE,Tumkur,LK,Soil,5,mdtM
+2024,JUNE,Tumkur,LK,Soil,5,eptA
+2024,JUNE,Tumkur,LK,Soil,5,Escherichia_coli_acrA
+2024,JUNE,Tumkur,LK,Soil,5,PmrF
+2024,JUNE,Tumkur,LK,Soil,5,mdtA
+2024,JUNE,Tumkur,LK,Soil,5,mdtH
+2024,JUNE,Tumkur,LK,Soil,5,Klebsiella_pneumoniae_KpnH
+2024,JUNE,Tumkur,LK,Soil,5,emrA
+2024,JUNE,Tumkur,LK,Soil,5,emrR
+2024,JUNE,Tumkur,LK,Soil,5,AcrE
+2024,JUNE,Tumkur,LK,Soil,5,AcrF
+2024,JUNE,Tumkur,LK,Soil,5,OmpA
+2024,JUNE,Tumkur,LK,Soil,5,mdtG
+2024,JUNE,Tumkur,LK,Soil,5,Escherichia_coli_mdfA
+2024,JUNE,Tumkur,LK,Soil,5,H-NS
+2024,JUNE,Tumkur,LK,Soil,5,kdpE
+2024,JUNE,Tumkur,LK,Soil,5,marA
+2024,JUNE,Tumkur,LK,Soil,5,CRP
+2024,JUNE,Tumkur,LK,Soil,5,msbA
+2024,JUNE,Tumkur,LK,Soil,5,acrD
+2024,JUNE,Tumkur,LK,Soil,5,emrY
+2024,JUNE,Tumkur,LK,Soil,5,emrK
+2024,JUNE,Tumkur,LK,Soil,5,evgA
+2024,JUNE,Tumkur,LK,Soil,5,evgS
+2024,JUNE,Tumkur,LK,Soil,5,Enterobacter_cloacae_acrA
+2024,JUNE,Tumkur,LK,Soil,5,acrB
+2024,JUNE,Tumkur,LK,Soil,5,TolC
+2024,JUNE,Tumkur,LK,Soil,5,CRP
+2024,JUNE,Tumkur,LK,Soil,5,cpxA
+2024,JUNE,Tumkur,LK,Soil,5,OmpA
+2024,JUNE,Tumkur,LK,Soil,5,mdtC
+2024,JUNE,Tumkur,LK,Soil,5,mdtB
+2024,JUNE,Tumkur,LK,Soil,5,mdtA
+2024,JUNE,Tumkur,LK,Soil,5,H-NS
+2024,JUNE,Tumkur,LK,Soil,5,EC-18
+2024,JUNE,Tumkur,LK,Soil,5,mdtA
+2024,JULY,Tumkur,LK,Soil,8,OmpA
+2024,JULY,Tumkur,LK,Soil,8,Escherichia_coli_acrA
+2024,JULY,Tumkur,LK,Soil,8,acrB
+2024,JULY,Tumkur,LK,Soil,8,emrB
+2024,JULY,Tumkur,LK,Soil,8,emrA
+2024,JULY,Tumkur,LK,Soil,8,bacA
+2024,JULY,Tumkur,LK,Soil,8,Escherichia_coli_emrE
+2024,JULY,Tumkur,LK,Soil,8,H-NS
+2024,JULY,Tumkur,LK,Soil,8,marA
+2024,JULY,Tumkur,LK,Soil,8,ugd
+2024,JULY,Tumkur,LK,Soil,8,CRP
+2024,JULY,Tumkur,LK,Soil,8,cpxA
+2024,JULY,Tumkur,LK,Soil,8,msbA
+2024,JULY,Tumkur,LK,Soil,8,AcrS
+2024,JULY,Tumkur,LK,Soil,8,AcrE
+2024,JULY,Tumkur,LK,Soil,8,AcrF
+2024,JULY,Tumkur,LK,Soil,8,acrD
+2024,JULY,Tumkur,LK,Soil,8,eptA
+2024,JULY,Tumkur,LK,Soil,8,mdtN
+2024,JULY,Tumkur,LK,Soil,8,mdtO
+2024,JULY,Tumkur,LK,Soil,8,mdtP
+2024,JULY,Tumkur,LK,Soil,8,PmrF
+2024,JULY,Tumkur,LK,Soil,8,H-NS
+2024,JULY,Tumkur,LK,Soil,8,TolC
+2024,JULY,Tumkur,LK,Soil,8,YojI
+2024,JULY,Tumkur,LK,Soil,8,emrY
+2024,JULY,Tumkur,LK,Soil,8,emrK
+2024,JULY,Tumkur,LK,Soil,8,evgA
+2024,JULY,Tumkur,LK,Soil,8,evgS
+2024,JULY,Tumkur,LK,Soil,8,mdtA
+2024,JULY,Tumkur,LK,Soil,8,mdtB
+2024,JULY,Tumkur,LK,Soil,8,mdtC
+2024,JULY,Tumkur,LK,Soil,8,Escherichia_coli_mdfA
+2024,JULY,Tumkur,LK,Soil,8,kdpE
+2024,JULY,Tumkur,LK,Soil,8,EC-18
+2024,JULY,Tumkur,LK,Soil,8,leuO
+2024,JULY,Tumkur,LK,Soil,8,gadX
+2024,JULY,Tumkur,LK,Soil,8,gadW
+2024,JULY,Tumkur,LK,Soil,8,mdtF
+2024,JULY,Tumkur,LK,Soil,8,mdtE
+2024,JULY,Tumkur,LK,Soil,8,bacA
+2024,JULY,Tumkur,LK,Soil,8,mdtM
+2024,JULY,Tumkur,LK,Soil,8,mdtG
+2024,JULY,Tumkur,LK,Soil,8,mdtH
+2024,JULY,Tumkur,LK,Soil,8,CRP
+2024,JULY,Tumkur,LK,Soil,8,FosA2
+2024,JULY,Tumkur,LK,Soil,8,FosA2
+2024,JULY,Tumkur,LK,Soil,8,oqxA
+2024,JUNE,Tumkur,LK,Soil,12,OmpA
+2024,JUNE,Tumkur,LK,Soil,12,marA
+2024,JUNE,Tumkur,LK,Soil,12,msbA
+2024,JUNE,Tumkur,LK,Soil,12,kdpE
+2024,JUNE,Tumkur,LK,Soil,12,Escherichia_coli_acrA
+2024,JUNE,Tumkur,LK,Soil,12,acrB
+2024,JUNE,Tumkur,LK,Soil,12,mdtG
+2024,JUNE,Tumkur,LK,Soil,12,mdtH
+2024,JUNE,Tumkur,LK,Soil,12,ugd
+2024,JUNE,Tumkur,LK,Soil,12,leuO
+2024,JUNE,Tumkur,LK,Soil,12,bacA
+2024,JUNE,Tumkur,LK,Soil,12,TolC
+2024,JUNE,Tumkur,LK,Soil,12,Escherichia_coli_mdfA
+2024,JUNE,Tumkur,LK,Soil,12,acrD
+2024,JUNE,Tumkur,LK,Soil,12,mdtM
+2024,JUNE,Tumkur,LK,Soil,12,EC-18
+2024,JUNE,Tumkur,LK,Soil,12,H-NS
+2024,JUNE,Tumkur,LK,Soil,12,mdtP
+2024,JUNE,Tumkur,LK,Soil,12,mdtO
+2024,JUNE,Tumkur,LK,Soil,12,mdtN
+2024,JUNE,Tumkur,LK,Soil,12,eptA
+2024,JUNE,Tumkur,LK,Soil,12,emrR
+2024,JUNE,Tumkur,LK,Soil,12,emrA
+2024,JUNE,Tumkur,LK,Soil,12,emrB
+2024,JUNE,Tumkur,LK,Soil,12,cpxA
+2024,JUNE,Tumkur,LK,Soil,12,mdtA
+2024,JUNE,Tumkur,LK,Soil,12,mdtB
+2024,JUNE,Tumkur,LK,Soil,12,mdtC
+2024,JUNE,Tumkur,LK,Soil,12,CRP
+2024,JUNE,Tumkur,LK,Soil,12,mdtE
+2024,JUNE,Tumkur,LK,Soil,12,mdtF
+2024,JUNE,Tumkur,LK,Soil,12,gadW
+2024,JUNE,Tumkur,LK,Soil,12,gadX
+2024,JUNE,Tumkur,LK,Soil,12,AcrS
+2024,JUNE,Tumkur,LK,Soil,12,AcrE
+2024,JUNE,Tumkur,LK,Soil,12,AcrF
+2024,JUNE,Tumkur,LK,Soil,12,YojI
+2024,JUNE,Tumkur,LK,Soil,12,PmrF
+2024,JUNE,Tumkur,LK,Soil,12,emrY
+2024,JUNE,Tumkur,LK,Soil,12,emrK
+2024,JUNE,Tumkur,LK,Soil,12,evgA
+2024,JUNE,Tumkur,LK,Soil,12,evgS
+2024,JULY,Tumkur,LK,Soil,38,Escherichia_coli_emrE
+2024,JULY,Tumkur,LK,Soil,38,mdtN
+2024,JULY,Tumkur,LK,Soil,38,kdpE
+2024,JULY,Tumkur,LK,Soil,38,mdtN
+2024,JULY,Tumkur,LK,Soil,38,Escherichia_coli_emrE
+2024,JULY,Tumkur,LK,Soil,38,marA
+2024,JULY,Tumkur,LK,Soil,38,acrB
+2024,JULY,Tumkur,LK,Soil,38,Escherichia_coli_acrA
+2024,JULY,Tumkur,LK,Soil,38,YojI
+2024,JULY,Tumkur,LK,Soil,38,PmrF
+2024,JULY,Tumkur,LK,Soil,38,ugd
+2024,JULY,Tumkur,LK,Soil,38,H-NS
+2024,JULY,Tumkur,LK,Soil,38,emrB
+2024,JULY,Tumkur,LK,Soil,38,emrA
+2024,JULY,Tumkur,LK,Soil,38,emrR
+2024,JULY,Tumkur,LK,Soil,38,leuO
+2024,JULY,Tumkur,LK,Soil,38,bacA
+2024,JULY,Tumkur,LK,Soil,38,mdtO
+2024,JULY,Tumkur,LK,Soil,38,mdtP
+2024,JULY,Tumkur,LK,Soil,38,CRP
+2024,JULY,Tumkur,LK,Soil,38,eptA
+2024,JULY,Tumkur,LK,Soil,38,cpxA
+2024,JULY,Tumkur,LK,Soil,38,msbA
+2024,JULY,Tumkur,LK,Soil,38,gadW
+2024,JULY,Tumkur,LK,Soil,38,gadX
+2024,JULY,Tumkur,LK,Soil,38,mdtE
+2024,JULY,Tumkur,LK,Soil,38,Escherichia_coli_mdfA
+2024,JULY,Tumkur,LK,Soil,38,AcrF
+2024,JULY,Tumkur,LK,Soil,38,AcrE
+2024,JULY,Tumkur,LK,Soil,38,AcrS
+2024,JULY,Tumkur,LK,Soil,38,evgS
+2024,JULY,Tumkur,LK,Soil,38,evgA
+2024,JULY,Tumkur,LK,Soil,38,emrK
+2024,JULY,Tumkur,LK,Soil,38,emrY
+2024,JULY,Tumkur,LK,Soil,38,TolC
+2024,JULY,Tumkur,LK,Soil,38,OmpA
+2024,JULY,Tumkur,LK,Soil,38,mdtH
+2024,JULY,Tumkur,LK,Soil,38,mdtG
+2025,JANUARY,Tumkur,SI,Soil,42,ugd
+2025,JANUARY,Tumkur,SI,Soil,42,marA
+2025,JANUARY,Tumkur,SI,Soil,42,CRP
+2025,JANUARY,Tumkur,SI,Soil,42,acrD
+2025,JANUARY,Tumkur,SI,Soil,42,mdtE
+2025,JANUARY,Tumkur,SI,Soil,42,mdtF
+2025,JANUARY,Tumkur,SI,Soil,42,gadW
+2025,JANUARY,Tumkur,SI,Soil,42,gadX
+2025,JANUARY,Tumkur,SI,Soil,42,H-NS
+2025,JANUARY,Tumkur,SI,Soil,42,Escherichia_coli_acrA
+2025,JANUARY,Tumkur,SI,Soil,42,acrB
+2025,JANUARY,Tumkur,SI,Soil,42,Escherichia_coli_mdfA
+2025,JANUARY,Tumkur,SI,Soil,42,evgS
+2025,JANUARY,Tumkur,SI,Soil,42,evgA
+2025,JANUARY,Tumkur,SI,Soil,42,emrK
+2025,JANUARY,Tumkur,SI,Soil,42,emrY
+2025,JANUARY,Tumkur,SI,Soil,42,TolC
+2025,JANUARY,Tumkur,SI,Soil,42,bacA
+2025,JANUARY,Tumkur,SI,Soil,42,kdpE
+2025,JANUARY,Tumkur,SI,Soil,42,mdtC
+2025,JANUARY,Tumkur,SI,Soil,42,mdtB
+2025,JANUARY,Tumkur,SI,Soil,42,mdtA
+2025,JANUARY,Tumkur,SI,Soil,42,EC-18
+2025,JANUARY,Tumkur,SI,Soil,42,eptA
+2025,JANUARY,Tumkur,SI,Soil,42,AcrS
+2025,JANUARY,Tumkur,SI,Soil,42,AcrE
+2025,JANUARY,Tumkur,SI,Soil,42,AcrF
+2025,JANUARY,Tumkur,SI,Soil,42,leuO
+2025,JANUARY,Tumkur,SI,Soil,42,mdtM
+2025,JANUARY,Tumkur,SI,Soil,42,mdtG
+2025,JANUARY,Tumkur,SI,Soil,42,mdtH
+2025,JANUARY,Tumkur,SI,Soil,42,cpxA
+2025,JANUARY,Tumkur,SI,Soil,42,emrB
+2025,JANUARY,Tumkur,SI,Soil,42,emrA
+2025,JANUARY,Tumkur,SI,Soil,42,emrR
+2025,JANUARY,Tumkur,SI,Soil,42,mdtN
+2025,JANUARY,Tumkur,SI,Soil,42,mdtO
+2025,JANUARY,Tumkur,SI,Soil,42,mdtP
+2025,JANUARY,Tumkur,SI,Soil,42,YojI
+2025,JANUARY,Tumkur,SI,Soil,42,PmrF
+2025,JANUARY,Tumkur,SI,Soil,42,OmpA
+2025,JANUARY,Tumkur,SI,Soil,42,msbA
+2025,JANUARY,Tumkur,TI,Soil,45,mdtM
+2025,JANUARY,Tumkur,TI,Soil,45,marA
+2025,JANUARY,Tumkur,TI,Soil,45,ugd
+2025,JANUARY,Tumkur,TI,Soil,45,Escherichia_coli_emrE
+2025,JANUARY,Tumkur,TI,Soil,45,CTX-M-15
+2025,JANUARY,Tumkur,TI,Soil,45,Escherichia_coli_acrA
+2025,JANUARY,Tumkur,TI,Soil,45,acrB
+2025,JANUARY,Tumkur,TI,Soil,45,kdpE
+2025,JANUARY,Tumkur,TI,Soil,45,cpxA
+2025,JANUARY,Tumkur,TI,Soil,45,AcrF
+2025,JANUARY,Tumkur,TI,Soil,45,AcrE
+2025,JANUARY,Tumkur,TI,Soil,45,AcrS
+2025,JANUARY,Tumkur,TI,Soil,45,Escherichia_coli_mdfA
+2025,JANUARY,Tumkur,TI,Soil,45,H-NS
+2025,JANUARY,Tumkur,TI,Soil,45,mdtH
+2025,JANUARY,Tumkur,TI,Soil,45,mdtG
+2025,JANUARY,Tumkur,TI,Soil,45,leuO
+2025,JANUARY,Tumkur,TI,Soil,45,gadX
+2025,JANUARY,Tumkur,TI,Soil,45,gadW
+2025,JANUARY,Tumkur,TI,Soil,45,mdtF
+2025,JANUARY,Tumkur,TI,Soil,45,mdtE
+2025,JANUARY,Tumkur,TI,Soil,45,CRP
+2025,JANUARY,Tumkur,TI,Soil,45,acrD
+2025,JANUARY,Tumkur,TI,Soil,45,evgS
+2025,JANUARY,Tumkur,TI,Soil,45,evgA
+2025,JANUARY,Tumkur,TI,Soil,45,emrK
+2025,JANUARY,Tumkur,TI,Soil,45,emrY
+2025,JANUARY,Tumkur,TI,Soil,45,PmrF
+2025,JANUARY,Tumkur,TI,Soil,45,YojI
+2025,JANUARY,Tumkur,TI,Soil,45,mdtC
+2025,JANUARY,Tumkur,TI,Soil,45,mdtB
+2025,JANUARY,Tumkur,TI,Soil,45,mdtA
+2025,JANUARY,Tumkur,TI,Soil,45,EC-18
+2025,JANUARY,Tumkur,TI,Soil,45,eptA
+2025,JANUARY,Tumkur,TI,Soil,45,mdtN
+2025,JANUARY,Tumkur,TI,Soil,45,mdtO
+2025,JANUARY,Tumkur,TI,Soil,45,mdtP
+2025,JANUARY,Tumkur,TI,Soil,45,emrR
+2025,JANUARY,Tumkur,TI,Soil,45,emrA
+2025,JANUARY,Tumkur,TI,Soil,45,emrB
+2025,JANUARY,Tumkur,TI,Soil,45,TolC
+2025,JANUARY,Tumkur,TI,Soil,45,bacA
+2025,JANUARY,Tumkur,TI,Soil,45,msbA
+2025,JANUARY,Tumkur,TI,Soil,45,OmpA
+2023,JULY,Chitradurga,SN,Soil,48,dfrA7
+2023,JULY,Chitradurga,SN,Soil,48,EC-18
+2023,JULY,Chitradurga,SN,Soil,48,OmpA
+2023,JULY,Chitradurga,SN,Soil,48,evgS
+2023,JULY,Chitradurga,SN,Soil,48,evgA
+2023,JULY,Chitradurga,SN,Soil,48,emrK
+2023,JULY,Chitradurga,SN,Soil,48,emrY
+2023,JULY,Chitradurga,SN,Soil,48,YojI
+2023,JULY,Chitradurga,SN,Soil,48,mdtP
+2023,JULY,Chitradurga,SN,Soil,48,mdtO
+2023,JULY,Chitradurga,SN,Soil,48,mdtN
+2023,JULY,Chitradurga,SN,Soil,48,eptA
+2023,JULY,Chitradurga,SN,Soil,48,mdtG
+2023,JULY,Chitradurga,SN,Soil,48,mdtH
+2023,JULY,Chitradurga,SN,Soil,48,emrB
+2023,JULY,Chitradurga,SN,Soil,48,emrA
+2023,JULY,Chitradurga,SN,Soil,48,emrR
+2023,JULY,Chitradurga,SN,Soil,48,Escherichia_coli_acrA
+2023,JULY,Chitradurga,SN,Soil,48,acrB
+2023,JULY,Chitradurga,SN,Soil,48,mdtM
+2023,JULY,Chitradurga,SN,Soil,48,acrD
+2023,JULY,Chitradurga,SN,Soil,48,H-NS
+2023,JULY,Chitradurga,SN,Soil,48,AcrS
+2023,JULY,Chitradurga,SN,Soil,48,AcrE
+2023,JULY,Chitradurga,SN,Soil,48,AcrF
+2023,JULY,Chitradurga,SN,Soil,48,CRP
+2023,JULY,Chitradurga,SN,Soil,48,cpxA
+2023,JULY,Chitradurga,SN,Soil,48,bacA
+2023,JULY,Chitradurga,SN,Soil,48,TolC
+2023,JULY,Chitradurga,SN,Soil,48,marA
+2023,JULY,Chitradurga,SN,Soil,48,PmrF
+2023,JULY,Chitradurga,SN,Soil,48,leuO
+2023,JULY,Chitradurga,SN,Soil,48,mdtC
+2023,JULY,Chitradurga,SN,Soil,48,mdtB
+2023,JULY,Chitradurga,SN,Soil,48,mdtA
+2023,JULY,Chitradurga,SN,Soil,48,ugd
+2023,JULY,Chitradurga,SN,Soil,48,Escherichia_coli_mdfA
+2023,JULY,Chitradurga,SN,Soil,48,msbA
+2023,JULY,Chitradurga,SN,Soil,48,mdtE
+2023,JULY,Chitradurga,SN,Soil,48,mdtF
+2023,JULY,Chitradurga,SN,Soil,48,gadW
+2023,JULY,Chitradurga,SN,Soil,48,gadX
+2023,JULY,Chitradurga,SN,Soil,48,kdpE
+2024,JULY,Tumkur,KL,Soil,52,ramA
+2024,JULY,Tumkur,KL,Soil,52,cpxA
+2024,JULY,Tumkur,KL,Soil,52,HER-5
+2024,JULY,Tumkur,KL,Soil,52,cpxA
+2024,JULY,Tumkur,KL,Soil,52,dfrA17
+2024,JULY,Tumkur,KL,Soil,52,H-NS
+2024,JULY,Tumkur,KL,Soil,52,emrR
+2024,JULY,Tumkur,KL,Soil,52,eptB
+2024,JULY,Tumkur,KL,Soil,52,acrB
+2024,JULY,Tumkur,KL,Soil,52,eptB
+2024,JULY,Tumkur,KL,Soil,52,mdtB
+2024,JULY,Tumkur,KL,Soil,52,FosA6
+2024,JULY,Tumkur,KL,Soil,52,OmpA
+2024,JULY,Tumkur,KL,Soil,52,Plasmid-encoded_cat_(pp-cat)
+2024,JULY,Tumkur,KL,Soil,52,ugd
+2024,JULY,Tumkur,KL,Soil,52,OKP-A-2
+2024,JULY,Tumkur,KL,Soil,52,mdtC
+2024,JULY,Tumkur,KL,Soil,52,msbA
+2024,JULY,Tumkur,KL,Soil,52,MdtQ
+2024,JULY,Tumkur,KL,Soil,52,Klebsiella_pneumoniae_OmpK37
+2024,JULY,Tumkur,KL,Soil,52,acrD
+2024,JULY,Tumkur,KL,Soil,52,Klebsiella_pneumoniae_KpnH
+2024,JULY,Tumkur,KL,Soil,52,Klebsiella_pneumoniae_KpnG
+2024,JULY,Tumkur,KL,Soil,52,emrR
+2024,JULY,Tumkur,KL,Soil,52,Klebsiella_pneumoniae_KpnE
+2024,JULY,Tumkur,KL,Soil,52,Klebsiella_pneumoniae_KpnF
+2024,JULY,Tumkur,KL,Soil,52,OmpA
+2024,JULY,Tumkur,KL,Soil,52,FosA6
+2024,JULY,Tumkur,KL,Soil,52,Escherichia_coli_emrE
+2024,JULY,Tumkur,KL,Soil,52,msbA
+2024,JULY,Tumkur,KL,Soil,52,ugd
+2024,JULY,Tumkur,KL,Soil,52,marA
+2024,JULY,Tumkur,KL,Soil,52,LptD
+2024,JULY,Tumkur,KL,Soil,52,cpxA
+2024,JULY,Tumkur,KL,Soil,52,mdtP
+2024,JULY,Tumkur,KL,Soil,52,H-NS
+2024,JULY,Tumkur,KL,Soil,52,mdtA
+2024,JULY,Tumkur,KL,Soil,52,CRP
+2024,JULY,Tumkur,KL,Soil,52,Escherichia_coli_mdfA
+2024,JULY,Tumkur,KL,Soil,52,evgS
+2024,JULY,Tumkur,KL,Soil,52,evgA
+2024,JULY,Tumkur,KL,Soil,52,emrK
+2024,JULY,Tumkur,KL,Soil,52,AcrS
+2024,JULY,Tumkur,KL,Soil,52,AcrE
+2024,JULY,Tumkur,KL,Soil,52,OmpA
+2024,JULY,Tumkur,KL,Soil,52,eptA
+2024,JULY,Tumkur,KL,Soil,52,gadW
+2024,JULY,Tumkur,KL,Soil,52,mdtF
+2024,JULY,Tumkur,KL,Soil,52,mdtE
+2024,JULY,Tumkur,KL,Soil,52,Klebsiella_pneumoniae_KpnE
+2024,JULY,Tumkur,KL,Soil,52,Klebsiella_pneumoniae_KpnF
+2024,JULY,Tumkur,KL,Soil,52,msbA
+2024,JULY,Tumkur,KL,Soil,52,H-NS
+2024,JULY,Tumkur,KL,Soil,52,CMH-15
+2024,JULY,Tumkur,KL,Soil,52,oqxA
+2024,JULY,Tumkur,KL,Soil,52,oqxB
+2024,JULY,Tumkur,KL,Soil,52,ramA
+2024,JULY,Tumkur,KL,Soil,52,H-NS
+2024,JULY,Tumkur,KL,Soil,52,Escherichia_coli_emrE
+2024,JULY,Tumkur,KL,Soil,52,CRP
+2024,JULY,Tumkur,KL,Soil,52,marA
+2024,JULY,Tumkur,KL,Soil,52,Klebsiella_pneumoniae_acrA
+2024,JULY,Tumkur,KL,Soil,52,acrB
+2024,JULY,Tumkur,KL,Soil,52,bacA
+2024,JULY,Tumkur,KL,Soil,52,emrB
+2024,JULY,Tumkur,KL,Soil,52,Klebsiella_pneumoniae_KpnG
+2024,JULY,Tumkur,KL,Soil,52,emrR
+2024,JULY,Tumkur,KL,Soil,52,ramA
+2024,JULY,Tumkur,KL,Soil,52,bacA
+2024,JULY,Tumkur,KL,Soil,52,FosA2
+2024,JULY,Tumkur,KL,Soil,52,OmpA
+2024,JULY,Tumkur,KL,Soil,52,acrB
+2024,JULY,Tumkur,KL,Soil,52,Enterobacter_cloacae_acrA
+2024,JULY,Tumkur,KL,Soil,52,CRP
+2024,JULY,Tumkur,KL,Soil,52,ArnT
+2024,JULY,Tumkur,KL,Soil,52,acrD
+2024,JULY,Tumkur,KL,Soil,52,marA
+2024,JULY,Tumkur,KL,Soil,52,mdtC
+2024,JULY,Tumkur,KL,Soil,52,mdtB
+2024,JULY,Tumkur,KL,Soil,52,oqxB
+2024,JULY,Tumkur,KL,Soil,52,oqxA
+2024,JULY,Tumkur,KL,Soil,52,H-NS
+2024,JULY,Tumkur,KL,Soil,52,FosA2
+2024,JULY,Tumkur,KL,Soil,52,CRP
+2025,JANUARY,Tumkur,SI,Soil,56,EC-15
+2025,JANUARY,Tumkur,SI,Soil,56,marA
+2025,JANUARY,Tumkur,SI,Soil,56,ugd
+2025,JANUARY,Tumkur,SI,Soil,56,TolC
+2025,JANUARY,Tumkur,SI,Soil,56,OmpA
+2025,JANUARY,Tumkur,SI,Soil,56,msbA
+2025,JANUARY,Tumkur,SI,Soil,56,mdtM
+2025,JANUARY,Tumkur,SI,Soil,56,gadX
+2025,JANUARY,Tumkur,SI,Soil,56,gadW
+2025,JANUARY,Tumkur,SI,Soil,56,mdtF
+2025,JANUARY,Tumkur,SI,Soil,56,mdtE
+2025,JANUARY,Tumkur,SI,Soil,56,mdtA
+2025,JANUARY,Tumkur,SI,Soil,56,mdtB
+2025,JANUARY,Tumkur,SI,Soil,56,mdtC
+2025,JANUARY,Tumkur,SI,Soil,56,emrK
+2025,JANUARY,Tumkur,SI,Soil,56,evgA
+2025,JANUARY,Tumkur,SI,Soil,56,evgS
+2025,JANUARY,Tumkur,SI,Soil,56,acrD
+2025,JANUARY,Tumkur,SI,Soil,56,QnrS1
+2025,JANUARY,Tumkur,SI,Soil,56,CTX-M-15
+2025,JANUARY,Tumkur,SI,Soil,56,mdtP
+2025,JANUARY,Tumkur,SI,Soil,56,mdtO
+2025,JANUARY,Tumkur,SI,Soil,56,mdtN
+2025,JANUARY,Tumkur,SI,Soil,56,eptA
+2025,JANUARY,Tumkur,SI,Soil,56,kdpE
+2025,JANUARY,Tumkur,SI,Soil,56,acrB
+2025,JANUARY,Tumkur,SI,Soil,56,Escherichia_coli_acrA
+2025,JANUARY,Tumkur,SI,Soil,56,bacA
+2025,JANUARY,Tumkur,SI,Soil,56,AcrS
+2025,JANUARY,Tumkur,SI,Soil,56,AcrE
+2025,JANUARY,Tumkur,SI,Soil,56,AcrF
+2025,JANUARY,Tumkur,SI,Soil,56,emrR
+2025,JANUARY,Tumkur,SI,Soil,56,emrA
+2025,JANUARY,Tumkur,SI,Soil,56,emrB
+2025,JANUARY,Tumkur,SI,Soil,56,Escherichia_coli_mdfA
+2025,JANUARY,Tumkur,SI,Soil,56,Escherichia_coli_emrE
+2025,JANUARY,Tumkur,SI,Soil,56,H-NS
+2025,JANUARY,Tumkur,SI,Soil,56,mdtG
+2025,JANUARY,Tumkur,SI,Soil,56,mdtH
+2025,JANUARY,Tumkur,SI,Soil,56,leuO
+2025,JANUARY,Tumkur,SI,Soil,56,CRP
+2025,JANUARY,Tumkur,SI,Soil,56,PmrF
+2025,JANUARY,Tumkur,SI,Soil,56,YojI
+2025,JANUARY,Tumkur,SI,Soil,56,cpxA
+2024,JULY,Tumkur,LK,Soil,61,ramA
+2024,JULY,Tumkur,LK,Soil,61,msbA
+2024,JULY,Tumkur,LK,Soil,61,kdpE
+2024,JULY,Tumkur,LK,Soil,61,evgA
+2024,JULY,Tumkur,LK,Soil,61,mdtC
+2024,JULY,Tumkur,LK,Soil,61,ArnT
+2024,JULY,Tumkur,LK,Soil,61,emrB
+2024,JULY,Tumkur,LK,Soil,61,Klebsiella_pneumoniae_KpnG
+2024,JULY,Tumkur,LK,Soil,61,emrR
+2024,JULY,Tumkur,LK,Soil,61,cpxA
+2024,JULY,Tumkur,LK,Soil,61,OmpA
+2024,JULY,Tumkur,LK,Soil,61,msbA
+2024,JULY,Tumkur,LK,Soil,61,Enterobacter_cloacae_acrA
+2024,JULY,Tumkur,LK,Soil,61,acrB
+2024,JULY,Tumkur,LK,Soil,61,eptB
+2024,JULY,Tumkur,LK,Soil,61,H-NS
+2024,JULY,Tumkur,LK,Soil,61,ramA
+2024,JULY,Tumkur,LK,Soil,61,marA
+2024,JULY,Tumkur,LK,Soil,61,ramA
+2024,JULY,Tumkur,LK,Soil,61,CMH-1
+2024,JULY,Tumkur,LK,Soil,61,acrB
+2024,JULY,Tumkur,LK,Soil,61,Klebsiella_pneumoniae_acrA
+2024,JULY,Tumkur,LK,Soil,61,MdtQ
+2024,JULY,Tumkur,LK,Soil,61,cpxA
+2024,JULY,Tumkur,LK,Soil,61,Klebsiella_pneumoniae_KpnE
+2024,JULY,Tumkur,LK,Soil,61,Klebsiella_pneumoniae_KpnF
+2024,JULY,Tumkur,LK,Soil,61,Escherichia_coli_emrE
+2024,JULY,Tumkur,LK,Soil,61,Klebsiella_pneumoniae_KpnF
+2024,JULY,Tumkur,LK,Soil,61,Klebsiella_pneumoniae_KpnE
+2024,JULY,Tumkur,LK,Soil,61,ArnT
+2024,JULY,Tumkur,LK,Soil,61,mdtB
+2024,JULY,Tumkur,LK,Soil,61,mdtC
+2024,JULY,Tumkur,LK,Soil,61,CRP
+2024,JULY,Tumkur,LK,Soil,61,FosA6
+2024,JULY,Tumkur,LK,Soil,61,eptB
+2024,JULY,Tumkur,LK,Soil,61,OmpA
+2024,JULY,Tumkur,LK,Soil,61,Klebsiella_pneumoniae_acrA
+2024,JULY,Tumkur,LK,Soil,61,acrB
+2024,JULY,Tumkur,LK,Soil,61,mdtB
+2024,JULY,Tumkur,LK,Soil,61,msbA
+2024,JULY,Tumkur,LK,Soil,61,OmpA
+2024,JULY,Tumkur,LK,Soil,61,CRP
+2024,JULY,Tumkur,LK,Soil,61,cpxA
+2024,JULY,Tumkur,LK,Soil,61,MdtQ
+2024,JULY,Tumkur,LK,Soil,61,oqxA
+2024,JULY,Tumkur,LK,Soil,61,oqxB
+2024,JULY,Tumkur,LK,Soil,61,kdpE
+2024,JULY,Tumkur,LK,Soil,61,CRP
+2024,JULY,Tumkur,LK,Soil,61,evgA
+2024,JULY,Tumkur,LK,Soil,61,LptD
+2024,JULY,Tumkur,LK,Soil,61,marA
+2024,JULY,Tumkur,LK,Soil,61,emrR
+2024,JULY,Tumkur,LK,Soil,61,leuO
+2024,JULY,Tumkur,LK,Soil,61,mdtP
+2024,JULY,Tumkur,LK,Soil,61,H-NS
+2024,JULY,Tumkur,LK,Soil,61,cpxA
+2024,JULY,Tumkur,LK,Soil,61,eptA
+2024,JULY,Tumkur,LK,Soil,61,AcrS
+2024,JULY,Tumkur,LK,Soil,61,gadX
+2024,JULY,Tumkur,LK,Soil,61,gadW
+2024,JULY,Tumkur,LK,Soil,61,H-NS
+2024,JULY,Tumkur,LK,Soil,61,mdtM
+2024,JULY,Tumkur,LK,Soil,61,FosA7.5
+2024,JULY,Tumkur,LK,Soil,61,FosA2
+2024,JULY,Tumkur,LK,Soil,61,acrD
+2024,JULY,Tumkur,LK,Soil,61,mdtE
+2024,JULY,Tumkur,LK,Soil,61,H-NS
+2024,JULY,Tumkur,LK,Soil,61,Escherichia_coli_emrE
+2024,JULY,Tumkur,LK,Soil,61,Klebsiella_pneumoniae_KpnH
+2024,JULY,Tumkur,LK,Soil,61,Klebsiella_pneumoniae_KpnG
+2024,JULY,Tumkur,LK,Soil,61,emrR
+2024,JULY,Tumkur,LK,Soil,61,oqxB
+2024,JULY,Tumkur,LK,Soil,61,oqxA
+2024,JULY,Tumkur,LK,Soil,61,Klebsiella_pneumoniae_OmpK37
+2024,JULY,Tumkur,LK,Soil,61,LptD
+2024,JULY,Tumkur,LK,Soil,61,acrD
+2024,JULY,Tumkur,LK,Soil,61,fosA5
+2024,JULY,Tumkur,LK,Soil,61,mdtB
+2024,JULY,Tumkur,LK,Soil,61,mdtC
+2024,JULY,Tumkur,LK,Soil,61,acrD
+2024,JULY,Tumkur,LK,Soil,61,ramA
+2024,JULY,Tumkur,LK,Soil,61,OmpA
+2024,JULY,Tumkur,LK,Soil,61,bacA
+2024,JULY,Tumkur,LK,Soil,61,Klebsiella_pneumoniae_OmpK37
+2024,JULY,Tumkur,LK,Soil,61,SHV-229
+2024,JULY,Tumkur,LK,Soil,61,marA
+2024,JULY,Tumkur,LK,Soil,61,marA
+2024,JULY,Tumkur,LK,Soil,61,Escherichia_coli_acrA
+2024,JULY,Tumkur,LK,Soil,61,oqxB
+2024,JULY,Tumkur,LK,Soil,61,oqxA
+2024,JULY,Tumkur,LK,Soil,61,emrR
+2024,JULY,Tumkur,LK,Soil,61,Klebsiella_pneumoniae_KpnG
+2024,JULY,Tumkur,LK,Soil,61,Klebsiella_pneumoniae_KpnH
+2025,JANUARY,Tumkur,HS,Soil,62,cpxA
+2025,JANUARY,Tumkur,HS,Soil,62,marA
+2025,JANUARY,Tumkur,HS,Soil,62,kdpE
+2025,JANUARY,Tumkur,HS,Soil,62,Escherichia_coli_acrA
+2025,JANUARY,Tumkur,HS,Soil,62,acrB
+2025,JANUARY,Tumkur,HS,Soil,62,msbA
+2025,JANUARY,Tumkur,HS,Soil,62,Escherichia_coli_mdfA
+2025,JANUARY,Tumkur,HS,Soil,62,acrD
+2025,JANUARY,Tumkur,HS,Soil,62,evgS
+2025,JANUARY,Tumkur,HS,Soil,62,evgA
+2025,JANUARY,Tumkur,HS,Soil,62,emrK
+2025,JANUARY,Tumkur,HS,Soil,62,emrY
+2025,JANUARY,Tumkur,HS,Soil,62,PmrF
+2025,JANUARY,Tumkur,HS,Soil,62,YojI
+2025,JANUARY,Tumkur,HS,Soil,62,OmpA
+2025,JANUARY,Tumkur,HS,Soil,62,H-NS
+2025,JANUARY,Tumkur,HS,Soil,62,CRP
+2025,JANUARY,Tumkur,HS,Soil,62,mdtE
+2025,JANUARY,Tumkur,HS,Soil,62,mdtF
+2025,JANUARY,Tumkur,HS,Soil,62,gadW
+2025,JANUARY,Tumkur,HS,Soil,62,gadX
+2025,JANUARY,Tumkur,HS,Soil,62,leuO
+2025,JANUARY,Tumkur,HS,Soil,62,EC-18
+2025,JANUARY,Tumkur,HS,Soil,62,eptA
+2025,JANUARY,Tumkur,HS,Soil,62,mdtN
+2025,JANUARY,Tumkur,HS,Soil,62,mdtO
+2025,JANUARY,Tumkur,HS,Soil,62,mdtP
+2025,JANUARY,Tumkur,HS,Soil,62,mdtG
+2025,JANUARY,Tumkur,HS,Soil,62,mdtH
+2025,JANUARY,Tumkur,HS,Soil,62,Escherichia_coli_emrE
+2025,JANUARY,Tumkur,HS,Soil,62,mdtM
+2025,JANUARY,Tumkur,HS,Soil,62,mdtC
+2025,JANUARY,Tumkur,HS,Soil,62,mdtB
+2025,JANUARY,Tumkur,HS,Soil,62,mdtA
+2025,JANUARY,Tumkur,HS,Soil,62,ugd
+2025,JANUARY,Tumkur,HS,Soil,62,TolC
+2025,JANUARY,Tumkur,HS,Soil,62,bacA
+2025,JANUARY,Tumkur,HS,Soil,62,AcrS
+2025,JANUARY,Tumkur,HS,Soil,62,AcrE
+2025,JANUARY,Tumkur,HS,Soil,62,AcrF
+2025,JANUARY,Tumkur,HS,Soil,62,emrB
+2025,JANUARY,Tumkur,HS,Soil,62,emrA
+2025,JANUARY,Tumkur,HS,Soil,62,emrR
+2024,JULY,Tumkur,LK,Soil,65,CRP
+2024,JULY,Tumkur,LK,Soil,65,bacA
+2024,JULY,Tumkur,LK,Soil,65,kdpE
+2024,JULY,Tumkur,LK,Soil,65,marA
+2024,JULY,Tumkur,LK,Soil,65,PmrF
+2024,JULY,Tumkur,LK,Soil,65,leuO
+2024,JULY,Tumkur,LK,Soil,65,Escherichia_coli_acrA
+2024,JULY,Tumkur,LK,Soil,65,acrB
+2024,JULY,Tumkur,LK,Soil,65,TolC
+2024,JULY,Tumkur,LK,Soil,65,YojI
+2024,JULY,Tumkur,LK,Soil,65,cpxA
+2024,JULY,Tumkur,LK,Soil,65,catA4
+2024,JULY,Tumkur,LK,Soil,65,H-NS
+2024,JULY,Tumkur,LK,Soil,65,mdtP
+2024,JULY,Tumkur,LK,Soil,65,mdtO
+2024,JULY,Tumkur,LK,Soil,65,mdtN
+2024,JULY,Tumkur,LK,Soil,65,emrB
+2024,JULY,Tumkur,LK,Soil,65,emrA
+2024,JULY,Tumkur,LK,Soil,65,emrR
+2024,JULY,Tumkur,LK,Soil,65,mdtG
+2024,JULY,Tumkur,LK,Soil,65,mdtH
+2024,JULY,Tumkur,LK,Soil,65,ugd
+2024,JULY,Tumkur,LK,Soil,65,emrY
+2024,JULY,Tumkur,LK,Soil,65,emrK
+2024,JULY,Tumkur,LK,Soil,65,evgA
+2024,JULY,Tumkur,LK,Soil,65,evgS
+2024,JULY,Tumkur,LK,Soil,65,acrD
+2024,JULY,Tumkur,LK,Soil,65,CRP
+2024,JULY,Tumkur,LK,Soil,65,eptA
+2024,JULY,Tumkur,LK,Soil,65,Escherichia_coli_ampC_beta-lactamase
+2024,JULY,Tumkur,LK,Soil,65,OmpA
+2024,JULY,Tumkur,LK,Soil,65,msbA
+2024,JULY,Tumkur,LK,Soil,65,Escherichia_coli_mdfA
+2024,JULY,Tumkur,LK,Soil,65,mdtE
+2024,JULY,Tumkur,LK,Soil,65,mdtF
+2024,JULY,Tumkur,LK,Soil,65,gadW
+2024,JULY,Tumkur,LK,Soil,65,gadX
+2024,JULY,Tumkur,LK,Soil,65,mdtC
+2024,JULY,Tumkur,LK,Soil,65,mdtB
+2024,JULY,Tumkur,LK,Soil,65,mdtA
+2024,JULY,Tumkur,LK,Soil,65,tet(J)
+2024,JULY,Tumkur,LK,Soil,65,mdtM
+2024,JULY,Tumkur,LK,Soil,65,AcrS
+2024,JULY,Tumkur,LK,Soil,65,AcrE
+2024,JULY,Tumkur,LK,Soil,65,AcrF
+2023,JULY,Chitradurga,SN,Soil,71,Escherichia_coli_mdfA
+2023,JULY,Chitradurga,SN,Soil,71,AcrS
+2023,JULY,Chitradurga,SN,Soil,71,AcrE
+2023,JULY,Chitradurga,SN,Soil,71,AcrF
+2023,JULY,Chitradurga,SN,Soil,71,OmpA
+2023,JULY,Chitradurga,SN,Soil,71,msbA
+2023,JULY,Chitradurga,SN,Soil,71,gadX
+2023,JULY,Chitradurga,SN,Soil,71,gadW
+2023,JULY,Chitradurga,SN,Soil,71,mdtF
+2023,JULY,Chitradurga,SN,Soil,71,mdtE
+2023,JULY,Chitradurga,SN,Soil,71,CRP
+2023,JULY,Chitradurga,SN,Soil,71,emrR
+2023,JULY,Chitradurga,SN,Soil,71,emrA
+2023,JULY,Chitradurga,SN,Soil,71,emrB
+2023,JULY,Chitradurga,SN,Soil,71,kdpE
+2023,JULY,Chitradurga,SN,Soil,71,acrD
+2023,JULY,Chitradurga,SN,Soil,71,cpxA
+2023,JULY,Chitradurga,SN,Soil,71,H-NS
+2023,JULY,Chitradurga,SN,Soil,71,mdtH
+2023,JULY,Chitradurga,SN,Soil,71,mdtG
+2023,JULY,Chitradurga,SN,Soil,71,Escherichia_coli_acrA
+2023,JULY,Chitradurga,SN,Soil,71,acrB
+2023,JULY,Chitradurga,SN,Soil,71,EC-13
+2023,JULY,Chitradurga,SN,Soil,71,mdtP
+2023,JULY,Chitradurga,SN,Soil,71,mdtO
+2023,JULY,Chitradurga,SN,Soil,71,mdtN
+2023,JULY,Chitradurga,SN,Soil,71,eptA
+2023,JULY,Chitradurga,SN,Soil,71,marA
+2023,JULY,Chitradurga,SN,Soil,71,evgS
+2023,JULY,Chitradurga,SN,Soil,71,evgA
+2023,JULY,Chitradurga,SN,Soil,71,emrK
+2023,JULY,Chitradurga,SN,Soil,71,emrY
+2023,JULY,Chitradurga,SN,Soil,71,PmrF
+2023,JULY,Chitradurga,SN,Soil,71,YojI
+2023,JULY,Chitradurga,SN,Soil,71,mdtC
+2023,JULY,Chitradurga,SN,Soil,71,mdtB
+2023,JULY,Chitradurga,SN,Soil,71,mdtA
+2023,JULY,Chitradurga,SN,Soil,71,ugd
+2023,JULY,Chitradurga,SN,Soil,71,mdtM
+2023,JULY,Chitradurga,SN,Soil,71,leuO
+2023,JULY,Chitradurga,SN,Soil,71,TolC
+2023,JULY,Chitradurga,SN,Soil,71,bacA
+2024,MAY,Tumkur,DN,Water,19,MCR-9.1
+2024,MAY,Tumkur,DN,Water,19,catA4
+2024,MAY,Tumkur,DN,Water,19,emrB
+2024,MAY,Tumkur,DN,Water,19,Klebsiella_pneumoniae_KpnG
+2024,MAY,Tumkur,DN,Water,19,emrR
+2024,MAY,Tumkur,DN,Water,19,CRP
+2024,MAY,Tumkur,DN,Water,19,OmpA
+2024,MAY,Tumkur,DN,Water,19,Enterobacter_cloacae_acrA
+2024,MAY,Tumkur,DN,Water,19,acrB
+2024,MAY,Tumkur,DN,Water,19,H-NS
+2024,MAY,Tumkur,DN,Water,19,cpxA
+2024,MAY,Tumkur,DN,Water,19,mdtC
+2024,MAY,Tumkur,DN,Water,19,mdtB
+2024,MAY,Tumkur,DN,Water,19,bacA
+2024,MAY,Tumkur,DN,Water,19,CRP
+2024,MAY,Tumkur,DN,Water,19,ramA
+2024,MAY,Tumkur,DN,Water,19,CMH-24
+2024,MAY,Tumkur,DN,Water,19,msbA
+2024,MAY,Tumkur,DN,Water,19,marA
+2024,MAY,Tumkur,DN,Water,19,tet(J)
+2024,MAY,Tumkur,DN,Water,19,acrD
+2023,JULY,Chitradurga,DD,Feed,1,OmpA
+2023,JULY,Chitradurga,DD,Feed,1,bacA
+2023,JULY,Chitradurga,DD,Feed,1,mdtN
+2023,JULY,Chitradurga,DD,Feed,1,bacA
+2023,JULY,Chitradurga,DD,Feed,1,mdtN
+2023,JULY,Chitradurga,DD,Feed,1,mdtM
+2023,JULY,Chitradurga,DD,Feed,1,mdtM
+2023,JULY,Chitradurga,DD,Feed,1,emrR
+2023,JULY,Chitradurga,DD,Feed,1,marA
+2023,JULY,Chitradurga,DD,Feed,1,H-NS
+2023,JULY,Chitradurga,DD,Feed,1,emrA
+2023,JULY,Chitradurga,DD,Feed,1,acrD
+2023,JULY,Chitradurga,DD,Feed,1,emrK
+2023,JULY,Chitradurga,DD,Feed,1,gadW
+2023,JULY,Chitradurga,DD,Feed,1,mdtE
+2023,JULY,Chitradurga,DD,Feed,1,ugd
+2024,MAY,Tumkur,MD,Feed,64,mdtM
+2024,MAY,Tumkur,MD,Feed,64,mdtP
+2024,MAY,Tumkur,MD,Feed,64,mdtO
+2024,MAY,Tumkur,MD,Feed,64,mdtN
+2024,MAY,Tumkur,MD,Feed,64,eptA
+2024,MAY,Tumkur,MD,Feed,64,mdtE
+2024,MAY,Tumkur,MD,Feed,64,mdtF
+2024,MAY,Tumkur,MD,Feed,64,gadW
+2024,MAY,Tumkur,MD,Feed,64,gadX
+2024,MAY,Tumkur,MD,Feed,64,AcrF
+2024,MAY,Tumkur,MD,Feed,64,AcrE
+2024,MAY,Tumkur,MD,Feed,64,AcrS
+2024,MAY,Tumkur,MD,Feed,64,acrD
+2024,MAY,Tumkur,MD,Feed,64,mdtC
+2024,MAY,Tumkur,MD,Feed,64,mdtB
+2024,MAY,Tumkur,MD,Feed,64,mdtA
+2024,MAY,Tumkur,MD,Feed,64,emrY
+2024,MAY,Tumkur,MD,Feed,64,emrK
+2024,MAY,Tumkur,MD,Feed,64,evgA
+2024,MAY,Tumkur,MD,Feed,64,evgS
+2024,MAY,Tumkur,MD,Feed,64,marA
+2024,MAY,Tumkur,MD,Feed,64,Escherichia_coli_emrE
+2024,MAY,Tumkur,MD,Feed,64,kdpE
+2024,MAY,Tumkur,MD,Feed,64,emrR
+2024,MAY,Tumkur,MD,Feed,64,emrA
+2024,MAY,Tumkur,MD,Feed,64,emrB
+2024,MAY,Tumkur,MD,Feed,64,mdtG
+2024,MAY,Tumkur,MD,Feed,64,mdtH
+2024,MAY,Tumkur,MD,Feed,64,H-NS
+2024,MAY,Tumkur,MD,Feed,64,acrB
+2024,MAY,Tumkur,MD,Feed,64,Escherichia_coli_acrA
+2024,MAY,Tumkur,MD,Feed,64,ugd
+2024,MAY,Tumkur,MD,Feed,64,CTX-M-15
+2024,MAY,Tumkur,MD,Feed,64,QnrS1
+2024,MAY,Tumkur,MD,Feed,64,PmrF
+2024,MAY,Tumkur,MD,Feed,64,YojI
+2024,MAY,Tumkur,MD,Feed,64,msbA
+2024,MAY,Tumkur,MD,Feed,64,OmpA
+2024,MAY,Tumkur,MD,Feed,64,leuO
+2024,MAY,Tumkur,MD,Feed,64,CRP
+2024,MAY,Tumkur,MD,Feed,64,cpxA
+2024,MAY,Tumkur,MD,Feed,64,Escherichia_coli_ampC_beta-lactamase
+2024,MAY,Tumkur,MD,Feed,64,TolC
+2024,MAY,Tumkur,MD,Feed,64,bacA
+2024,MAY,Tumkur,MD,Feed,64,Escherichia_coli_mdfA
