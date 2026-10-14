@@ -3,6 +3,8 @@
 **Description:**
 This directory contains interactive HTML visualizations (Figures 9a–9e) showing the genomic context and synteny alignments for *blaCTX-M-15*, Type IV pilus, iron uptake, and toxin virulence genes. These files can be opened and viewed interactively in any standard web browser.
 
+<PLEASE GO TO 'Submission_2/data_main_figures/Figure_9/'for visualizing the data >
+
 Because these visualizations were generated directly from our bioinformatics pipeline (bakta followed by clinker), the track labels contain embedded metadata. Please use the guide below to interpret the labels for each figure.
 
 ### 1. Naming Convention for Figures 9a & 9b
