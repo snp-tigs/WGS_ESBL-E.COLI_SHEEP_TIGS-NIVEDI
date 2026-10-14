@@ -1,4 +1,4 @@
-# Whole-genome analysis reveals shared extended-spectrum β-lactamase-producing Escherichia coli lineages between migratory sheep and surrounding farm environments
+__Whole-genome analysis reveals shared extended-spectrum β-lactamase-producing Escherichia coli lineages between migratory sheep and surrounding farm environments__
 
 **Overview**
 This repository contains the datasets, metadata, and computational scripts required to reproduce the genomic and metagenomic analyses presented in our manuscript. The study investigates the transmission dynamics, antimicrobial resistance (AMR) profiles, virulence factors, and plasmid replicons of ESBL-producing *E. coli* isolates shared between migratory sheep flocks and their surrounding environmental reservoirs in Karnataka, India.
