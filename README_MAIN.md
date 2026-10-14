@@ -1,0 +1,30 @@
+# **Whole-genome analysis reveals shared extended-spectrum β-lactamase-producing Escherichia coli lineages between migratory sheep and surrounding farm environments**
+
+## **Overview**
+This repository contains the datasets, metadata, and computational scripts required to reproduce the genomic and metagenomic analyses presented in our manuscript. The study investigates the transmission dynamics, antimicrobial resistance (AMR) profiles, virulence factors, and plasmid replicons of ESBL-producing *E. coli* isolates shared between migratory sheep flocks and their surrounding environmental reservoirs in Karnataka, India.
+
+The repository provides full transparency for peer review, allowing for the independent reproduction of all phenotypic heatmaps, diversity indices, geospatial maps, phylogenetic trees, and genomic synteny alignments.
+
+## **📂 Repository Structure**
+
+The repository is organized into two primary directories reflecting the peer-review timeline:
+
+### **1. `Submission_1/`**
+Contains the original raw datasets, initial scripts for figures, and datasets provided during the first round of manuscript submission. 
+
+### **2. `Submission_2/` (Current Revision - Oct 2026)**
+Contains the highly standardized, finalized datasets and refactored computational scripts generated for the revised manuscript. This folder represents the most up-to-date and reproducible version of the project.
+
+Inside `Submission_2/`, the workflow is strictly divided for clarity:
+- **`data_main_figures/`**: Contains all raw inputs organized by figure number (Figures 1–9), including CSV presence/absence matrices, GeoJSON boundaries, Newick (`.nwk`) trees, and master metadata files.
+- **`script_main_figures/`**: Contains the execution scripts (`.R` and `.py`) and methodological instructions (`.md`) to generate the publication-ready visualizations (PDFs, SVGs, and interactive HTMLs). 
+
+## **💻 Usage Instructions**
+To reproduce the updated figures from `Submission_2`:
+1. Clone this repository to your local machine.
+2. Set your working directory to the root of the `Submission_2/` folder.
+3. Execute the R or Python scripts directly from the `script_main_figures/` directory. All scripts are programmed using relative paths and will automatically export high-resolution vector graphics to locally generated `results/` folders.
+
+## **Contact**  
+📧 shivranjani.c@tigs.res.in  
+📧 manas.madhukar@tigs.res.in
