@@ -1,0 +1,73 @@
+Sample ID,District,Village,Sample Type,Amoxicillin-Clavulanate,Ampicillin,Aztreonam,Cefotaxime,Cefoxitin,Ceftriaxone,Ceftazidime,Imipenam,Choloramphinicol,Tetracycline,Nalidixic acid ,Enrofloxacin,Co-trimoxazole,Amikacin,TEM,SHV,AmpC,CTXM,stx1,stx2,tetA,tetB
+1?,Chitradurga,Dodderi,Feed,,1,1,1,,,,1,,,,,,,0,0,1,1,1,0,0,0
+65?,Tumkur,Maddakkanahalli,Feed,1,1,1,1,1,1,1,,,1,1,1,,,0,0,1,0,0,0,0,0
+41?,Chitradurga,Muddapura,Rectal swab,1,1,,,,1,1,,,,,,1,,1,0,1,0,0,0,0,0
+40?,Chitradurga,Muddapura,Rectal swab,1,1,,,,1,1,,,,,,1,,1,0,1,0,0,0,0,0
+17?,Chitradurga,Bharamasagara,Rectal swab,1,1,1,1,1,,1,,,1,,,1,,1,0,0,1,0,0,1,0
+45?,Chitradurga,Muddapura,Rectal swab,1,1,,,,1,1,,,,,,1,,1,0,1,0,0,0,0,0
+70?,Chitradurga,Muddapura,Rectal swab,1,1,,,,1,1,,,,,,1,,1,0,1,0,0,0,0,0
+56?,Chitradurga,Mallapura,Rectal swab,,1,1,1,,1,,,,1,,,1,,1,0,1,0,0,0,1,1
+72?,Chitradurga,Mallapura,Rectal swab,,,,,,,,,,,,,,,1,0,1,0,0,0,0,0
+50?,Tumkur,Nerlegudda,Rectal swab,1,1,,1,1,1,1,,,,,,,,0,0,1,0,1,0,0,0
+12?,Tumkur,Nerlegudda,Rectal swab,1,1,,,1,,,,1,1,1,,,,0,0,1,0,1,1,1,0
+42?,Tumkur,Nerlegudda,Rectal swab,1,1,,,1,,,,1,1,1,,,,0,0,1,0,1,1,1,0
+15?,Tumkur,Herur,Rectal swab,1,,,,1,,,1,1,,,,1,,1,0,0,0,1,1,0,0
+8?,Tumkur,Maddakkanahalli,Rectal swab,1,1,,1,1,1,1,1,,1,1,1,1,,0,0,1,0,0,0,1,0
+29?,Tumkur,Maddakkanahalli,Rectal swab,1,1,1,1,1,1,1,1,,1,1,1,1,1,1,0,1,0,0,0,1,0
+21?,Tumkur,Maddakkanahalli,Rectal swab,1,1,,1,1,1,1,,,1,1,1,1,,1,0,1,0,1,1,1,0
+59?,Tumkur,Maddakkanahalli,Rectal swab,1,,,1,1,1,,1,1,1,1,1,1,,0,0,1,0,0,0,1,0
+25?,Tumkur,Maddakkanahalli,Rectal swab,1,1,,,,,1,,,1,,,,,0,0,0,0,0,0,0,0
+54?,Tumkur,Maddakkanahalli,Rectal swab,1,,,1,1,,1,1,,1,,,,,0,0,1,0,0,0,0,0
+13?,Tumkur,Pavgada ward no 1,Rectal swab,,,,,,,,,,1,1,,,,0,1,0,0,0,0,1,1
+31?,Tumkur,Pavgada ward no 1,Rectal swab,,,,,,,,,,1,1,,,,0,1,0,0,0,0,1,1
+3?,Tumkur,Pavgada ward no 1,Rectal swab,1,1,,,1,,1,1,,1,,,,,0,0,1,0,0,0,0,0
+23?,Tumkur,Pavgada ward no 1,Rectal swab,,,,,,,1,,,,1,,,,0,1,0,0,0,0,0,0
+58?,Chitradurga,Dodderi,Rectal swab,1,1,1,1,1,,,1,,1,,,1,,1,0,1,1,0,0,1,0
+68?,Chitradurga,Dodderi,Rectal swab,1,1,1,1,1,,,1,,1,,,1,,1,0,1,0,0,0,0,0
+35?,Tumkur,Pavgada ward no 1,Rectal swab,,1,,1,,1,1,1,,1,1,1,1,,1,0,0,0,0,0,1,0
+16?,Tumkur,Pavgada ward no 1,Rectal swab,,,,,,,,,,,,,,,0,1,0,0,0,0,0,0
+34?,Tumkur,Pavgada ward no 2,Rectal swab,1,1,,,,,,,,1,1,1,1,,0,1,0,0,0,0,1,0
+27?,Tumkur,Pavgada ward no 2,Rectal swab,,,,,,,,,,,,,,,0,1,0,0,1,1,0,0
+10?,Tumkur,Pavgada ward no 2,Rectal swab,,,1,1,,1,,,,,,,,,0,1,0,0,1,1,0,0
+24?,Tumkur,Pavgada ward no 2,Rectal swab,,1,,,,,,,,1,1,1,1,,1,0,0,0,0,0,0,0
+26?,Tumkur,Kilarahalli,Rectal swab,,1,,,,,,,,1,1,1,1,,0,1,0,0,1,1,0,0
+22?,Tumkur,Lokkamanahalli,Rectal swab,1,1,,,1,,,,,,,,,,1,0,1,0,0,0,0,0
+18?,Tumkur,Lokkamanahalli,Rectal swab,,1,,,1,1,,,,,,,,,0,0,0,0,0,0,0,0
+19?,Tumkur,Lokkamanahalli,Rectal swab,,1,,,1,1,,,,,,,,,0,0,0,0,0,0,0,0
+32?,Tumkur,Lokkamanahalli,Rectal swab,,,,,,,,,,,1,,,,0,0,0,0,1,0,0,0
+11?,Tumkur,Lokkamanahalli,Rectal swab,1,1,,,1,,,,,,,,,,0,0,1,0,1,1,0,0
+14?,Tumkur,Anekere,Rectal swab,1,1,,,,,1,,,,,,,,1,0,1,0,0,0,0,0
+36?,Tumkur,Talakere,Rectal swab,1,,,,,,1,,,,,,,,0,1,1,0,0,0,0,0
+7?,Tumkur,Talakere,Rectal swab,1,,,,1,,,,,,1,1,,,0,1,1,0,0,0,0,0
+30?,Tumkur,Doddamalligere,Rectal swab,1,,,1,1,1,,,,1,,,1,,0,0,1,0,0,0,1,0
+60?,Tumkur,Tumkur ward no-9,Rectal swab,1,1,,1,1,1,1,,,,1,,,,0,0,0,0,0,0,0,0
+47?,Tumkur,Tumkur ward no-9,Rectal swab,,1,,1,1,1,1,,,,,,,,0,0,0,0,0,0,0,0
+48?,Tumkur,Thirumalapalya,Rectal swab,,1,,1,1,1,,,,,1,,,,0,0,0,0,0,0,0,0
+37?,Chitradurga,Ganjigunte,Rectal swab,,1,,1,,,,,,1,,,,,1,0,0,1,0,0,0,1
+51?,Tumkur,Janapanahalli,Rectal swab,1,1,,,1,,,,,1,1,1,,,0,0,0,0,0,0,1,0
+64?,Tumkur,Janapanahalli,Rectal swab,,1,,1,1,1,,,,1,,,1,,0,0,0,0,0,0,0,1
+55?,Tumkur,Shivapura,Rectal swab,1,1,,1,1,1,1,,,1,1,1,,,0,0,0,0,0,0,1,0
+44?,Tumkur,Shivapura,Rectal swab,1,1,,1,1,,,,,1,1,1,1,,1,0,0,0,0,0,1,0
+52?,Tumkur,Shivapura,Rectal swab,,1,1,1,1,1,,,,1,,,1,,1,0,0,0,0,0,1,0
+61?,Tumkur,Shivapura,Rectal swab,,1,,1,1,1,,,,,,,,,0,0,0,0,0,0,0,0
+66?,Chitradurga,Ganjigunte,Rectal swab,,1,,1,,,,,,1,,,,,1,0,1,0,0,0,0,0
+69?,Chitradurga,Vanivilasapura,Rectal swab,,1,,,1,,,,,,,,,,1,0,1,0,0,0,0,0
+33?,Chitradurga,Dodderi,Rectal swab,1,1,,,1,,,,,1,,,1,,1,0,0,0,0,0,1,0
+28?,Chitradurga,Bagganandu Kaval,Rectal swab,,1,1,1,1,1,1,,,,,,,,1,0,1,1,0,0,0,0
+67?,Chitradurga,Sondekere,Rectal swab,1,1,1,1,1,,,,,1,,,,,1,0,1,0,0,0,0,0
+2?,Chitradurga,Ganjigunte,Soil,,1,1,1,,,,,,,,,,,1,0,0,1,0,0,0,0
+71?,Chitradurga,Sondekere,Soil,,,1,1,,,,,,,,,,,1,0,1,0,0,0,0,0
+62?,Tumkur,Lokkamanahalli,Soil,1,,,,1,,,,,,1,,,,0,1,1,0,0,0,0,0
+38?,Tumkur,Lokkamanahalli,Soil,,1,,,,1,,,,1,1,,,,1,0,1,0,0,0,1,0
+39?,Tumkur,Lokkamanahalli,Soil,,1,,,,1,,,,1,1,,,,1,0,1,0,0,0,1,0
+9?,Tumkur,Lokkamanahalli,Soil,1,,,,1,,,,,,,,,,1,0,1,0,1,1,0,0
+5?,Tumkur,Lokkamanahalli,Soil,1,1,,1,1,,,,,1,1,,1,,1,0,1,0,1,1,1,0
+6?,Tumkur,Lokkamanahalli,Soil,1,1,,1,1,,,,,1,1,,1,,1,0,1,0,1,1,1,0
+53?,Tumkur,Kallankere,Soil,,1,,,1,,,,,,,,,,1,0,1,0,0,0,0,0
+46?,Tumkur,Thirumalapalya,Soil,,1,1,1,1,1,,,,1,,,,,0,0,0,0,0,0,1,0
+43?,Tumkur,Shivapura,Soil,1,1,,,,,,,,1,,,,,0,0,0,0,0,0,1,0
+49?,Chitradurga,Sondekere,Soil,,1,,1,,,,,,1,,,1,,1,0,0,1,0,0,1,0
+57?,Tumkur,Shivapura,Soil,,1,,,1,1,,,,,,,,,0,0,0,0,0,0,0,0
+63?,Tumkur,Hosahalli G,Soil,,1,,,1,1,,,,1,1,1,,,0,0,0,0,0,0,1,0
+4?,Chitradurga,Bharamasagara,Soil,1,1,1,1,1,,1,,,1,,,1,,1,0,0,1,0,0,0,0
+20?,Tumkur,Dandikere,Water,,1,1,1,1,1,1,1,,1,,,,,0,0,1,0,0,0,0,0
