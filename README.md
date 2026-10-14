@@ -27,5 +27,8 @@ To reproduce the updated figures from `Submission_2`:
 3. Execute the R or Python scripts directly from the `script_main_figures/` directory. All scripts are programmed using relative paths and will automatically export high-resolution vector graphics to locally generated `results/` folders.
 
 ## **Contact**  
-📧 shivranjani.c@tigs.res.in  
-📧 manas.madhukar@tigs.res.in
+
+| Name | Role | Affiliation | Contact |
+| :--- | :--- | :--- | :--- |
+| **Shivranjani C Moharir** | Senior Scientist | Tata Institute for Genetics and Society (TIGS) | 📧 [shivranjani.c@tigs.res.in](mailto:shivranjani.c@tigs.res.in) |
+| **Manas Madhukar** | Ph.D. Student | Tata Institute for Genetics and Society (TIGS) | 📧 [manas.madhukar@tigs.res.in](mailto:manas.madhukar@tigs.res.in) |
