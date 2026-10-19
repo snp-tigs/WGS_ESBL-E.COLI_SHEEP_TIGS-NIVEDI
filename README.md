@@ -1,6 +1,5 @@
-<img src="/tigs.png" alt="Graphical Abstract" align="right" width="150" style="vertical-align: middle;">
-<img src="/ICAR_nivedi.png" alt="Graphical Abstract" align="left" width="100" style="vertical-align: top;">
-
+<img src="/tigs.png" alt="Graphical Abstract" width="150" style="vertical-align: middle;">
+<img src="/ICAR_nivedi.png" alt="Graphical Abstract" width="100" style="vertical-align: top;">
 
 # **Whole-genome analysis reveals shared extended-spectrum β-lactamase-producing *Escherichia coli* lineages between migratory sheep and surrounding farm environments**
 
